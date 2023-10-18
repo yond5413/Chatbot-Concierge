@@ -1,0 +1,1 @@
+All these functions are deployed in aws 

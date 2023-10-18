@@ -1,0 +1,1888 @@
+{"index": {"_index": "restaurants", "_id": "1"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "vRrVSB-LegwUwIxpkeRVtQ"}}}
+{"index": {"_index": "restaurants", "_id": "2"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "3Gz07E5YJjDTJPSuzsAStQ"}}}
+{"index": {"_index": "restaurants", "_id": "3"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OFfZUS-nu6NDnsWe1B2bUQ"}}}
+{"index": {"_index": "restaurants", "_id": "4"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "h37t9rA06Sr4EetJjKrfzw"}}}
+{"index": {"_index": "restaurants", "_id": "5"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "klAhw3xLQi9GF1tf_HnS7w"}}}
+{"index": {"_index": "restaurants", "_id": "6"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "MmXZLVwWcYugi_TXSHmjeQ"}}}
+{"index": {"_index": "restaurants", "_id": "7"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ypqK8DWM8Bcs43YveSJnNw"}}}
+{"index": {"_index": "restaurants", "_id": "8"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "WG639VkTjmK5dzydd1BBJA"}}}
+{"index": {"_index": "restaurants", "_id": "9"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "B3_K2kUVbYOU0VaLcj_LTw"}}}
+{"index": {"_index": "restaurants", "_id": "10"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "qY1o1MhoRyN84RRhUJtvpQ"}}}
+{"index": {"_index": "restaurants", "_id": "11"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "nRO136GRieGtxz18uD61DA"}}}
+{"index": {"_index": "restaurants", "_id": "12"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xt4sa64WOrpJvZBDPNPNYg"}}}
+{"index": {"_index": "restaurants", "_id": "13"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "WJS06XxRdc6DD1s4LWE9HA"}}}
+{"index": {"_index": "restaurants", "_id": "14"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "MphfKkYFEe0BDQ6hZ0A5fA"}}}
+{"index": {"_index": "restaurants", "_id": "15"}}
+{"Item": {"Type": {"S": "Brazilian"}, "BusinessID": {"S": "7B2XMvV5uGuKyl19-HTSvg"}}}
+{"index": {"_index": "restaurants", "_id": "16"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "EKkHfSYTm266-ZBve3SdgA"}}}
+{"index": {"_index": "restaurants", "_id": "17"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "DZaN3bNWfwcm__sNw5bvDg"}}}
+{"index": {"_index": "restaurants", "_id": "18"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "1DfbZ0VsSCg9g1KILmnvzQ"}}}
+{"index": {"_index": "restaurants", "_id": "19"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "dc3hkLkAqCSxDWQzrx-g9A"}}}
+{"index": {"_index": "restaurants", "_id": "20"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "LkV96_buOU_n0br4SBO57w"}}}
+{"index": {"_index": "restaurants", "_id": "21"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "44SY464xDHbvOcjDzRbKkQ"}}}
+{"index": {"_index": "restaurants", "_id": "22"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IOHaEgK1zDvUvB3SfKuGCw"}}}
+{"index": {"_index": "restaurants", "_id": "23"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "b8a-8u_A51v2IzyjLVsx6w"}}}
+{"index": {"_index": "restaurants", "_id": "24"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "f4QBa0khsF9Ut99Tc9IMIA"}}}
+{"index": {"_index": "restaurants", "_id": "25"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "x0k5kFArHLijdY8-NEQ7Xg"}}}
+{"index": {"_index": "restaurants", "_id": "26"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "VoAuIReq_cPUrFwxbWqG_Q"}}}
+{"index": {"_index": "restaurants", "_id": "27"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "LQHegfNHe7ylY3bocrFlpg"}}}
+{"index": {"_index": "restaurants", "_id": "28"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nU4XBdvxDABXqZ6CnB8Dig"}}}
+{"index": {"_index": "restaurants", "_id": "29"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "fVbUVAiLiGgLA_nxBFxyww"}}}
+{"index": {"_index": "restaurants", "_id": "30"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "ETgJqJHV7BW6pIr9Ox74sA"}}}
+{"index": {"_index": "restaurants", "_id": "31"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "jjJc_CrkB2HodEinB6cWww"}}}
+{"index": {"_index": "restaurants", "_id": "32"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kB-lmHs7yNwLIlQyp0kMmQ"}}}
+{"index": {"_index": "restaurants", "_id": "33"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "pDwhlX9jNBGnjvyGR9jYWQ"}}}
+{"index": {"_index": "restaurants", "_id": "34"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "C-8mGN7lt5rIraO5n-15ug"}}}
+{"index": {"_index": "restaurants", "_id": "35"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "h8XLhVVPoYPYodZqQOjRMw"}}}
+{"index": {"_index": "restaurants", "_id": "36"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "z1OgXX3L9Ipl2mu-Hf4ADw"}}}
+{"index": {"_index": "restaurants", "_id": "37"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "j1S3NUrkB3BVT49n_e76NQ"}}}
+{"index": {"_index": "restaurants", "_id": "38"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Pr-q47vsmM4aoc2t_Sfk8w"}}}
+{"index": {"_index": "restaurants", "_id": "39"}}
+{"Item": {"Type": {"S": "Caribbean"}, "BusinessID": {"S": "Er9SlDRdxit2qVHwfg-lsw"}}}
+{"index": {"_index": "restaurants", "_id": "40"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "_gzXNKarTxagBp6_PkmQKw"}}}
+{"index": {"_index": "restaurants", "_id": "41"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "PBUIaPtgnhmdHE3KHglK-g"}}}
+{"index": {"_index": "restaurants", "_id": "42"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "unWoFZeSWa0DK1YMekO_Uw"}}}
+{"index": {"_index": "restaurants", "_id": "43"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "pfmAcS-g6SiNG0KlLvrqnA"}}}
+{"index": {"_index": "restaurants", "_id": "44"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "cTE0e96GYzet799EJeStoQ"}}}
+{"index": {"_index": "restaurants", "_id": "45"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "DoSU8IPq-Py_YV3kYmXPfQ"}}}
+{"index": {"_index": "restaurants", "_id": "46"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "-XYp6w50XbZfS90YddS5ew"}}}
+{"index": {"_index": "restaurants", "_id": "47"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "XsElXaLxUPKquI78poB8yw"}}}
+{"index": {"_index": "restaurants", "_id": "48"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "Xjswj531-FkRZPpcccU6kQ"}}}
+{"index": {"_index": "restaurants", "_id": "49"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Xk3BVvlX-KXh6kJhbClMKw"}}}
+{"index": {"_index": "restaurants", "_id": "50"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "6lUsFj0KCao678o9L7QwUw"}}}
+{"index": {"_index": "restaurants", "_id": "51"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "al9HKZ3kCJipAJW4uxzj4A"}}}
+{"index": {"_index": "restaurants", "_id": "52"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VmdyRRMtUXOWV7F7w0ImwQ"}}}
+{"index": {"_index": "restaurants", "_id": "53"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "UA2M9QFZghe-9th2KwLoWQ"}}}
+{"index": {"_index": "restaurants", "_id": "54"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "YtXl15Nv7TZvV3yIqbZc8A"}}}
+{"index": {"_index": "restaurants", "_id": "55"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "a0IET3_yCFcO36OqGSsisg"}}}
+{"index": {"_index": "restaurants", "_id": "56"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "pBNMZp_tKCAfRNx7-ybcHQ"}}}
+{"index": {"_index": "restaurants", "_id": "57"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xEnNFXtMLDF5kZDxfaCJgA"}}}
+{"index": {"_index": "restaurants", "_id": "58"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "z7H9ApIGopnDnQaglnPTzg"}}}
+{"index": {"_index": "restaurants", "_id": "59"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "SxKvgnkMMZdhBJcxxKQnww"}}}
+{"index": {"_index": "restaurants", "_id": "60"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ZOa13veZkzGjA-x3kMfOmA"}}}
+{"index": {"_index": "restaurants", "_id": "61"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oTL_nPII6x0HfPVpEQklUg"}}}
+{"index": {"_index": "restaurants", "_id": "62"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qm1J_dPA5IHij1oAnoZwHw"}}}
+{"index": {"_index": "restaurants", "_id": "63"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "fVsH6QIJPzXpVbgmeiolsA"}}}
+{"index": {"_index": "restaurants", "_id": "64"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "bVkjBJlAIwKAj9Aw1KVWjA"}}}
+{"index": {"_index": "restaurants", "_id": "65"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xkvv0n7jbl4Ra3Vm_jfxaA"}}}
+{"index": {"_index": "restaurants", "_id": "66"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "U5hCNNyJmb7f3dmC1HTzSQ"}}}
+{"index": {"_index": "restaurants", "_id": "67"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "NbKATjp2MoQ4TvKKwu9fdA"}}}
+{"index": {"_index": "restaurants", "_id": "68"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "FizBsTIAJwNrImIG1mPDcg"}}}
+{"index": {"_index": "restaurants", "_id": "69"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OgM6WwztLVavBQBmb_g5aw"}}}
+{"index": {"_index": "restaurants", "_id": "70"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1LIptXhtDh58vAA-QPFL4w"}}}
+{"index": {"_index": "restaurants", "_id": "71"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "7iY35991NhQ1AShJZCNZgA"}}}
+{"index": {"_index": "restaurants", "_id": "72"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "WyiTT3VHjzowMnOnUpZ7TQ"}}}
+{"index": {"_index": "restaurants", "_id": "73"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "An1_BlhLJDZomxI91SBv7g"}}}
+{"index": {"_index": "restaurants", "_id": "74"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "H26qMBb0OFNn2xmSTM1Phw"}}}
+{"index": {"_index": "restaurants", "_id": "75"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "7xe5Pd4fvN2vo05FP2XOeg"}}}
+{"index": {"_index": "restaurants", "_id": "76"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "PYcL2z9gHj6-ZTlViT9Nqw"}}}
+{"index": {"_index": "restaurants", "_id": "77"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "diCW3Pj1PTVRSyol_d7cZw"}}}
+{"index": {"_index": "restaurants", "_id": "78"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oSAiyZF-xTqdRkwN5KrV_Q"}}}
+{"index": {"_index": "restaurants", "_id": "79"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "veku2cg2qaV-7MxwhOMBmg"}}}
+{"index": {"_index": "restaurants", "_id": "80"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "5CuYWr0-cE01HxlBu5Ka6g"}}}
+{"index": {"_index": "restaurants", "_id": "81"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "V7lXZKBDzScDeGB8JmnzSA"}}}
+{"index": {"_index": "restaurants", "_id": "82"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KxyH5zvTyXawl17lHjA4SQ"}}}
+{"index": {"_index": "restaurants", "_id": "83"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "f7apP8A_0_KqcGQTK4V2TQ"}}}
+{"index": {"_index": "restaurants", "_id": "84"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "jjDsVuD7KbxnYV4jFnyftA"}}}
+{"index": {"_index": "restaurants", "_id": "85"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "J9UA6rzI5WW_cDGjwDnF5g"}}}
+{"index": {"_index": "restaurants", "_id": "86"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "JLpEKUYAtzBRQwsUL3RPIA"}}}
+{"index": {"_index": "restaurants", "_id": "87"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "KcOeFHAojaRDV-DxQJkfPA"}}}
+{"index": {"_index": "restaurants", "_id": "88"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "TcuWyuZAORVnQBPCMNbTgw"}}}
+{"index": {"_index": "restaurants", "_id": "89"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KXD44wWmrGf7mzyyr0bikw"}}}
+{"index": {"_index": "restaurants", "_id": "90"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vGS5X12NYXCl8NpynlxRuw"}}}
+{"index": {"_index": "restaurants", "_id": "91"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "e5wK3I_THzF4Ce_OgoSCQw"}}}
+{"index": {"_index": "restaurants", "_id": "92"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "0IFDnYf3bhqxJR6hVrG7Gw"}}}
+{"index": {"_index": "restaurants", "_id": "93"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CuwHhq1MKX5hm8YyxtqukQ"}}}
+{"index": {"_index": "restaurants", "_id": "94"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "dMhRafXdr765DHe0k-QfaQ"}}}
+{"index": {"_index": "restaurants", "_id": "95"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "_0WFGjXuenlBixOlbSlGeQ"}}}
+{"index": {"_index": "restaurants", "_id": "96"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8SehQovJOuQDLbtzLLYLyw"}}}
+{"index": {"_index": "restaurants", "_id": "97"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "B55Ocx5RBWxo6AGSucYSIA"}}}
+{"index": {"_index": "restaurants", "_id": "98"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "FeSynfcDT4qB2kDixHUQCA"}}}
+{"index": {"_index": "restaurants", "_id": "99"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "FZpm4_fbd6P984foOUejWg"}}}
+{"index": {"_index": "restaurants", "_id": "100"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oLA02lMIfgvbYquvXzkARw"}}}
+{"index": {"_index": "restaurants", "_id": "101"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "zR92VSkXj1rt5KTJ15bkAw"}}}
+{"index": {"_index": "restaurants", "_id": "102"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "IjQ2yGUKkvP0JIldT9vRFQ"}}}
+{"index": {"_index": "restaurants", "_id": "103"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Cg5kGSXIelsKX9eqlHr31A"}}}
+{"index": {"_index": "restaurants", "_id": "104"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "DRitJoNGTkHXZvH_YpLIAw"}}}
+{"index": {"_index": "restaurants", "_id": "105"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "7ZecxKox2SiVtsNDWphJZQ"}}}
+{"index": {"_index": "restaurants", "_id": "106"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "z0lX40tXQxOHlU26VhLATA"}}}
+{"index": {"_index": "restaurants", "_id": "107"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "4Jp0wdJXLpmgCwWv6o6YEQ"}}}
+{"index": {"_index": "restaurants", "_id": "108"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "X8yEmEDD9ZTkHoIRFqzcRw"}}}
+{"index": {"_index": "restaurants", "_id": "109"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "wx5XkAsviabyZdQma64Fyw"}}}
+{"index": {"_index": "restaurants", "_id": "110"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jc7lVTvmYMIK5RNpENtS6w"}}}
+{"index": {"_index": "restaurants", "_id": "111"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "NAlOPUbFQVE0bUu8_wmBLQ"}}}
+{"index": {"_index": "restaurants", "_id": "112"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "RqCMsa0IuHWhML0BEjW8_w"}}}
+{"index": {"_index": "restaurants", "_id": "113"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "XzUW9MvEGOFs9_aNj11j2Q"}}}
+{"index": {"_index": "restaurants", "_id": "114"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "DdoubmNfPNRi9xNmcQ64ug"}}}
+{"index": {"_index": "restaurants", "_id": "115"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "Ms1p17KsYteDlkvHnllC2g"}}}
+{"index": {"_index": "restaurants", "_id": "116"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "k2sHdf6WeY22pK3hs6mtqA"}}}
+{"index": {"_index": "restaurants", "_id": "117"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MGRo61aHFUeRlWhSbTv2NA"}}}
+{"index": {"_index": "restaurants", "_id": "118"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "dS9rQ7SvIGngPE4y2xkSKw"}}}
+{"index": {"_index": "restaurants", "_id": "119"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "R7EGjHWw0tNheY6-ahH8fQ"}}}
+{"index": {"_index": "restaurants", "_id": "120"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Vc7JEi0Hj6XYfSMFEUMKGg"}}}
+{"index": {"_index": "restaurants", "_id": "121"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "7EaiwMVaNdQibSs0yYkE5Q"}}}
+{"index": {"_index": "restaurants", "_id": "122"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hKdvsbuQRtjajWYwjaoOQw"}}}
+{"index": {"_index": "restaurants", "_id": "123"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "NlmP5x_Ykznd55Dc85ChUg"}}}
+{"index": {"_index": "restaurants", "_id": "124"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "s-b1Mn_Gzkftz2MCjZ3lwg"}}}
+{"index": {"_index": "restaurants", "_id": "125"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "Me4TxTbPPQZQopW1wOGx5g"}}}
+{"index": {"_index": "restaurants", "_id": "126"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vscYK65F_MUH8WqACKSdog"}}}
+{"index": {"_index": "restaurants", "_id": "127"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Nbqzy3ea5_x2zXWkdWlUIQ"}}}
+{"index": {"_index": "restaurants", "_id": "128"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jnEv25Y2DosTq2sNnvmC9g"}}}
+{"index": {"_index": "restaurants", "_id": "129"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "zOmgO8Di9Ui2bQHqSarUKg"}}}
+{"index": {"_index": "restaurants", "_id": "130"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "SmLFW1Ncg26KfVRVX3GVFQ"}}}
+{"index": {"_index": "restaurants", "_id": "131"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "ieXKc6S3WlEiVkyxgaF9Ig"}}}
+{"index": {"_index": "restaurants", "_id": "132"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "__EvomQ2tE1NtkWn32WEXg"}}}
+{"index": {"_index": "restaurants", "_id": "133"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "GjEE8vvjqb7eeHA3BGNxAw"}}}
+{"index": {"_index": "restaurants", "_id": "134"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "W5RSIwNKBa7k0jeAs5KDYg"}}}
+{"index": {"_index": "restaurants", "_id": "135"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "XEugUtbw4rRmGr9S1XA-aQ"}}}
+{"index": {"_index": "restaurants", "_id": "136"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WqjqHMozyW42XLTtLnKGag"}}}
+{"index": {"_index": "restaurants", "_id": "137"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "eTR6nfHvQzvKX7Dcd6JrfA"}}}
+{"index": {"_index": "restaurants", "_id": "138"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "xTWpl9DgIkkr5B8h8_xUpA"}}}
+{"index": {"_index": "restaurants", "_id": "139"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "H4jJ7XB3CetIr1pg56CczQ"}}}
+{"index": {"_index": "restaurants", "_id": "140"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "KIIYvTOc0Uv90aUHEGvoSg"}}}
+{"index": {"_index": "restaurants", "_id": "141"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "hDgpiXE5_d4Is1sJ5kUBQg"}}}
+{"index": {"_index": "restaurants", "_id": "142"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wyjtGsW5NeVDknGQWnIPAQ"}}}
+{"index": {"_index": "restaurants", "_id": "143"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "iTj5T_jPYvznd1QTgs7NZw"}}}
+{"index": {"_index": "restaurants", "_id": "144"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "r-EDS_eO70HUgDmOk5_8Qw"}}}
+{"index": {"_index": "restaurants", "_id": "145"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "eQ4QUGvuHGBzsOrphsVc6A"}}}
+{"index": {"_index": "restaurants", "_id": "146"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "Au1AcsukhrbUfn6oit8tZw"}}}
+{"index": {"_index": "restaurants", "_id": "147"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "9o4y3IqpFDaj8FddJ6oi2A"}}}
+{"index": {"_index": "restaurants", "_id": "148"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Jyf4SNiBoU11dp28cGBoqA"}}}
+{"index": {"_index": "restaurants", "_id": "149"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "MOwB9YYd-Ko6nVgSB-ltQw"}}}
+{"index": {"_index": "restaurants", "_id": "150"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "mIbmzqQ473BUF8cngXXs_Q"}}}
+{"index": {"_index": "restaurants", "_id": "151"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "I6optu9x0JAf8oT5lqJ8qw"}}}
+{"index": {"_index": "restaurants", "_id": "152"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "0vg2Z-HPwkyVVX613j2ysg"}}}
+{"index": {"_index": "restaurants", "_id": "153"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "mi3r8tPY-nHGfsl-9BGmBw"}}}
+{"index": {"_index": "restaurants", "_id": "154"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VuR3lhMA80aH42jrBM_C8A"}}}
+{"index": {"_index": "restaurants", "_id": "155"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "H87m0azdhuw5uo6Y166uUg"}}}
+{"index": {"_index": "restaurants", "_id": "156"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CfWe636m2CAUg4FAdl_zVQ"}}}
+{"index": {"_index": "restaurants", "_id": "157"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "PqqnNrUtU7XTKQvUM4cyqQ"}}}
+{"index": {"_index": "restaurants", "_id": "158"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WHRHK3S1mQc3PmhwsGRvbw"}}}
+{"index": {"_index": "restaurants", "_id": "159"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ikb5lhHmb2xndNZM-jr_Mw"}}}
+{"index": {"_index": "restaurants", "_id": "160"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "g5f6p9jfzB30Mhcu6d5OWA"}}}
+{"index": {"_index": "restaurants", "_id": "161"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Zp-K3ztVTzR-LrWwl_CBgA"}}}
+{"index": {"_index": "restaurants", "_id": "162"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KEEXuHCYhsQJ-zpJhu98bA"}}}
+{"index": {"_index": "restaurants", "_id": "163"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "W4hobe10Fy54MKqmLaObEg"}}}
+{"index": {"_index": "restaurants", "_id": "164"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Z65cd3Z7JvwK8TnSVg-cfA"}}}
+{"index": {"_index": "restaurants", "_id": "165"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "rZIMlQ76I0mXL8uNii_wVg"}}}
+{"index": {"_index": "restaurants", "_id": "166"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Ve6GVzzJpR5QIIPdcn6ViQ"}}}
+{"index": {"_index": "restaurants", "_id": "167"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "l7G5tDA96xbA_bx1ZgkOeg"}}}
+{"index": {"_index": "restaurants", "_id": "168"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "0ASfmKBIeJlTO6IzES6rzw"}}}
+{"index": {"_index": "restaurants", "_id": "169"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "F0MuzanyO6YEen8VtP5LOg"}}}
+{"index": {"_index": "restaurants", "_id": "170"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "icpLRhJ1jpBX1zBGkt7Xqg"}}}
+{"index": {"_index": "restaurants", "_id": "171"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jNRT5vY1Hvp5WDTaHy4Mhw"}}}
+{"index": {"_index": "restaurants", "_id": "172"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OqNmzS2N2I750zYgUC6IgA"}}}
+{"index": {"_index": "restaurants", "_id": "173"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kctef59qqlzJNqAc1ZGEvg"}}}
+{"index": {"_index": "restaurants", "_id": "174"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "V3USzFEGhuoXez4G2Rk11A"}}}
+{"index": {"_index": "restaurants", "_id": "175"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "ogCC-lJJYnwXDvKGmKZ6Sw"}}}
+{"index": {"_index": "restaurants", "_id": "176"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VrCCr45dhN-RRM107iptdg"}}}
+{"index": {"_index": "restaurants", "_id": "177"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "7Bb_IDWV_zJqpBjAvxuBIA"}}}
+{"index": {"_index": "restaurants", "_id": "178"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "OD4um1mrqmeInzIDNNsF9g"}}}
+{"index": {"_index": "restaurants", "_id": "179"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "SMrj71bWo1lomSbU8wXgyw"}}}
+{"index": {"_index": "restaurants", "_id": "180"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vRqj40pRwz0OHHRVgOdgRg"}}}
+{"index": {"_index": "restaurants", "_id": "181"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "CsdS-L70jLn-exz34j8h5Q"}}}
+{"index": {"_index": "restaurants", "_id": "182"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "V-FCEicobl5Su-R7EVJQNA"}}}
+{"index": {"_index": "restaurants", "_id": "183"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "MhceeLrM2_3mcKw5EGLY6A"}}}
+{"index": {"_index": "restaurants", "_id": "184"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "5F9kZPnAleDYqCeCyvGJPA"}}}
+{"index": {"_index": "restaurants", "_id": "185"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "K9_vumaLO80LXgoPNJJvRQ"}}}
+{"index": {"_index": "restaurants", "_id": "186"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "m2Zsy2UAkcDf0cRzk2Yoqw"}}}
+{"index": {"_index": "restaurants", "_id": "187"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "CqQ2Og9kf-LhlUWtODalCQ"}}}
+{"index": {"_index": "restaurants", "_id": "188"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "JION8hhg7q6zyayHYwhxIw"}}}
+{"index": {"_index": "restaurants", "_id": "189"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "26emJlm1YMFyOCezfgVk4g"}}}
+{"index": {"_index": "restaurants", "_id": "190"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "7cjT33LfYSk7vrRdEaSr4w"}}}
+{"index": {"_index": "restaurants", "_id": "191"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KoGN70ndDHkJmMXiDCBS3A"}}}
+{"index": {"_index": "restaurants", "_id": "192"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "LXdblKc5g1Dp17xiV-Am1w"}}}
+{"index": {"_index": "restaurants", "_id": "193"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wfhMIiMh2A2psCGONOVSlg"}}}
+{"index": {"_index": "restaurants", "_id": "194"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "tRIHhPKryUZ56SfIz6mLiA"}}}
+{"index": {"_index": "restaurants", "_id": "195"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "6Ct7OeTRn4caY9g0swFBsw"}}}
+{"index": {"_index": "restaurants", "_id": "196"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "pk89jzL1RsE9U0thf_z6tw"}}}
+{"index": {"_index": "restaurants", "_id": "197"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "DeiVNRCo4kw5XUsHbXFkUg"}}}
+{"index": {"_index": "restaurants", "_id": "198"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "T-ciFE0hc6O2JDY8Y1cDgg"}}}
+{"index": {"_index": "restaurants", "_id": "199"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "zTK8reqKrmV7U71YVHYYjg"}}}
+{"index": {"_index": "restaurants", "_id": "200"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "faukkggAc_tuJ4THYlf4fg"}}}
+{"index": {"_index": "restaurants", "_id": "201"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "csVEpHy5KJoFvM1qp5XwLQ"}}}
+{"index": {"_index": "restaurants", "_id": "202"}}
+{"Item": {"Type": {"S": "Cajun/Creole"}, "BusinessID": {"S": "3xTQT7qjZJIxc-eBiFMerQ"}}}
+{"index": {"_index": "restaurants", "_id": "203"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "gXnC_aZR09BvqEQKGKFjBg"}}}
+{"index": {"_index": "restaurants", "_id": "204"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "AT12PEBFRWFox6l2tr7w4w"}}}
+{"index": {"_index": "restaurants", "_id": "205"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "wtfEOjfOWVuugf-SuCC5yA"}}}
+{"index": {"_index": "restaurants", "_id": "206"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "0BzxIsoRuFvxbMPl-iH70A"}}}
+{"index": {"_index": "restaurants", "_id": "207"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "MaoCNdHni6MLjM9iYQqHcg"}}}
+{"index": {"_index": "restaurants", "_id": "208"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Xu8H24NxJJxEE-9wGp_AMA"}}}
+{"index": {"_index": "restaurants", "_id": "209"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "ZjU9qd-RR55cEEKufmdN5Q"}}}
+{"index": {"_index": "restaurants", "_id": "210"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "AIKjw2QLvVNdha3TciJYzg"}}}
+{"index": {"_index": "restaurants", "_id": "211"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "K_nsaXmlsyg0I8PoIjPXrA"}}}
+{"index": {"_index": "restaurants", "_id": "212"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "EDucGBSfQ0YIbxdHS-KnCg"}}}
+{"index": {"_index": "restaurants", "_id": "213"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "LT0yyLNM84EiJj9DL0rfHA"}}}
+{"index": {"_index": "restaurants", "_id": "214"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "CcxreLJbZsO6Z775-hMWpw"}}}
+{"index": {"_index": "restaurants", "_id": "215"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "T-RXDLq_VEv7s1_SooYIYQ"}}}
+{"index": {"_index": "restaurants", "_id": "216"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "210LxcDl5dXlYOMlIUmEFQ"}}}
+{"index": {"_index": "restaurants", "_id": "217"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "eoz2NahxyivVRs8Ll9Ljjg"}}}
+{"index": {"_index": "restaurants", "_id": "218"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "y6XohzcYjUAQOD8U3NT_yw"}}}
+{"index": {"_index": "restaurants", "_id": "219"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "yB4ziqFM_7V8JxJas7CHfA"}}}
+{"index": {"_index": "restaurants", "_id": "220"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ga6sRtE0l85iftw_5-W84Q"}}}
+{"index": {"_index": "restaurants", "_id": "221"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "GuzlMBKNoClNx5I1-x-DDg"}}}
+{"index": {"_index": "restaurants", "_id": "222"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "s5N-w7EPY3DA68id5qycyA"}}}
+{"index": {"_index": "restaurants", "_id": "223"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "qhyll2gPT-gGDRP6JGn1aQ"}}}
+{"index": {"_index": "restaurants", "_id": "224"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PnGSE8JGbMZKtdHi9go7Kg"}}}
+{"index": {"_index": "restaurants", "_id": "225"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "BxNs9d8rEW3Tls-nVdmIgA"}}}
+{"index": {"_index": "restaurants", "_id": "226"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "rCtsqHtOAOjZ7EUQDFRSbA"}}}
+{"index": {"_index": "restaurants", "_id": "227"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "NOh24SMS6k4pzNv8Ds7KDg"}}}
+{"index": {"_index": "restaurants", "_id": "228"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "9b_FvTUgkkUUMyL0nGhFtg"}}}
+{"index": {"_index": "restaurants", "_id": "229"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "LF1QAuvpfX7KGQlg2zMg6Q"}}}
+{"index": {"_index": "restaurants", "_id": "230"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "-J8VuX3wGrYSOBu2G0hMsw"}}}
+{"index": {"_index": "restaurants", "_id": "231"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "2VpurA2lb-q90nmALklNcA"}}}
+{"index": {"_index": "restaurants", "_id": "232"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "EbX_9tqAJs4gW51gZpOB7g"}}}
+{"index": {"_index": "restaurants", "_id": "233"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "6gDUVNZo0E9lxO2DkAhHOQ"}}}
+{"index": {"_index": "restaurants", "_id": "234"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1raNn0l3I4H9PcAJce69Sw"}}}
+{"index": {"_index": "restaurants", "_id": "235"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4Objcs7HXSGuzpb0SOa-Jw"}}}
+{"index": {"_index": "restaurants", "_id": "236"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "RYKGs45OjF-vlb2Ds2Jb_g"}}}
+{"index": {"_index": "restaurants", "_id": "237"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4x_WyIOEdqxk01QH1HxYrw"}}}
+{"index": {"_index": "restaurants", "_id": "238"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "QObHX0yR6zd0WfksRDbJTA"}}}
+{"index": {"_index": "restaurants", "_id": "239"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ryng69yOCoveA68KE6jl-Q"}}}
+{"index": {"_index": "restaurants", "_id": "240"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "zv29TbzPs9-rD5ql0qWw5A"}}}
+{"index": {"_index": "restaurants", "_id": "241"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "jYhbUh1TV7SCfPxjIhVpcg"}}}
+{"index": {"_index": "restaurants", "_id": "242"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "4KzqwQus39gXgrwrDXAjWA"}}}
+{"index": {"_index": "restaurants", "_id": "243"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "DPDznXYX5DBLBASKfxQ-DQ"}}}
+{"index": {"_index": "restaurants", "_id": "244"}}
+{"Item": {"Type": {"S": "Brazilian"}, "BusinessID": {"S": "VnjcxOUuZAeJMiDIU-7hUQ"}}}
+{"index": {"_index": "restaurants", "_id": "245"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QeqhV5xVRCD15ivQiPc2MQ"}}}
+{"index": {"_index": "restaurants", "_id": "246"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "Gc7OVEIs4HodL4hw9U3C3w"}}}
+{"index": {"_index": "restaurants", "_id": "247"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ssGhu4n3emZ9kEPVf371IQ"}}}
+{"index": {"_index": "restaurants", "_id": "248"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "a0AvIH1UnFmqAXhZDEQtrw"}}}
+{"index": {"_index": "restaurants", "_id": "249"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "8PhwiTru5teSaZ8C6hrIww"}}}
+{"index": {"_index": "restaurants", "_id": "250"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "JNkK9xp-hTWxsLrboPWC3Q"}}}
+{"index": {"_index": "restaurants", "_id": "251"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "mVN2G1c5bRtAsNlr2Tbx6Q"}}}
+{"index": {"_index": "restaurants", "_id": "252"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "jnHbdsqlTKlPcmJ8BCP9-g"}}}
+{"index": {"_index": "restaurants", "_id": "253"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "h4VCnZ2aZ33mdenS_ZI7jQ"}}}
+{"index": {"_index": "restaurants", "_id": "254"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "TGP5gbAgml0IDRLGCpFnCw"}}}
+{"index": {"_index": "restaurants", "_id": "255"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "L3L6xDdrS8c67BLZROg79A"}}}
+{"index": {"_index": "restaurants", "_id": "256"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8bIXIStb1SVu1sXYfcMH5g"}}}
+{"index": {"_index": "restaurants", "_id": "257"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "oB2cpcZNyjDklNqZN0n8hg"}}}
+{"index": {"_index": "restaurants", "_id": "258"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "LnMRZhKtOrW1eL04FiPYTg"}}}
+{"index": {"_index": "restaurants", "_id": "259"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "j0Q-yyxS2WiL3foCJEV4eg"}}}
+{"index": {"_index": "restaurants", "_id": "260"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "6eqrk1wCQMww_ejze5gvsg"}}}
+{"index": {"_index": "restaurants", "_id": "261"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "_IkMfWpOkQXRZtJAYJUJIw"}}}
+{"index": {"_index": "restaurants", "_id": "262"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "Wx6lMnEh7dCmX-9PQF1Ifw"}}}
+{"index": {"_index": "restaurants", "_id": "263"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6hKJePanmG9AxK4dfwgyyg"}}}
+{"index": {"_index": "restaurants", "_id": "264"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8Oo2AtQEPDfxIOnA8wfXoQ"}}}
+{"index": {"_index": "restaurants", "_id": "265"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "orYWYTk6kNK1YODsADk_tg"}}}
+{"index": {"_index": "restaurants", "_id": "266"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "2wQsfQkorp9L03vPEFAZJw"}}}
+{"index": {"_index": "restaurants", "_id": "267"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "Tp3MF3DNXuW41A10PQ2nFw"}}}
+{"index": {"_index": "restaurants", "_id": "268"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "432F7ulSgnm1fNyefqgrNw"}}}
+{"index": {"_index": "restaurants", "_id": "269"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "R-biStUvl2zuhIQFk40GsQ"}}}
+{"index": {"_index": "restaurants", "_id": "270"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "9HD5HQiTkURkx5i7hL92EA"}}}
+{"index": {"_index": "restaurants", "_id": "271"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "m9zYRZFubncaWsQFIfNo5g"}}}
+{"index": {"_index": "restaurants", "_id": "272"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "iPc-zPgcpgeSo76xl5Jbpw"}}}
+{"index": {"_index": "restaurants", "_id": "273"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "zuB6VRXwj3QzTh9x-nQIRQ"}}}
+{"index": {"_index": "restaurants", "_id": "274"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "c3D2ckzacnPtdGIM8tb-_w"}}}
+{"index": {"_index": "restaurants", "_id": "275"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "HpxYBu1ARzOGvuUcLJe54g"}}}
+{"index": {"_index": "restaurants", "_id": "276"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "FaR-Kv-0ZzgcqFW1sCnacw"}}}
+{"index": {"_index": "restaurants", "_id": "277"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "owYYuyLvlsdjLz68c3SSfg"}}}
+{"index": {"_index": "restaurants", "_id": "278"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "js7pXIr0lGoTd_6HPMPckg"}}}
+{"index": {"_index": "restaurants", "_id": "279"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "KEBKGGGkDhnuYdKrjzZblw"}}}
+{"index": {"_index": "restaurants", "_id": "280"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fqHACybQl1vlATXaIwnLqQ"}}}
+{"index": {"_index": "restaurants", "_id": "281"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "pNe8ZCkGTe4cXfKdOF7kYQ"}}}
+{"index": {"_index": "restaurants", "_id": "282"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "uYLIo8FCr9Ug5SFORDdsPA"}}}
+{"index": {"_index": "restaurants", "_id": "283"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "j3HLOkrjzBjcvYPiIHua1A"}}}
+{"index": {"_index": "restaurants", "_id": "284"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "q0hMNf-YhfDMFQyUQdsIJg"}}}
+{"index": {"_index": "restaurants", "_id": "285"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "qIOAlXCCYrwN0VxEEH-Tmw"}}}
+{"index": {"_index": "restaurants", "_id": "286"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "mTWlEiCUEBlxBAkIikkB1A"}}}
+{"index": {"_index": "restaurants", "_id": "287"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VMugGjWqmOfCXnYv_7aFWw"}}}
+{"index": {"_index": "restaurants", "_id": "288"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "egDEaHpDumYHzRUZ8JBU-w"}}}
+{"index": {"_index": "restaurants", "_id": "289"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "XAltgdIxnXF3iaNgWhb5ZA"}}}
+{"index": {"_index": "restaurants", "_id": "290"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "0y6eQXDw2RDLuBwkY02xGA"}}}
+{"index": {"_index": "restaurants", "_id": "291"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6YehBdKHcLDsvaewhcEjFQ"}}}
+{"index": {"_index": "restaurants", "_id": "292"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "kjItczuC-FQa-nECT9VF8A"}}}
+{"index": {"_index": "restaurants", "_id": "293"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "8tcFpd0dcmfzbLgbTO4tdw"}}}
+{"index": {"_index": "restaurants", "_id": "294"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "rKeLuHDI3PQZsPSVCEMHtw"}}}
+{"index": {"_index": "restaurants", "_id": "295"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "vk7W3_sQwr7eZbRFsXv6rw"}}}
+{"index": {"_index": "restaurants", "_id": "296"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "pC_QwLpeL2Enk4hBgDcRqQ"}}}
+{"index": {"_index": "restaurants", "_id": "297"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "_F29-1dkiBmDPSaKQ9_O0Q"}}}
+{"index": {"_index": "restaurants", "_id": "298"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "9bAyxRD6RsGEUQw424ovQA"}}}
+{"index": {"_index": "restaurants", "_id": "299"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "MoyxzhaYIsJx-p9IuGGK4w"}}}
+{"index": {"_index": "restaurants", "_id": "300"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "xGNzAsakHgbbl9fwgSoiUg"}}}
+{"index": {"_index": "restaurants", "_id": "301"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ojbH3wnRu050hRhkmoxRiA"}}}
+{"index": {"_index": "restaurants", "_id": "302"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "RemvTpxalDjSew5HwmNzUQ"}}}
+{"index": {"_index": "restaurants", "_id": "303"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "bTyyPU8A4pz9dieLSZPMdA"}}}
+{"index": {"_index": "restaurants", "_id": "304"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "nBy8KtcUHktPFKw-VClG1A"}}}
+{"index": {"_index": "restaurants", "_id": "305"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "BKMCAYb9EAivUm3p-vrC9w"}}}
+{"index": {"_index": "restaurants", "_id": "306"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "rFeNJtqgMWf2tWy-RB6jgg"}}}
+{"index": {"_index": "restaurants", "_id": "307"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "FJepPR5CYRggxRwAjlqg6A"}}}
+{"index": {"_index": "restaurants", "_id": "308"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "t6PzD4uzBOfyCLcd_lT8cQ"}}}
+{"index": {"_index": "restaurants", "_id": "309"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "i6CpYdmMYoz712bRWTWVgQ"}}}
+{"index": {"_index": "restaurants", "_id": "310"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "dEbI8l8o9mevbRdjANzsng"}}}
+{"index": {"_index": "restaurants", "_id": "311"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "kz9YaFCE1sGJ4CpLDKBIjQ"}}}
+{"index": {"_index": "restaurants", "_id": "312"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "-lgNzAEyFr8LCTuBTWnAMg"}}}
+{"index": {"_index": "restaurants", "_id": "313"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "6Z5OWpaeGGazJHR4LfThsw"}}}
+{"index": {"_index": "restaurants", "_id": "314"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "j8cKSxr6aQ8qTx23FLyyiA"}}}
+{"index": {"_index": "restaurants", "_id": "315"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "4TQMO6AaKSXHMbKvGAf-gg"}}}
+{"index": {"_index": "restaurants", "_id": "316"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "qBGKigOGn_flCx1apxPzlA"}}}
+{"index": {"_index": "restaurants", "_id": "317"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fgtw4swOHXEFwZpBCG05rQ"}}}
+{"index": {"_index": "restaurants", "_id": "318"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "NZaq_ygLr4N8-blY5dGx-g"}}}
+{"index": {"_index": "restaurants", "_id": "319"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "lEH8EUPX3Zn_trHauIycYw"}}}
+{"index": {"_index": "restaurants", "_id": "320"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nD7Hcq5aaCASbWzc0-Sg3A"}}}
+{"index": {"_index": "restaurants", "_id": "321"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "lWOkeS-wV4no8qqA9OwwEg"}}}
+{"index": {"_index": "restaurants", "_id": "322"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "yGpPYyu3s8iVNuO0ktqsDw"}}}
+{"index": {"_index": "restaurants", "_id": "323"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "ynR4-QgEOsE7VhNfIWo73w"}}}
+{"index": {"_index": "restaurants", "_id": "324"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "NTwOc9yQ1xl5deeVzZqxfw"}}}
+{"index": {"_index": "restaurants", "_id": "325"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "sBL7J7s4Rnul40-MB0hXbA"}}}
+{"index": {"_index": "restaurants", "_id": "326"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "pZWhRtCJvTuwWoavaiCQrA"}}}
+{"index": {"_index": "restaurants", "_id": "327"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "_FAh31lob7Dnn4iGiLIwng"}}}
+{"index": {"_index": "restaurants", "_id": "328"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4hukJNoy9F2ILYJZWl4Xlw"}}}
+{"index": {"_index": "restaurants", "_id": "329"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "P2CTp4xyaNCe2AXSiLeOSQ"}}}
+{"index": {"_index": "restaurants", "_id": "330"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "-Exv1AEsaKU6Cdb2TO_ZUg"}}}
+{"index": {"_index": "restaurants", "_id": "331"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oczaVdQ3NRSKJpNo-4undg"}}}
+{"index": {"_index": "restaurants", "_id": "332"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "9pMhRYYgV7E9L7pzECtJKA"}}}
+{"index": {"_index": "restaurants", "_id": "333"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "LF2_slTY37P0Ua8vI4Hr5g"}}}
+{"index": {"_index": "restaurants", "_id": "334"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "PHSsvGDW6Rh2pGWEDTrDew"}}}
+{"index": {"_index": "restaurants", "_id": "335"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "7NqFIuXuRwm6WuuseLxAVw"}}}
+{"index": {"_index": "restaurants", "_id": "336"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "BNaveJmi-OUGKG9sRfrIhA"}}}
+{"index": {"_index": "restaurants", "_id": "337"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "GeoR6dpTUEpdIoyAd68Irg"}}}
+{"index": {"_index": "restaurants", "_id": "338"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wTQYOTh9_JPI2I8s6Xc-Cw"}}}
+{"index": {"_index": "restaurants", "_id": "339"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "rpVX-o82EEOX8ZDnM28a_Q"}}}
+{"index": {"_index": "restaurants", "_id": "340"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "7gZGVdqMch7ls0IGO3DijQ"}}}
+{"index": {"_index": "restaurants", "_id": "341"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fwH7iD4-xY2ABrlZznP8CA"}}}
+{"index": {"_index": "restaurants", "_id": "342"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "YE4pvo8ectzEaRYGqUgFcA"}}}
+{"index": {"_index": "restaurants", "_id": "343"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "uc5qQMzs96rzjK27epDCug"}}}
+{"index": {"_index": "restaurants", "_id": "344"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "-8_vEcBA2Lqd8786S-Ss-g"}}}
+{"index": {"_index": "restaurants", "_id": "345"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "JwCnSW-RQ7_DxvbzWNO1hA"}}}
+{"index": {"_index": "restaurants", "_id": "346"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OLSSJIp8pu5UlugTF7tuHA"}}}
+{"index": {"_index": "restaurants", "_id": "347"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "H1jops1lmuhrq9lP7lEGJQ"}}}
+{"index": {"_index": "restaurants", "_id": "348"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QPEzLkO35OTYijFhs8d7-w"}}}
+{"index": {"_index": "restaurants", "_id": "349"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IiIzeFqe4tJiHaAWyw7ddg"}}}
+{"index": {"_index": "restaurants", "_id": "350"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "9mWw-sK4RjSPYRHQN_S9ZQ"}}}
+{"index": {"_index": "restaurants", "_id": "351"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OFFSpIPqvwOnwdcEq8usvw"}}}
+{"index": {"_index": "restaurants", "_id": "352"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "OFc7aHP1chwqXTgtYtbJzQ"}}}
+{"index": {"_index": "restaurants", "_id": "353"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "m6sYBuozGY1JhnHlBf1Bzg"}}}
+{"index": {"_index": "restaurants", "_id": "354"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "HD0e3eHwv573qHZOJJitWg"}}}
+{"index": {"_index": "restaurants", "_id": "355"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "iexl39DYyy_76Xq3ExaJkQ"}}}
+{"index": {"_index": "restaurants", "_id": "356"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8YWLuLUKj0t_0_Xv06UUtw"}}}
+{"index": {"_index": "restaurants", "_id": "357"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PjjpgjY_sdawJU1JHbyNTQ"}}}
+{"index": {"_index": "restaurants", "_id": "358"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "ExvoimQ4LzY3UWtZ6m6Lgw"}}}
+{"index": {"_index": "restaurants", "_id": "359"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kJExyhre8kocF5gI9y4IDA"}}}
+{"index": {"_index": "restaurants", "_id": "360"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "VtJd1l64kqUUyWacwK0J2Q"}}}
+{"index": {"_index": "restaurants", "_id": "361"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vLsTPg42rkgN5rUpNfg1OA"}}}
+{"index": {"_index": "restaurants", "_id": "362"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "7xV4gzrgaOgQYtPC3FBZig"}}}
+{"index": {"_index": "restaurants", "_id": "363"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "aTFkjo0scqmOgsFF5kuGXg"}}}
+{"index": {"_index": "restaurants", "_id": "364"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "DW5SL9RM-kJnmRyYo4oEqg"}}}
+{"index": {"_index": "restaurants", "_id": "365"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "DJSLGbSqCJ1W8ma3LFlMuw"}}}
+{"index": {"_index": "restaurants", "_id": "366"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "z2VXX7wGl8XZ6_oo9W3koA"}}}
+{"index": {"_index": "restaurants", "_id": "367"}}
+{"Item": {"Type": {"S": "Russian"}, "BusinessID": {"S": "yKOTFgZmTFeas8Pvt077vA"}}}
+{"index": {"_index": "restaurants", "_id": "368"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "AZSC48kTDCRU1CqxdE04Kg"}}}
+{"index": {"_index": "restaurants", "_id": "369"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MTtqSunPEZwdCJFMHsiHzg"}}}
+{"index": {"_index": "restaurants", "_id": "370"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WVsPyl-DGRu0O_rQYdIMVQ"}}}
+{"index": {"_index": "restaurants", "_id": "371"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "iEUXrUUqGfUhpgYYSr5Zig"}}}
+{"index": {"_index": "restaurants", "_id": "372"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "RXCCofQw1EjTcSN0ZeXfRA"}}}
+{"index": {"_index": "restaurants", "_id": "373"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "ZamvzoxEKiJEboO0ZUdogw"}}}
+{"index": {"_index": "restaurants", "_id": "374"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "iQo5aJwTL_ZrXCdPFKq-RA"}}}
+{"index": {"_index": "restaurants", "_id": "375"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Jwb556DrGTEZryeV7XgZmQ"}}}
+{"index": {"_index": "restaurants", "_id": "376"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MJJi_5tGkWYI1VReTjhCCA"}}}
+{"index": {"_index": "restaurants", "_id": "377"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "K144ThGmoIjX6Wh5-_Rn4Q"}}}
+{"index": {"_index": "restaurants", "_id": "378"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "lynQoI3w_pzYfHGeuUU-Qg"}}}
+{"index": {"_index": "restaurants", "_id": "379"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "eGfpa9r0aGtN3V8ZwgaOEw"}}}
+{"index": {"_index": "restaurants", "_id": "380"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "WYhRkUATHRyXZrE55MArbA"}}}
+{"index": {"_index": "restaurants", "_id": "381"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "xzN2k19JXDYjOWAhNw62aw"}}}
+{"index": {"_index": "restaurants", "_id": "382"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CVxz9B5ncpMwVK1bk_c1YA"}}}
+{"index": {"_index": "restaurants", "_id": "383"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "i8ejDDR4COtukAAA1Ls5fw"}}}
+{"index": {"_index": "restaurants", "_id": "384"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "iUEvASoukxI6vrCYWYyK8g"}}}
+{"index": {"_index": "restaurants", "_id": "385"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "ugYhnKrr3Q1TVV15R0EEWQ"}}}
+{"index": {"_index": "restaurants", "_id": "386"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "zUv1BNm_a9-3DkxrCG3tng"}}}
+{"index": {"_index": "restaurants", "_id": "387"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "sBCJYLPNJuagg-aJ3Y_ozQ"}}}
+{"index": {"_index": "restaurants", "_id": "388"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "77llOAEwInvK-oC2AHZ4nQ"}}}
+{"index": {"_index": "restaurants", "_id": "389"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "NT2mKx3_kxO9tpjeP2Sv6Q"}}}
+{"index": {"_index": "restaurants", "_id": "390"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "0ksKKrgHt-6xCCHfTlLcoA"}}}
+{"index": {"_index": "restaurants", "_id": "391"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "StF9WWWbrRzEOmNAcEINcA"}}}
+{"index": {"_index": "restaurants", "_id": "392"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "U0deo-JRQmHrru0uSf6QWA"}}}
+{"index": {"_index": "restaurants", "_id": "393"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "4WDHrSodF1Xidv9ezS6Sgg"}}}
+{"index": {"_index": "restaurants", "_id": "394"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "xrKa2SpgWzPEEbji3Iw2DQ"}}}
+{"index": {"_index": "restaurants", "_id": "395"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "2J3--ZI6CcoYLWSYYVdt7Q"}}}
+{"index": {"_index": "restaurants", "_id": "396"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "BgGz5IdV53bGb4o7opR5zg"}}}
+{"index": {"_index": "restaurants", "_id": "397"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fanlKZzN-fI9LywqQD6EHg"}}}
+{"index": {"_index": "restaurants", "_id": "398"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WZynqsGjqQLc_T8R80_-7g"}}}
+{"index": {"_index": "restaurants", "_id": "399"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "lSKEPxxTYxCN9oi6CXRmcQ"}}}
+{"index": {"_index": "restaurants", "_id": "400"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kaSd6qzlsxn__ILDtGf3iA"}}}
+{"index": {"_index": "restaurants", "_id": "401"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "DiHm4iIAQhqMKfjsrBPvZw"}}}
+{"index": {"_index": "restaurants", "_id": "402"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "abNHO9-xlCsv31gghCUuxw"}}}
+{"index": {"_index": "restaurants", "_id": "403"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "McU7XI3HoWFELTDaGc1SEw"}}}
+{"index": {"_index": "restaurants", "_id": "404"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "croh2zWlbPyCQTNS11klcg"}}}
+{"index": {"_index": "restaurants", "_id": "405"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "7bD22UAtH56ikWYslOSIQg"}}}
+{"index": {"_index": "restaurants", "_id": "406"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xEF3Kvd0yw74pjnlFB2Sgg"}}}
+{"index": {"_index": "restaurants", "_id": "407"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "mXN9tmuDHZIfCeUBYqSRuQ"}}}
+{"index": {"_index": "restaurants", "_id": "408"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nMWqlWid2YfDeutioit_0w"}}}
+{"index": {"_index": "restaurants", "_id": "409"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "jf3JRaxUYU93x8LFU-8gkA"}}}
+{"index": {"_index": "restaurants", "_id": "410"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "A-ert0jDRBfku9ogyW_mEg"}}}
+{"index": {"_index": "restaurants", "_id": "411"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "GKspSLe5U3qkUgQTXfngyQ"}}}
+{"index": {"_index": "restaurants", "_id": "412"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "JSexQM-wn8HvWmfxu_m5ZA"}}}
+{"index": {"_index": "restaurants", "_id": "413"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ePqKbqXFBCbwBaWiN2Jo9w"}}}
+{"index": {"_index": "restaurants", "_id": "414"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xiwnLiNhSlEN4CDcurqsLQ"}}}
+{"index": {"_index": "restaurants", "_id": "415"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OtsLOJ4LbAHQ5UzYZBv58Q"}}}
+{"index": {"_index": "restaurants", "_id": "416"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "SPyN19tjQyRTD-ltN0qNJw"}}}
+{"index": {"_index": "restaurants", "_id": "417"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "bvc5P9vmRiNhyVWjd5bVcg"}}}
+{"index": {"_index": "restaurants", "_id": "418"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xrnk8mgoV7up6fauVmugpw"}}}
+{"index": {"_index": "restaurants", "_id": "419"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "oyxtaqfFZkP_vC0M6GfkbA"}}}
+{"index": {"_index": "restaurants", "_id": "420"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "a-Bq_yXFVk2PptoWpmry3w"}}}
+{"index": {"_index": "restaurants", "_id": "421"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "gZz9A8k8ORC_xl0aHxtY4w"}}}
+{"index": {"_index": "restaurants", "_id": "422"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Bb0h5Rs8ugSM2CjulRhfBw"}}}
+{"index": {"_index": "restaurants", "_id": "423"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "vx2JV9juVzSBRGWHOZCTAQ"}}}
+{"index": {"_index": "restaurants", "_id": "424"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "YSflX6shqcP3zYno0Zz75Q"}}}
+{"index": {"_index": "restaurants", "_id": "425"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "32VbG_XgkZIuye0PV-BxaA"}}}
+{"index": {"_index": "restaurants", "_id": "426"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ct58a_D8Z8DoJt7luB50wQ"}}}
+{"index": {"_index": "restaurants", "_id": "427"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "Hp1ZDTeJOP1NrY2aFtROgQ"}}}
+{"index": {"_index": "restaurants", "_id": "428"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "d79AROdlfw0Zzj5nRpUIxw"}}}
+{"index": {"_index": "restaurants", "_id": "429"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Q1_UvNyONsaVS_VC1mD9Dw"}}}
+{"index": {"_index": "restaurants", "_id": "430"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8HkB3JfIj7_g-MN5ujoRig"}}}
+{"index": {"_index": "restaurants", "_id": "431"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "LZg7F1_HSl3Nmwl54NQtqA"}}}
+{"index": {"_index": "restaurants", "_id": "432"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "hyBM_Xk9Hzp38acTHAHlBQ"}}}
+{"index": {"_index": "restaurants", "_id": "433"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "LjBKkUSpMwrpo99hXgtHYw"}}}
+{"index": {"_index": "restaurants", "_id": "434"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "dh5r9-SbN8xJ76XvnayWLQ"}}}
+{"index": {"_index": "restaurants", "_id": "435"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "K9kL1ice5jlkPXcNyTus3Q"}}}
+{"index": {"_index": "restaurants", "_id": "436"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "XvcRtA3pD6gpICLsdsQVbA"}}}
+{"index": {"_index": "restaurants", "_id": "437"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "M8xnlKQOh0tl58LJCnPUVA"}}}
+{"index": {"_index": "restaurants", "_id": "438"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nF-EOBd_H1fX50iT1EIVZA"}}}
+{"index": {"_index": "restaurants", "_id": "439"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "J3NT61-AH5d5Gu5tFJhYSw"}}}
+{"index": {"_index": "restaurants", "_id": "440"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CDywb3LHVYZlQL2-woTiJA"}}}
+{"index": {"_index": "restaurants", "_id": "441"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "eWMuXtaBzf0H5u0Vf_zpjw"}}}
+{"index": {"_index": "restaurants", "_id": "442"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "b2naaHiaR57Hm6JZG0njPg"}}}
+{"index": {"_index": "restaurants", "_id": "443"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "TZto7AjdA337XIw66AOpUw"}}}
+{"index": {"_index": "restaurants", "_id": "444"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "MCnexHfsclcOpLHS4_2U0A"}}}
+{"index": {"_index": "restaurants", "_id": "445"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xTnivXEdEtXrnhp-z4JGvg"}}}
+{"index": {"_index": "restaurants", "_id": "446"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "IfIyjm4SfORGYPbaAWST3g"}}}
+{"index": {"_index": "restaurants", "_id": "447"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "qhXIW0LDT4XsoN2IE6dZHg"}}}
+{"index": {"_index": "restaurants", "_id": "448"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "NRcffNvufYo2Jul0h24_qw"}}}
+{"index": {"_index": "restaurants", "_id": "449"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "sfsjk1h50ooC2ioY7m48gw"}}}
+{"index": {"_index": "restaurants", "_id": "450"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "cHvd_fnNqbcR4EdyodzGzw"}}}
+{"index": {"_index": "restaurants", "_id": "451"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "dvkQIG20RjgNi-SwRr_1CQ"}}}
+{"index": {"_index": "restaurants", "_id": "452"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "C9BjYm4WyoQFPQUHmBErDg"}}}
+{"index": {"_index": "restaurants", "_id": "453"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "82wA_Vfg_eDckx23d3dA_g"}}}
+{"index": {"_index": "restaurants", "_id": "454"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vlepW-Y_RDQaDMLtEwHWmg"}}}
+{"index": {"_index": "restaurants", "_id": "455"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wpT1QU7PSQgQQ1DkzI00JA"}}}
+{"index": {"_index": "restaurants", "_id": "456"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "aSFBv64GBpMOFPqIleeQFQ"}}}
+{"index": {"_index": "restaurants", "_id": "457"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "lwfCl81r5a0mjxDNxNGC9w"}}}
+{"index": {"_index": "restaurants", "_id": "458"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "txSykTj5nbwmpiVNoK_Dyg"}}}
+{"index": {"_index": "restaurants", "_id": "459"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "RQojRzAYA9Cq87PqwQq5yg"}}}
+{"index": {"_index": "restaurants", "_id": "460"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qLYloGaI-4OmLbNnr_wrGA"}}}
+{"index": {"_index": "restaurants", "_id": "461"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "kn9rgR4KlvyTTi-s76OIaQ"}}}
+{"index": {"_index": "restaurants", "_id": "462"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "BsDu_kup3lJ2QHb-Botpeg"}}}
+{"index": {"_index": "restaurants", "_id": "463"}}
+{"Item": {"Type": {"S": "Cajun/Creole"}, "BusinessID": {"S": "Bjv99EWQdyJUGzAZYQ_WOA"}}}
+{"index": {"_index": "restaurants", "_id": "464"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "ub2VfE7SRLJABAClzGZp3A"}}}
+{"index": {"_index": "restaurants", "_id": "465"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "0GftSP2dRwEzujkv2VKIgA"}}}
+{"index": {"_index": "restaurants", "_id": "466"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "zo4mcEfVKaktdj_gnSFhGQ"}}}
+{"index": {"_index": "restaurants", "_id": "467"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "D2qV8sDdHEFlHbVz7VSHRQ"}}}
+{"index": {"_index": "restaurants", "_id": "468"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "lxHKbp0hReRBPZcq4fUUow"}}}
+{"index": {"_index": "restaurants", "_id": "469"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hKkPlYmHoS9Nb_UbGGqx8A"}}}
+{"index": {"_index": "restaurants", "_id": "470"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "IEb99GmOvg585gmwmm4iNA"}}}
+{"index": {"_index": "restaurants", "_id": "471"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OUp31SPcjK8wkBK_E6h2Gg"}}}
+{"index": {"_index": "restaurants", "_id": "472"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "t0Bel7xLMUt5g8qIpBylZg"}}}
+{"index": {"_index": "restaurants", "_id": "473"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "_QYgfFhomwKBbKWfOKcatw"}}}
+{"index": {"_index": "restaurants", "_id": "474"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "i34wlziIjT8lHgUN1o0ToQ"}}}
+{"index": {"_index": "restaurants", "_id": "475"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "228DO__YwYmliMx6Q5jTtw"}}}
+{"index": {"_index": "restaurants", "_id": "476"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "r7z65v8cnBP0MhGP4oQ0bQ"}}}
+{"index": {"_index": "restaurants", "_id": "477"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WKDdD8Z17-P1XhkyJtDEFA"}}}
+{"index": {"_index": "restaurants", "_id": "478"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "2_oy2iBeT0Rg-oz4f0GF1A"}}}
+{"index": {"_index": "restaurants", "_id": "479"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "JOvcJqD5eCFrGjFa6k7vpQ"}}}
+{"index": {"_index": "restaurants", "_id": "480"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1jAB_uaI8-P_wSqOo2S3KQ"}}}
+{"index": {"_index": "restaurants", "_id": "481"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "iGmQlzlI4g2ky8cogfDpnQ"}}}
+{"index": {"_index": "restaurants", "_id": "482"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "PajKY49h4SpvSr-TW3lwCQ"}}}
+{"index": {"_index": "restaurants", "_id": "483"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PbezejIP9RHrjw-k459iZA"}}}
+{"index": {"_index": "restaurants", "_id": "484"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "06tnwnEQM2j9A6dC3HC_TQ"}}}
+{"index": {"_index": "restaurants", "_id": "485"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "W1pBIFhkjJwjTe2P7o57yg"}}}
+{"index": {"_index": "restaurants", "_id": "486"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "EvAJBgBdgOt1jx1EufRN7w"}}}
+{"index": {"_index": "restaurants", "_id": "487"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "74FFOreAgPphSwSZlfZzgw"}}}
+{"index": {"_index": "restaurants", "_id": "488"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "HuUiXwo2rVKHZDwMeqNfQQ"}}}
+{"index": {"_index": "restaurants", "_id": "489"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "Exb6scc1mLuhsWrMLJqw9g"}}}
+{"index": {"_index": "restaurants", "_id": "490"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Ry04HQ6kNsF1RYTjINDaYw"}}}
+{"index": {"_index": "restaurants", "_id": "491"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "q1uIqB8PvyCCX8TajaRYBg"}}}
+{"index": {"_index": "restaurants", "_id": "492"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Kqb7MjTPNkjPMoFRd-rWpw"}}}
+{"index": {"_index": "restaurants", "_id": "493"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "WRPJeH3goSpj5ke3Pkrnfw"}}}
+{"index": {"_index": "restaurants", "_id": "494"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "fNKYBpQJivICm0ORb3nb_Q"}}}
+{"index": {"_index": "restaurants", "_id": "495"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "d-DQwNxs77Pah2ys0q7w1Q"}}}
+{"index": {"_index": "restaurants", "_id": "496"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "HrdIdeDZBTUdyEdSTPG1zg"}}}
+{"index": {"_index": "restaurants", "_id": "497"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "D9nQb14gqhCAOaUUvJz3-Q"}}}
+{"index": {"_index": "restaurants", "_id": "498"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "K9Ur20N51Li3sAvaV9-6Ng"}}}
+{"index": {"_index": "restaurants", "_id": "499"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "ikkIneKupd7sClxu9nvdzQ"}}}
+{"index": {"_index": "restaurants", "_id": "500"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Z2sNzskjS8Ck0plppRBJIg"}}}
+{"index": {"_index": "restaurants", "_id": "501"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "K_0tNvQd7gyabfJrodf-tw"}}}
+{"index": {"_index": "restaurants", "_id": "502"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Ej-hrhc8HFWfijN4X5akOg"}}}
+{"index": {"_index": "restaurants", "_id": "503"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QVXLgfB4J2j1BjeSgmoXgw"}}}
+{"index": {"_index": "restaurants", "_id": "504"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "UJDb0M1eF4KkxJdCTh67cw"}}}
+{"index": {"_index": "restaurants", "_id": "505"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "xbrQ2dHuQoFJmNxAuOky4A"}}}
+{"index": {"_index": "restaurants", "_id": "506"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "PAJdNrD4HFBN16OAFeDx4A"}}}
+{"index": {"_index": "restaurants", "_id": "507"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "Ti-957LNURM0Gy2CXIbQOw"}}}
+{"index": {"_index": "restaurants", "_id": "508"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "pb_ryc8FYHpUPV56eV2Eyg"}}}
+{"index": {"_index": "restaurants", "_id": "509"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "kS2CP48K66yL2TwIhUqy_A"}}}
+{"index": {"_index": "restaurants", "_id": "510"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "NUdrJYB7GHRuwVVETSDIFQ"}}}
+{"index": {"_index": "restaurants", "_id": "511"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Jy0nQ1uI8KPvTv8nBZGdMg"}}}
+{"index": {"_index": "restaurants", "_id": "512"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Qgv2vyUV-DwK8YwrhU-jtw"}}}
+{"index": {"_index": "restaurants", "_id": "513"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "t7xqAMBQNH4ppsPSOMzFyg"}}}
+{"index": {"_index": "restaurants", "_id": "514"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Brs_MJhAXe60iMnlpeqkKA"}}}
+{"index": {"_index": "restaurants", "_id": "515"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "H8qcX7MNNnC1bqE0LnIhKg"}}}
+{"index": {"_index": "restaurants", "_id": "516"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "V95hnN4N2vw1ph2mDxIA7w"}}}
+{"index": {"_index": "restaurants", "_id": "517"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "KHdYPT0jUnUGdHGaY73mxg"}}}
+{"index": {"_index": "restaurants", "_id": "518"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "u0qfikB-ppp6UwoNKqxlRw"}}}
+{"index": {"_index": "restaurants", "_id": "519"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VACzezINx10UlfXjdz0Iow"}}}
+{"index": {"_index": "restaurants", "_id": "520"}}
+{"Item": {"Type": {"S": "African"}, "BusinessID": {"S": "38Us1YuiJGBI0ps-2pHpmw"}}}
+{"index": {"_index": "restaurants", "_id": "521"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "1p4dUaLyzIhN5n1lJnHSgA"}}}
+{"index": {"_index": "restaurants", "_id": "522"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "2P2yx60T04Te19tkRZE43w"}}}
+{"index": {"_index": "restaurants", "_id": "523"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "36krOhexcsA8Uetoq52A7g"}}}
+{"index": {"_index": "restaurants", "_id": "524"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "7ZQSMqWzvXMSetXnii2fBg"}}}
+{"index": {"_index": "restaurants", "_id": "525"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "dqjko5ndMGayALuhwq3ghQ"}}}
+{"index": {"_index": "restaurants", "_id": "526"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "6aVgixwks8EgirE1JtyDAQ"}}}
+{"index": {"_index": "restaurants", "_id": "527"}}
+{"Item": {"Type": {"S": "Brazilian"}, "BusinessID": {"S": "Hc2MuvFClsTlXr-MivnLzQ"}}}
+{"index": {"_index": "restaurants", "_id": "528"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "ZikqL-flwV2XYlKtL2UfmA"}}}
+{"index": {"_index": "restaurants", "_id": "529"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "objNX6cuj1JyUijFjw21Qw"}}}
+{"index": {"_index": "restaurants", "_id": "530"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "HApdNNztx8Q7VF_9vkoAUA"}}}
+{"index": {"_index": "restaurants", "_id": "531"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "6eVNHrnp67ZniJYLik1qig"}}}
+{"index": {"_index": "restaurants", "_id": "532"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "UXVDyIzmO5kmJnlv-HDXLg"}}}
+{"index": {"_index": "restaurants", "_id": "533"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "m8Ytb_3eYIiWla68Lk2fFA"}}}
+{"index": {"_index": "restaurants", "_id": "534"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "HEs6llkn3wIP1ATXeIZQew"}}}
+{"index": {"_index": "restaurants", "_id": "535"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IGZkGbwE36iE1yaDW5NNKA"}}}
+{"index": {"_index": "restaurants", "_id": "536"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "idxD3X7WfLFPZMoFnCRIQQ"}}}
+{"index": {"_index": "restaurants", "_id": "537"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "psqD5se4A0sv9Zn3PyUlcg"}}}
+{"index": {"_index": "restaurants", "_id": "538"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oBcqZs0CAZjsLuMB-mNJ6A"}}}
+{"index": {"_index": "restaurants", "_id": "539"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "-_4i_FQ1Tt_aMU904O82Ow"}}}
+{"index": {"_index": "restaurants", "_id": "540"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "Ps0cOZevNA1M9M5_z7W3oQ"}}}
+{"index": {"_index": "restaurants", "_id": "541"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "hKDCY-ZXcfPy4Vp8BfWnhw"}}}
+{"index": {"_index": "restaurants", "_id": "542"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "clXeABm-jiPEUypcDIzDIw"}}}
+{"index": {"_index": "restaurants", "_id": "543"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "D-E4HgANyW_PFEOLzTsLvw"}}}
+{"index": {"_index": "restaurants", "_id": "544"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "FST41XVNfiBgJHkutII-3w"}}}
+{"index": {"_index": "restaurants", "_id": "545"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "3qIISjUYn1tbqHXi7nCLXg"}}}
+{"index": {"_index": "restaurants", "_id": "546"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "rp_TaJRjaNmOCb8vJ2S_sw"}}}
+{"index": {"_index": "restaurants", "_id": "547"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "aS8QlNmESvm2ZLsE9D-c3g"}}}
+{"index": {"_index": "restaurants", "_id": "548"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PSnNzN1rrIGM5Oj8Yu20Ew"}}}
+{"index": {"_index": "restaurants", "_id": "549"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "f-sL-VgQzte0StcqI3KkJw"}}}
+{"index": {"_index": "restaurants", "_id": "550"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "_jX0YO1PykUrRKCLo0WxIw"}}}
+{"index": {"_index": "restaurants", "_id": "551"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "38YuedP0ItlKbC-ncJ1XCQ"}}}
+{"index": {"_index": "restaurants", "_id": "552"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "5pRxCYQppSq0czjFDN9X3Q"}}}
+{"index": {"_index": "restaurants", "_id": "553"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "kNOr6_g6QfBHdhf89j3g5w"}}}
+{"index": {"_index": "restaurants", "_id": "554"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "a6SzfZ2F-uELmymusQVMBg"}}}
+{"index": {"_index": "restaurants", "_id": "555"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "kmcgUxWhwlbmC-FAMTEF2g"}}}
+{"index": {"_index": "restaurants", "_id": "556"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "oyxk3hv9F7dGZGARmNDSYg"}}}
+{"index": {"_index": "restaurants", "_id": "557"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xxE4sKeYJAuHdNm7WZlVOg"}}}
+{"index": {"_index": "restaurants", "_id": "558"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Q23LvHPuC9ajSbMEt8xoUw"}}}
+{"index": {"_index": "restaurants", "_id": "559"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "2omGjYIPB0N8oNwws6ZdJA"}}}
+{"index": {"_index": "restaurants", "_id": "560"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "BA6wd1pZTVu1DmrtiyTs8g"}}}
+{"index": {"_index": "restaurants", "_id": "561"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "BbMUXd69i0tlWS2aoppwaQ"}}}
+{"index": {"_index": "restaurants", "_id": "562"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "eFS3e9ctodj4aBTzRv_vtQ"}}}
+{"index": {"_index": "restaurants", "_id": "563"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "7N9guQY_2a3gXXIlBQGKtA"}}}
+{"index": {"_index": "restaurants", "_id": "564"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6G_NSMacAfdf-WYOpcQ4uw"}}}
+{"index": {"_index": "restaurants", "_id": "565"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "QqrEF8_ZQCGi63cL10J5oA"}}}
+{"index": {"_index": "restaurants", "_id": "566"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ya8HC5_97zGt3wNPWNNENA"}}}
+{"index": {"_index": "restaurants", "_id": "567"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fmG6BTunLXI2cN61NuLHiw"}}}
+{"index": {"_index": "restaurants", "_id": "568"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "UtknyDJ_DPut-FKRqs0wpQ"}}}
+{"index": {"_index": "restaurants", "_id": "569"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "_NS1hEZ0LPwaTG4R6jxgnw"}}}
+{"index": {"_index": "restaurants", "_id": "570"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "9tWsM0Ol6CGqfBWKzwdwyg"}}}
+{"index": {"_index": "restaurants", "_id": "571"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hFZ5qw8gvWiBUbmbahSalg"}}}
+{"index": {"_index": "restaurants", "_id": "572"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "AHDlsNh8fODK9miC3zv3Zg"}}}
+{"index": {"_index": "restaurants", "_id": "573"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wTCR-EUTLX4UoPUPdxWVJg"}}}
+{"index": {"_index": "restaurants", "_id": "574"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jvPYm9rYK-5ddnjU30Oz4Q"}}}
+{"index": {"_index": "restaurants", "_id": "575"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "6n7D4amt9vEruR73tt3S9w"}}}
+{"index": {"_index": "restaurants", "_id": "576"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PjfnqELVT517Ahw1HHRR4Q"}}}
+{"index": {"_index": "restaurants", "_id": "577"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "77Q8n_SSXjhN8m2ypqs0ew"}}}
+{"index": {"_index": "restaurants", "_id": "578"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "AsCEdN4DlJsfIvA3H_jrAw"}}}
+{"index": {"_index": "restaurants", "_id": "579"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "oV_B5pRkcICNab7_eVoIcA"}}}
+{"index": {"_index": "restaurants", "_id": "580"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "pSq53dIANeyXjPDEDglkUA"}}}
+{"index": {"_index": "restaurants", "_id": "581"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8cT6XDwI9KiCaoVohlx42Q"}}}
+{"index": {"_index": "restaurants", "_id": "582"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "_saXnBy0Wq2Gb3YusWZhqw"}}}
+{"index": {"_index": "restaurants", "_id": "583"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vqmSE-4AEUyCwLWUiKU-3A"}}}
+{"index": {"_index": "restaurants", "_id": "584"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "stGcUKRbVS0H-Uv8DTVW4Q"}}}
+{"index": {"_index": "restaurants", "_id": "585"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "VqnPcfqYltgxAkIuTaGkYg"}}}
+{"index": {"_index": "restaurants", "_id": "586"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MyQV4i518ZO4CLudtR8gLA"}}}
+{"index": {"_index": "restaurants", "_id": "587"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "UH_aksIxzGPPyhWZJbTP7A"}}}
+{"index": {"_index": "restaurants", "_id": "588"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Jcp-SJpnkhj_MD8-aDIHaQ"}}}
+{"index": {"_index": "restaurants", "_id": "589"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Hv_jHNuw63oO-jtNXuWDVQ"}}}
+{"index": {"_index": "restaurants", "_id": "590"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "bBDzXNM7Y7_8WE2Sm6R_ig"}}}
+{"index": {"_index": "restaurants", "_id": "591"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kxykwx5qTWBhlMh18MQ82Q"}}}
+{"index": {"_index": "restaurants", "_id": "592"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "JZ06I46tmJlvYA_NZ7zyxw"}}}
+{"index": {"_index": "restaurants", "_id": "593"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "FNxOWxts63oDRKwy9Pbfzw"}}}
+{"index": {"_index": "restaurants", "_id": "594"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "HfJhenvKDi-ds8SUJFwrLg"}}}
+{"index": {"_index": "restaurants", "_id": "595"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "eRtceh_W_yniAfCqJni5Bg"}}}
+{"index": {"_index": "restaurants", "_id": "596"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "SyvC0s3y0ZrtnLbwnvw7tw"}}}
+{"index": {"_index": "restaurants", "_id": "597"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "xGoSAOhQBNdJMJmPn7CMDQ"}}}
+{"index": {"_index": "restaurants", "_id": "598"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VP3-iMnKK_TaHDuy6mxTzA"}}}
+{"index": {"_index": "restaurants", "_id": "599"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "GknCLz8E_mC211psEX8lYg"}}}
+{"index": {"_index": "restaurants", "_id": "600"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "FwnEoJ4Xl5_5byVLhmxzoQ"}}}
+{"index": {"_index": "restaurants", "_id": "601"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "_7BGw3YFNOTzP1Www3zB7g"}}}
+{"index": {"_index": "restaurants", "_id": "602"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "W45PNquvdkIeedQ9LOLHUQ"}}}
+{"index": {"_index": "restaurants", "_id": "603"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "GCAQmtRdNhqVit5KGJ46Qg"}}}
+{"index": {"_index": "restaurants", "_id": "604"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "HUEj_yVB1E2mNNxW5PqUtQ"}}}
+{"index": {"_index": "restaurants", "_id": "605"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PJeuLlvja4ZKv_tHq_pE1A"}}}
+{"index": {"_index": "restaurants", "_id": "606"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "G9SWgxH65OBQaJaE8dHkbw"}}}
+{"index": {"_index": "restaurants", "_id": "607"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Dng_LID2JNnc6M6A1FB19Q"}}}
+{"index": {"_index": "restaurants", "_id": "608"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "UnB53OMX3CtEbEaTdtBNkQ"}}}
+{"index": {"_index": "restaurants", "_id": "609"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "yH6t1JWcwkdWG4CS5KPvow"}}}
+{"index": {"_index": "restaurants", "_id": "610"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "RP02PZPNdhfoL-TjOMiKVg"}}}
+{"index": {"_index": "restaurants", "_id": "611"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vwsKHxKI49TIM8Ao_RTNgg"}}}
+{"index": {"_index": "restaurants", "_id": "612"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "SEt6YdbMxMKGw8FhKwMjzA"}}}
+{"index": {"_index": "restaurants", "_id": "613"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VSPkVw9gSQx-5v4A6aC_YA"}}}
+{"index": {"_index": "restaurants", "_id": "614"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "PYmjoid5P-Mw8dkkKxZy6w"}}}
+{"index": {"_index": "restaurants", "_id": "615"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "8xYvp9j7j8RCRQGsiRRujQ"}}}
+{"index": {"_index": "restaurants", "_id": "616"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nJh1ioLcN6XBQEstR6x9yw"}}}
+{"index": {"_index": "restaurants", "_id": "617"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "meVzfRH_wLAJjcrCAhkh1g"}}}
+{"index": {"_index": "restaurants", "_id": "618"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vwVRoM9gVWuwJw1_6xfyag"}}}
+{"index": {"_index": "restaurants", "_id": "619"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qLLxS7RwNEjP_jq_KQrPfA"}}}
+{"index": {"_index": "restaurants", "_id": "620"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "sb1_MyLHzmjV1Jk21pyOIA"}}}
+{"index": {"_index": "restaurants", "_id": "621"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "gG0pitVnSaUMGbEL3boF0g"}}}
+{"index": {"_index": "restaurants", "_id": "622"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "rQpO1Eie_zmeAOQ9s-T0sQ"}}}
+{"index": {"_index": "restaurants", "_id": "623"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "diX-SHOYXgGzEEYMCLxaCw"}}}
+{"index": {"_index": "restaurants", "_id": "624"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "sKIYGvENchifk1YwFe77pA"}}}
+{"index": {"_index": "restaurants", "_id": "625"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ihplCj2HKWR7z-bBKf8Nzw"}}}
+{"index": {"_index": "restaurants", "_id": "626"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "q3_FgDWWuXcVGiNuo_OPBQ"}}}
+{"index": {"_index": "restaurants", "_id": "627"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "p5g5P-t-iAvHAxJvI6KUPg"}}}
+{"index": {"_index": "restaurants", "_id": "628"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "lu0XMmcPyFGvIgqRcbU_4g"}}}
+{"index": {"_index": "restaurants", "_id": "629"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "NRJq2BNcbjqAyxUB_bw7gw"}}}
+{"index": {"_index": "restaurants", "_id": "630"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "bEloKDe-QVkwakAwmFKbbA"}}}
+{"index": {"_index": "restaurants", "_id": "631"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CdHOwIO6OFNXZxPYEUts2g"}}}
+{"index": {"_index": "restaurants", "_id": "632"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ZgU1Jmw9Itx_bEveDXtiFA"}}}
+{"index": {"_index": "restaurants", "_id": "633"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "hDj_0pbi4mFR5p1H1w6igw"}}}
+{"index": {"_index": "restaurants", "_id": "634"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "gcEMZjjqy5Ucnv_5Pv-q1g"}}}
+{"index": {"_index": "restaurants", "_id": "635"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "pNYcGGAj4AYaExlmrEmfUw"}}}
+{"index": {"_index": "restaurants", "_id": "636"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "-QIPdiq5ILg_EJqdVoCqEA"}}}
+{"index": {"_index": "restaurants", "_id": "637"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "iks1xNyp-uZnaeunOM2UPg"}}}
+{"index": {"_index": "restaurants", "_id": "638"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jz_FnuRpCNzfwwHHQ6Nbeg"}}}
+{"index": {"_index": "restaurants", "_id": "639"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "DtnlLLvcqeEUIyZTypHnzw"}}}
+{"index": {"_index": "restaurants", "_id": "640"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "cuUmPDEY-1KXzShGdpsqag"}}}
+{"index": {"_index": "restaurants", "_id": "641"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1WeOq3GcrOAGB9QJrJ6Tug"}}}
+{"index": {"_index": "restaurants", "_id": "642"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "w4cFJhUpjGXqqWBd3BbY4w"}}}
+{"index": {"_index": "restaurants", "_id": "643"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "-CCfu19Uuy_kD2t4ZwsQfA"}}}
+{"index": {"_index": "restaurants", "_id": "644"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "axTcK1tPi9XhvdgAitJHpQ"}}}
+{"index": {"_index": "restaurants", "_id": "645"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "kwqOmEwWJ0D9PyCdFGE3-g"}}}
+{"index": {"_index": "restaurants", "_id": "646"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4CObV3XU8VQ6nXeVS4vO0A"}}}
+{"index": {"_index": "restaurants", "_id": "647"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4yPqqJDJOQX69gC66YUDkA"}}}
+{"index": {"_index": "restaurants", "_id": "648"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MEzvOZ34GFaiEAaVQFvggg"}}}
+{"index": {"_index": "restaurants", "_id": "649"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "yj4culC4vfNKWXdj5ZxJ4Q"}}}
+{"index": {"_index": "restaurants", "_id": "650"}}
+{"Item": {"Type": {"S": "Cajun/Creole"}, "BusinessID": {"S": "hfMtSdxRsC3JQP3yrm6nag"}}}
+{"index": {"_index": "restaurants", "_id": "651"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Z2Di9aL4YCfnUYr3VSzLgg"}}}
+{"index": {"_index": "restaurants", "_id": "652"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "yihja79D40NH8J6acX1Xwg"}}}
+{"index": {"_index": "restaurants", "_id": "653"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "quTCBKTDcP2MWRM8jqiAQg"}}}
+{"index": {"_index": "restaurants", "_id": "654"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "eGIY_25KFspf8KefDQMj-Q"}}}
+{"index": {"_index": "restaurants", "_id": "655"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Z-QmxQZAJEy5GXqA82Bemw"}}}
+{"index": {"_index": "restaurants", "_id": "656"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "pAqrkEtry8PFVl-_PIksnw"}}}
+{"index": {"_index": "restaurants", "_id": "657"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "NgtVHBGqkR22c_V7Vm4DIQ"}}}
+{"index": {"_index": "restaurants", "_id": "658"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "NPG2jp4C61RJbmbA35p6xA"}}}
+{"index": {"_index": "restaurants", "_id": "659"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "GJ3vgPvcJlOejZepOotQug"}}}
+{"index": {"_index": "restaurants", "_id": "660"}}
+{"Item": {"Type": {"S": "Peruvian"}, "BusinessID": {"S": "BZcG-xN3DCxlfhckBZYeuw"}}}
+{"index": {"_index": "restaurants", "_id": "661"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "YMHxv6VFriKz1KevVXl0Cw"}}}
+{"index": {"_index": "restaurants", "_id": "662"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "5ZgCfc1_fotAKUp7n3YJkQ"}}}
+{"index": {"_index": "restaurants", "_id": "663"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "e_EQojNWskn_hFbKA_UZ-Q"}}}
+{"index": {"_index": "restaurants", "_id": "664"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "_nScWpFX3M1K7s30hFEsRw"}}}
+{"index": {"_index": "restaurants", "_id": "665"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KF4dTBX9ITMTSjwEXxXZ6g"}}}
+{"index": {"_index": "restaurants", "_id": "666"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "SP4bvMvxel_UPdof_er3HA"}}}
+{"index": {"_index": "restaurants", "_id": "667"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "Kw7Xwxm4WWRNIYGg-wMXXQ"}}}
+{"index": {"_index": "restaurants", "_id": "668"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "rHYwqiWTFs-oOKikxY7kag"}}}
+{"index": {"_index": "restaurants", "_id": "669"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "L3reOLLPez7lnOhyfCpvkg"}}}
+{"index": {"_index": "restaurants", "_id": "670"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "xQag1K9NezcXdXXn2AZcqA"}}}
+{"index": {"_index": "restaurants", "_id": "671"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QTVaZDiFElJ-d8vqd0DWww"}}}
+{"index": {"_index": "restaurants", "_id": "672"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "6t5xWjPLWAjJV3YFMX_oaw"}}}
+{"index": {"_index": "restaurants", "_id": "673"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "nvTE9vtXCoYvF9-l6PZMVw"}}}
+{"index": {"_index": "restaurants", "_id": "674"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "EN9_LsFpY44Hkzcnu0jfIg"}}}
+{"index": {"_index": "restaurants", "_id": "675"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "C3OlQ_y5LcgboyaKlpETYA"}}}
+{"index": {"_index": "restaurants", "_id": "676"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "2LIH5ipzCCtVx_myIkZrtQ"}}}
+{"index": {"_index": "restaurants", "_id": "677"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "-58--bg-KKUNArp18U4llA"}}}
+{"index": {"_index": "restaurants", "_id": "678"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "yQ7K4uFnxXxpBVbnOSR8kA"}}}
+{"index": {"_index": "restaurants", "_id": "679"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "9f6chaCx20d1A0Abo6NzUw"}}}
+{"index": {"_index": "restaurants", "_id": "680"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "IErfGS0DASSJfYU73m0Sqg"}}}
+{"index": {"_index": "restaurants", "_id": "681"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "EaNRl3vlDOsNF-gkCR5mBA"}}}
+{"index": {"_index": "restaurants", "_id": "682"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "dNFsMw-z3Vsa5TbJd9Q4Ew"}}}
+{"index": {"_index": "restaurants", "_id": "683"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VBKCeFh76btxKlL827HTqA"}}}
+{"index": {"_index": "restaurants", "_id": "684"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "mbkBCEx8mgw9Qroo7xywPg"}}}
+{"index": {"_index": "restaurants", "_id": "685"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "g2IUVjeIwx5x6x9u1cLS6w"}}}
+{"index": {"_index": "restaurants", "_id": "686"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "kLJfizeHMQqesp1K9mfUtg"}}}
+{"index": {"_index": "restaurants", "_id": "687"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "nM2AdRp2iSJHi4MgvIrEBg"}}}
+{"index": {"_index": "restaurants", "_id": "688"}}
+{"Item": {"Type": {"S": "Turkish"}, "BusinessID": {"S": "v0LGazMDlyPX5ceLYpZyTg"}}}
+{"index": {"_index": "restaurants", "_id": "689"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "aaA4UHm25lbUIOlwwjWLyw"}}}
+{"index": {"_index": "restaurants", "_id": "690"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "SWK0AQ5KTDDCt8AtOhhasg"}}}
+{"index": {"_index": "restaurants", "_id": "691"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "dIyKvfhjtm3NuKrMVVt0TA"}}}
+{"index": {"_index": "restaurants", "_id": "692"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "q9VwJbrN0fGdm4L0oP2X8w"}}}
+{"index": {"_index": "restaurants", "_id": "693"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "J0OeDwmh5JBhid0A5GvltA"}}}
+{"index": {"_index": "restaurants", "_id": "694"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "n2xFYgwuo1-ToqNnCkvdtg"}}}
+{"index": {"_index": "restaurants", "_id": "695"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "Ty1MvJz88DeNmX0eDHeMyQ"}}}
+{"index": {"_index": "restaurants", "_id": "696"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "7CM15wd5d8WC_pHR674YXA"}}}
+{"index": {"_index": "restaurants", "_id": "697"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ynoBdZ5TXnF4ibkxrQk8VA"}}}
+{"index": {"_index": "restaurants", "_id": "698"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "wZkZmjZEJDraLJgAalnHvA"}}}
+{"index": {"_index": "restaurants", "_id": "699"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ajIxeFOijO3n5AUncMDsbw"}}}
+{"index": {"_index": "restaurants", "_id": "700"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "coQAQmIKG9dBPA6-RHqJag"}}}
+{"index": {"_index": "restaurants", "_id": "701"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "iV-gnXSjT7vl71Z9pttVvw"}}}
+{"index": {"_index": "restaurants", "_id": "702"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "r-izNItUH4ugnFodUOZX2A"}}}
+{"index": {"_index": "restaurants", "_id": "703"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "t7BIiUN0tFg33kySuuQ0aQ"}}}
+{"index": {"_index": "restaurants", "_id": "704"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QzKASdqNpVXkVUgb_uX43g"}}}
+{"index": {"_index": "restaurants", "_id": "705"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6ZIfKJpnZ465jN-diiwrzA"}}}
+{"index": {"_index": "restaurants", "_id": "706"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "VbFYau70iG_s6UNFwYtGVQ"}}}
+{"index": {"_index": "restaurants", "_id": "707"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "37xSQ6l3feGBbmoqN84H3g"}}}
+{"index": {"_index": "restaurants", "_id": "708"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "aK32R1M7WFHMz8k8wuztiQ"}}}
+{"index": {"_index": "restaurants", "_id": "709"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "fPW_GBZsnBNsIzK62sCHBg"}}}
+{"index": {"_index": "restaurants", "_id": "710"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xmQz_hZWq2poLHwHw7ZybQ"}}}
+{"index": {"_index": "restaurants", "_id": "711"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wb06aCfVIf8I8ufPJ5zflg"}}}
+{"index": {"_index": "restaurants", "_id": "712"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "RjXFwonRyu20O2WW9YBKfw"}}}
+{"index": {"_index": "restaurants", "_id": "713"}}
+{"Item": {"Type": {"S": "Spanish"}, "BusinessID": {"S": "jilTxChA2GqtAE21V--ckw"}}}
+{"index": {"_index": "restaurants", "_id": "714"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "tM8ZtEix8Bxg82AIKsHXcw"}}}
+{"index": {"_index": "restaurants", "_id": "715"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "8M_0cxAChoXl7Ls9YkWJlg"}}}
+{"index": {"_index": "restaurants", "_id": "716"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "IU6pOHR8Re8kvSn0mzhPHg"}}}
+{"index": {"_index": "restaurants", "_id": "717"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "GqTgQEqwf3k5JyE7DHDhjw"}}}
+{"index": {"_index": "restaurants", "_id": "718"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "W_I1ze_NZICJcDDoFttmlw"}}}
+{"index": {"_index": "restaurants", "_id": "719"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "uQ0kF3fiJFDm0oDVRaMBkw"}}}
+{"index": {"_index": "restaurants", "_id": "720"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "enT7NJ7tLMvUMCWQcsUonw"}}}
+{"index": {"_index": "restaurants", "_id": "721"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "M6Eiyx9LXMetMUxsYe-fvw"}}}
+{"index": {"_index": "restaurants", "_id": "722"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "u1cSYty-Q0TrvorveSvBZA"}}}
+{"index": {"_index": "restaurants", "_id": "723"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "FCqKzOUM6DAxjU_xkXdhzg"}}}
+{"index": {"_index": "restaurants", "_id": "724"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "pP92FmGKpH5nQfaPXMfQAg"}}}
+{"index": {"_index": "restaurants", "_id": "725"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CzVfYhOJrNSG-5Sn8BKHsQ"}}}
+{"index": {"_index": "restaurants", "_id": "726"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oJ6fy4fBv_3WskxH4NfNBg"}}}
+{"index": {"_index": "restaurants", "_id": "727"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ns-qepGEEcDpTiEr2FBEXA"}}}
+{"index": {"_index": "restaurants", "_id": "728"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "j0n_poMVZnODYOFviLbh0Q"}}}
+{"index": {"_index": "restaurants", "_id": "729"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "Xqk91WuhMeYS4pedccUYgA"}}}
+{"index": {"_index": "restaurants", "_id": "730"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "R4iq3Tt5I0qJMVagiajz3g"}}}
+{"index": {"_index": "restaurants", "_id": "731"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "CYYLEipRFmr73Hz6XNEzoQ"}}}
+{"index": {"_index": "restaurants", "_id": "732"}}
+{"Item": {"Type": {"S": "African"}, "BusinessID": {"S": "5W55UFYVTAdPvvo5xH0DbA"}}}
+{"index": {"_index": "restaurants", "_id": "733"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "luA6pI0K6AWU_ivxqykdiA"}}}
+{"index": {"_index": "restaurants", "_id": "734"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IH0vUeLREFC1D_TuNXge5w"}}}
+{"index": {"_index": "restaurants", "_id": "735"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "mIhqKMgru4002wfrVW-Gfw"}}}
+{"index": {"_index": "restaurants", "_id": "736"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "rVJ57CwEcucZg1k_y8u3Rg"}}}
+{"index": {"_index": "restaurants", "_id": "737"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Uut2fBy53XdIgx1rLWdQeg"}}}
+{"index": {"_index": "restaurants", "_id": "738"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "niODyKeyStKEut1b6FNlhQ"}}}
+{"index": {"_index": "restaurants", "_id": "739"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IQhtCTvorekeqbJr4Zf0Lg"}}}
+{"index": {"_index": "restaurants", "_id": "740"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "Bn1mZhb501Tvf7_-Pfi9_g"}}}
+{"index": {"_index": "restaurants", "_id": "741"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wEb_fHmbMuzT1of_E9LT2g"}}}
+{"index": {"_index": "restaurants", "_id": "742"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "bqhBU_iyHpaLlq0WSc5Nkw"}}}
+{"index": {"_index": "restaurants", "_id": "743"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "lP4ynyBoeFPywLg78XkMmw"}}}
+{"index": {"_index": "restaurants", "_id": "744"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wrFoBJM9SsHIfz2VaqgmSg"}}}
+{"index": {"_index": "restaurants", "_id": "745"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "xN4yKQMzo3PIoQlFamUOLQ"}}}
+{"index": {"_index": "restaurants", "_id": "746"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "E_Rxnmim6J2ECFtU0QGlsQ"}}}
+{"index": {"_index": "restaurants", "_id": "747"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "i9UMc9gLeORtCLd-OoGgYg"}}}
+{"index": {"_index": "restaurants", "_id": "748"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "HaDG1Ymi8NVapPBfF4Uqiw"}}}
+{"index": {"_index": "restaurants", "_id": "749"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "HUKn7SlSjYtemmPiGLnD2w"}}}
+{"index": {"_index": "restaurants", "_id": "750"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "3hRE9hN7Yp9AHJD8ahAVDQ"}}}
+{"index": {"_index": "restaurants", "_id": "751"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "4LoroCI3VtQ17dyQa75-Rg"}}}
+{"index": {"_index": "restaurants", "_id": "752"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "sTu5z5HUcIYykg97HHj8xA"}}}
+{"index": {"_index": "restaurants", "_id": "753"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "W08oKnigMWp4FFiGF1NJVg"}}}
+{"index": {"_index": "restaurants", "_id": "754"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "O9LKN5kk17lQWb7mMuiBzw"}}}
+{"index": {"_index": "restaurants", "_id": "755"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KakiWGOfm_h5rEqOyKD7zQ"}}}
+{"index": {"_index": "restaurants", "_id": "756"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "vA5yC1MqC7N9gs9q-Kh2nQ"}}}
+{"index": {"_index": "restaurants", "_id": "757"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "JbXpcBhrSItNZ2DBPS9u9w"}}}
+{"index": {"_index": "restaurants", "_id": "758"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "wV2YuZKjk5VhZz3I27xtsA"}}}
+{"index": {"_index": "restaurants", "_id": "759"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "efxcTuq9Web2AWehfmYMQw"}}}
+{"index": {"_index": "restaurants", "_id": "760"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1s0SM5zh7QEMlqjIM7XYpQ"}}}
+{"index": {"_index": "restaurants", "_id": "761"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kMxXLrASxsbmS-ZzAaBe-A"}}}
+{"index": {"_index": "restaurants", "_id": "762"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "RzKR9QcYP03EQ_8DxTxowg"}}}
+{"index": {"_index": "restaurants", "_id": "763"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "XQKUqU1vPvgnapxmmBI55Q"}}}
+{"index": {"_index": "restaurants", "_id": "764"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "MwcRbM6lS6_8N67LmyBELA"}}}
+{"index": {"_index": "restaurants", "_id": "765"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "8qSOz7oTPUUCafsMOBBNEQ"}}}
+{"index": {"_index": "restaurants", "_id": "766"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "hSpZSqElyjHTfE4lQJ97Cg"}}}
+{"index": {"_index": "restaurants", "_id": "767"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "UmbueYC2QcDFJy6ju7M6dw"}}}
+{"index": {"_index": "restaurants", "_id": "768"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "3uEkZEAp7biQEtt0S7W1Vg"}}}
+{"index": {"_index": "restaurants", "_id": "769"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "StK7kgjMbqns4344oTFf9Q"}}}
+{"index": {"_index": "restaurants", "_id": "770"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VpInBiE272MaN1Hi0DA-Zw"}}}
+{"index": {"_index": "restaurants", "_id": "771"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "dCDpb-fz6Ton9AXLoaWIhA"}}}
+{"index": {"_index": "restaurants", "_id": "772"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "dS2VNgvdLCAxImvcVBV6wA"}}}
+{"index": {"_index": "restaurants", "_id": "773"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "9ZNxYreHqLSsI48s2IohUw"}}}
+{"index": {"_index": "restaurants", "_id": "774"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "MdFV5IBcX-Ni6I4Zy1EqIw"}}}
+{"index": {"_index": "restaurants", "_id": "775"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "oUVX94JtKyLPXozC2hemCg"}}}
+{"index": {"_index": "restaurants", "_id": "776"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "qfZFjUnekCQRvZaZJkOPog"}}}
+{"index": {"_index": "restaurants", "_id": "777"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "T30fVIwEeJMvJQm9tikXbA"}}}
+{"index": {"_index": "restaurants", "_id": "778"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Fl2z1edJw3MONc9rERWRMg"}}}
+{"index": {"_index": "restaurants", "_id": "779"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "54SrQVVhGcvfuIkFabQ8KQ"}}}
+{"index": {"_index": "restaurants", "_id": "780"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KEgdfVEVVgJFnGFiLNPDzQ"}}}
+{"index": {"_index": "restaurants", "_id": "781"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "XBWO26QblInZGftnSDD94A"}}}
+{"index": {"_index": "restaurants", "_id": "782"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "BXY0ZV3dNopEU1jphLEQrA"}}}
+{"index": {"_index": "restaurants", "_id": "783"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "2_zM-VTPBINeV74yqlho9w"}}}
+{"index": {"_index": "restaurants", "_id": "784"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qS4z0imBynslgwsoEIJJFA"}}}
+{"index": {"_index": "restaurants", "_id": "785"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "GxhrrAGhi91hwDRsAVApRA"}}}
+{"index": {"_index": "restaurants", "_id": "786"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "2C1hZNqiWWfQJAIvS9rvDQ"}}}
+{"index": {"_index": "restaurants", "_id": "787"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "TxHx1fb8O_MsfQB_ODdTQg"}}}
+{"index": {"_index": "restaurants", "_id": "788"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wrvIZaT5rTmk0YpIvQbvHw"}}}
+{"index": {"_index": "restaurants", "_id": "789"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Xbd3lfDIz5nLagWWVTPO-g"}}}
+{"index": {"_index": "restaurants", "_id": "790"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "lwfrB59lvpkCBw2FZD3X6w"}}}
+{"index": {"_index": "restaurants", "_id": "791"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "REC_m1Y4caJIXz8DDdgh-A"}}}
+{"index": {"_index": "restaurants", "_id": "792"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "hFeGYPt9M5dd_KXG9a_ePQ"}}}
+{"index": {"_index": "restaurants", "_id": "793"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "25KSIumOXSnysnUIGAhNYw"}}}
+{"index": {"_index": "restaurants", "_id": "794"}}
+{"Item": {"Type": {"S": "Caribbean"}, "BusinessID": {"S": "XOnspIaW6mYVmrvgqOaYSQ"}}}
+{"index": {"_index": "restaurants", "_id": "795"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "13_1t_3MtLn-Y5ZBKHrmww"}}}
+{"index": {"_index": "restaurants", "_id": "796"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "nZdo3ihbeX0l9eLBFS-nWg"}}}
+{"index": {"_index": "restaurants", "_id": "797"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "U6QXIbz1dly_3nzgfnHB4w"}}}
+{"index": {"_index": "restaurants", "_id": "798"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "_g9P_uVoomq0MDa5z3PrIg"}}}
+{"index": {"_index": "restaurants", "_id": "799"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "8BNkZCUfF8h1iCpjk87y5g"}}}
+{"index": {"_index": "restaurants", "_id": "800"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "UAMbfUodEHMAIHTltCtyLA"}}}
+{"index": {"_index": "restaurants", "_id": "801"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "mQX9JxLMlhVxaUMP9ADUHw"}}}
+{"index": {"_index": "restaurants", "_id": "802"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nGyffNA23K4sO08rKB2E5g"}}}
+{"index": {"_index": "restaurants", "_id": "803"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "BdHWUmVFuo1R8Lctv4K1Ow"}}}
+{"index": {"_index": "restaurants", "_id": "804"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "atR9OjUA-kcnjSYMDV9BJw"}}}
+{"index": {"_index": "restaurants", "_id": "805"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "nlmFAz_93gjSUfmvmv8Tog"}}}
+{"index": {"_index": "restaurants", "_id": "806"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "V0zC3awsklyxC0GFzmaTLg"}}}
+{"index": {"_index": "restaurants", "_id": "807"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "Nc7l1XSiMpf51MzQSPSzFA"}}}
+{"index": {"_index": "restaurants", "_id": "808"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "YFL1rAdlv7J0cswHVhvCtQ"}}}
+{"index": {"_index": "restaurants", "_id": "809"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KjN7kiCP4kZbt1dj8w3A3g"}}}
+{"index": {"_index": "restaurants", "_id": "810"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "YvL7_ZXp-VAhrOCy1mb-cQ"}}}
+{"index": {"_index": "restaurants", "_id": "811"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "gTEoEsssfbjl76Opf5bP9g"}}}
+{"index": {"_index": "restaurants", "_id": "812"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "51YLgpfHKfXxOkDFe9sT-w"}}}
+{"index": {"_index": "restaurants", "_id": "813"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "c1kKAH9XMPNeaBhvnIP0FQ"}}}
+{"index": {"_index": "restaurants", "_id": "814"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "8xpGj_YkI2X6QxqXUJPw7g"}}}
+{"index": {"_index": "restaurants", "_id": "815"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "XKy4Cy4uNgO7rxhH4yFJQQ"}}}
+{"index": {"_index": "restaurants", "_id": "816"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nCH7SR7qXu0asO1GU3iqHw"}}}
+{"index": {"_index": "restaurants", "_id": "817"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Ci8ZAbhfNc0sj3kwj6XRmw"}}}
+{"index": {"_index": "restaurants", "_id": "818"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hGo9KArKThuOKxNbwmNpoA"}}}
+{"index": {"_index": "restaurants", "_id": "819"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hLG3xdyCecICkEbbOeolug"}}}
+{"index": {"_index": "restaurants", "_id": "820"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "b3lYtaBR1SlmH7NNDWi-vg"}}}
+{"index": {"_index": "restaurants", "_id": "821"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "oi39VAwo4-KGm_gSkWPCsQ"}}}
+{"index": {"_index": "restaurants", "_id": "822"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Wq9cARVEwOmoqfg41mNRNg"}}}
+{"index": {"_index": "restaurants", "_id": "823"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "S-WdvEU1X7J33whXWk1zmw"}}}
+{"index": {"_index": "restaurants", "_id": "824"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "1PBlkYAEFhc0cpqNNvlkWg"}}}
+{"index": {"_index": "restaurants", "_id": "825"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "wzHyRI6iW0rIY8rMb3KClA"}}}
+{"index": {"_index": "restaurants", "_id": "826"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "F2SwOvsP1_1JyDcCtnJzlQ"}}}
+{"index": {"_index": "restaurants", "_id": "827"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "M4pCWzdBCkp2g_d834a7Hw"}}}
+{"index": {"_index": "restaurants", "_id": "828"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ULDVJYTT-47RqbLtlR_FUA"}}}
+{"index": {"_index": "restaurants", "_id": "829"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "uFER2lJGTXc_vcwRFE8j6Q"}}}
+{"index": {"_index": "restaurants", "_id": "830"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "jlbtOUU-dmPwLwSYXal2oQ"}}}
+{"index": {"_index": "restaurants", "_id": "831"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "r2JVKalbucGf2nryywuL2w"}}}
+{"index": {"_index": "restaurants", "_id": "832"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "tRb--Cls__cRNRhe4nNpFA"}}}
+{"index": {"_index": "restaurants", "_id": "833"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "nF4TpiO5N12f5mYRyZ3ktg"}}}
+{"index": {"_index": "restaurants", "_id": "834"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Gy-0WM4CZp39vmjIr9MbDw"}}}
+{"index": {"_index": "restaurants", "_id": "835"}}
+{"Item": {"Type": {"S": "Irish"}, "BusinessID": {"S": "yDKChr-KX1Q1TbxUjaQJ_g"}}}
+{"index": {"_index": "restaurants", "_id": "836"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "7oAoNCxii09pyqLx8kH8GA"}}}
+{"index": {"_index": "restaurants", "_id": "837"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "q0HBfS9eJ9AeuaWQ3Ronqw"}}}
+{"index": {"_index": "restaurants", "_id": "838"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "Bm_OeNNmJ6Q8FXUDzGzfHw"}}}
+{"index": {"_index": "restaurants", "_id": "839"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hthvpEL7JEbfxfD6iP9axQ"}}}
+{"index": {"_index": "restaurants", "_id": "840"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "5oN2CFibQ-9dsITEk7B4UQ"}}}
+{"index": {"_index": "restaurants", "_id": "841"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "GAvyDral555vltKrupUcjw"}}}
+{"index": {"_index": "restaurants", "_id": "842"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "njpz2-Vd-EnoFu5YiIBTVA"}}}
+{"index": {"_index": "restaurants", "_id": "843"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "WFyGR8sW10AzbAoQ4T7Ung"}}}
+{"index": {"_index": "restaurants", "_id": "844"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "gosjtZsjmPTIBY4eB4qD2Q"}}}
+{"index": {"_index": "restaurants", "_id": "845"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "lgFApPVpbXnsIFw1CRJORw"}}}
+{"index": {"_index": "restaurants", "_id": "846"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "OmVjYfqXQ1VmA4gyZ1euWg"}}}
+{"index": {"_index": "restaurants", "_id": "847"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "q-QEwZi32JCnjb7zbY-PQw"}}}
+{"index": {"_index": "restaurants", "_id": "848"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xX4W5pYtIfxdmg1FpzHa7A"}}}
+{"index": {"_index": "restaurants", "_id": "849"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "iZy9jzm96eyop79Wc1m5Ng"}}}
+{"index": {"_index": "restaurants", "_id": "850"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "xpDp5zKQJHu7Ljgs1PKLJw"}}}
+{"index": {"_index": "restaurants", "_id": "851"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "wQLNq8dQE4DxvUSQwzAagw"}}}
+{"index": {"_index": "restaurants", "_id": "852"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "5zcZZJhriNQ2R92r9drxug"}}}
+{"index": {"_index": "restaurants", "_id": "853"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "1hdwhb6kzLxL3Lt3PxoHKA"}}}
+{"index": {"_index": "restaurants", "_id": "854"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "pYEyLT06ngEHlOtXlP64bg"}}}
+{"index": {"_index": "restaurants", "_id": "855"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "HkUKhAMutvnsmCV0eNjwSg"}}}
+{"index": {"_index": "restaurants", "_id": "856"}}
+{"Item": {"Type": {"S": "Peruvian"}, "BusinessID": {"S": "jKaR8TTkLBAFmMIsKU786g"}}}
+{"index": {"_index": "restaurants", "_id": "857"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "EqraPrrv6gAedeVogvt8xw"}}}
+{"index": {"_index": "restaurants", "_id": "858"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "--SoNTeCXFUx56no0OgibQ"}}}
+{"index": {"_index": "restaurants", "_id": "859"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "9iC39Z1YjZKbrrCANgzBXg"}}}
+{"index": {"_index": "restaurants", "_id": "860"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "fmf27DIVDUOZSi15gmdR-g"}}}
+{"index": {"_index": "restaurants", "_id": "861"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "dz88dkY9JaoXe2sF8MSjVQ"}}}
+{"index": {"_index": "restaurants", "_id": "862"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "kGkAU_WT0BjDZsSD5keRZA"}}}
+{"index": {"_index": "restaurants", "_id": "863"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "J0SZjwe0Rc-H6mzl0oByxQ"}}}
+{"index": {"_index": "restaurants", "_id": "864"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "U6l20gH8YuOJMO8vF6_Ufw"}}}
+{"index": {"_index": "restaurants", "_id": "865"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "4SN0mwVSzVkFTpb_aH8cgg"}}}
+{"index": {"_index": "restaurants", "_id": "866"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "Jqnm2_8Rt70YYQBhhFLwGQ"}}}
+{"index": {"_index": "restaurants", "_id": "867"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qOp4T7UxfL6MgO41dN3Qlg"}}}
+{"index": {"_index": "restaurants", "_id": "868"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "zqyGYIiCXL1Hz8KVZxbylQ"}}}
+{"index": {"_index": "restaurants", "_id": "869"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "iV5yy8EbjsPoYWtjRhB61Q"}}}
+{"index": {"_index": "restaurants", "_id": "870"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "tZmzqKgIUNhyhKNVXCpALA"}}}
+{"index": {"_index": "restaurants", "_id": "871"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "UbqFMQMXnF_oBXG_ujDXAw"}}}
+{"index": {"_index": "restaurants", "_id": "872"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "kesYSgOJW5krU6L8n9qQ4Q"}}}
+{"index": {"_index": "restaurants", "_id": "873"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "3PabSEZ2ESexVFZznyozVw"}}}
+{"index": {"_index": "restaurants", "_id": "874"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "HFn1sPqKSzvxaMk2n2ZtJw"}}}
+{"index": {"_index": "restaurants", "_id": "875"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "_c0MxccsmIBZcGLJpb4nSA"}}}
+{"index": {"_index": "restaurants", "_id": "876"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ZmxEeE9m0CdpvM3wVRvonQ"}}}
+{"index": {"_index": "restaurants", "_id": "877"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "OZHywdX0bT2MCmyUHoQNHA"}}}
+{"index": {"_index": "restaurants", "_id": "878"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "HDniG0HHT4d3ErVWTGLxZQ"}}}
+{"index": {"_index": "restaurants", "_id": "879"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "ZMQzXIiqdBIuicFySTWGKg"}}}
+{"index": {"_index": "restaurants", "_id": "880"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qQyknbv7ndx0HslLZd7xyg"}}}
+{"index": {"_index": "restaurants", "_id": "881"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "IY9NuJdUQHkTjBqZYfFNSQ"}}}
+{"index": {"_index": "restaurants", "_id": "882"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6gzQLjzJk25ePm_JS7ZAug"}}}
+{"index": {"_index": "restaurants", "_id": "883"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "L9GlASdPU4rZEc3FWCsE8Q"}}}
+{"index": {"_index": "restaurants", "_id": "884"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hLXe3RVRK39VUSPdvBjFEA"}}}
+{"index": {"_index": "restaurants", "_id": "885"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "QgEre4IFSHxbUvHMe8S12g"}}}
+{"index": {"_index": "restaurants", "_id": "886"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Fyrw-Vcs9krhRx7pGrPdtQ"}}}
+{"index": {"_index": "restaurants", "_id": "887"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "zn43M8VysK0NIPf72o5daw"}}}
+{"index": {"_index": "restaurants", "_id": "888"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qLJYqqj9vu0sdBJsxQKYjQ"}}}
+{"index": {"_index": "restaurants", "_id": "889"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "smxIke5NSkMIExa6jLVw-g"}}}
+{"index": {"_index": "restaurants", "_id": "890"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "nSk_zCJESMKGLHyJTPPlZA"}}}
+{"index": {"_index": "restaurants", "_id": "891"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "tuP7STBjszTvKcQLeFMnkw"}}}
+{"index": {"_index": "restaurants", "_id": "892"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "RUsot7ERPbYA_wOKMlVpAQ"}}}
+{"index": {"_index": "restaurants", "_id": "893"}}
+{"Item": {"Type": {"S": "Mexican"}, "BusinessID": {"S": "vyKBwzRdNX4yiJDIFv37iw"}}}
+{"index": {"_index": "restaurants", "_id": "894"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "5HQGOq8NA9Pe5kNhVA4hMA"}}}
+{"index": {"_index": "restaurants", "_id": "895"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "Y1y5ZAryfXrYc3C2ybAewg"}}}
+{"index": {"_index": "restaurants", "_id": "896"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "s4dRPq3hzy2Df-pCDHcVSg"}}}
+{"index": {"_index": "restaurants", "_id": "897"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VFUHY1Y6pg0UaNmE3CS7cA"}}}
+{"index": {"_index": "restaurants", "_id": "898"}}
+{"Item": {"Type": {"S": "Chinese"}, "BusinessID": {"S": "Dqu-5RxNbbpBsL1Ssht9Ng"}}}
+{"index": {"_index": "restaurants", "_id": "899"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "NlsxuhV6CUONOyI7xk7-mw"}}}
+{"index": {"_index": "restaurants", "_id": "900"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "DE0ROwygh-86i4s-WLp8wQ"}}}
+{"index": {"_index": "restaurants", "_id": "901"}}
+{"Item": {"Type": {"S": "Vietnamese"}, "BusinessID": {"S": "U-VF6WSAWTN_6iDpWd5kqw"}}}
+{"index": {"_index": "restaurants", "_id": "902"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hXqrA_Z3jZ8Q1O6ZehWSwQ"}}}
+{"index": {"_index": "restaurants", "_id": "903"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "et9pAFtSvNOct9Qcmtcf7g"}}}
+{"index": {"_index": "restaurants", "_id": "904"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "EXQ0x2W9RTydIlHAU9MU1A"}}}
+{"index": {"_index": "restaurants", "_id": "905"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "VCqNjupCWZ5INzOcyBMJSg"}}}
+{"index": {"_index": "restaurants", "_id": "906"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "0rtVm7f20mdRfllWCAjuag"}}}
+{"index": {"_index": "restaurants", "_id": "907"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QEY6X80_WXLmCvpOxphzxA"}}}
+{"index": {"_index": "restaurants", "_id": "908"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "UTLEGU4mLmB26DiX99Ggxw"}}}
+{"index": {"_index": "restaurants", "_id": "909"}}
+{"Item": {"Type": {"S": "Japanese"}, "BusinessID": {"S": "_2V0as8DZDwVxAi3ZJ0JkA"}}}
+{"index": {"_index": "restaurants", "_id": "910"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "oWBDdSamOzxMJzsD_-seXg"}}}
+{"index": {"_index": "restaurants", "_id": "911"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "afuiZyn9oOyyCpuW7wGfHQ"}}}
+{"index": {"_index": "restaurants", "_id": "912"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "GLcrOZhVkSKevVIn-KeD1g"}}}
+{"index": {"_index": "restaurants", "_id": "913"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "6q-7JBqybIo_MFmFFtlDXQ"}}}
+{"index": {"_index": "restaurants", "_id": "914"}}
+{"Item": {"Type": {"S": "Thai"}, "BusinessID": {"S": "nFszVPUX4tj-oarjfBO0nw"}}}
+{"index": {"_index": "restaurants", "_id": "915"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "u5gLdI6l6zsPxL2kOYbyfw"}}}
+{"index": {"_index": "restaurants", "_id": "916"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "XO3yD87rTPz9o6Dy9qRaJg"}}}
+{"index": {"_index": "restaurants", "_id": "917"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "qYqe-kArMUebiEvxUPUlVg"}}}
+{"index": {"_index": "restaurants", "_id": "918"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "cGx9CYLxw6fqUQU-MFup8A"}}}
+{"index": {"_index": "restaurants", "_id": "919"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "aiRctIzCj9J3UqBHd-Z3HQ"}}}
+{"index": {"_index": "restaurants", "_id": "920"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "ft2OPgLsquG9d7XrBLULng"}}}
+{"index": {"_index": "restaurants", "_id": "921"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "0Bm2vjJW5Fw7_Maer6kDUw"}}}
+{"index": {"_index": "restaurants", "_id": "922"}}
+{"Item": {"Type": {"S": "Greek"}, "BusinessID": {"S": "jCRblp7F5IbUSySK_Y7Qiw"}}}
+{"index": {"_index": "restaurants", "_id": "923"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "vEYEs9McRtRdKBp2XfRNZA"}}}
+{"index": {"_index": "restaurants", "_id": "924"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "BHlxwBMBIHX0ftiok_OMOQ"}}}
+{"index": {"_index": "restaurants", "_id": "925"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "9T8Ootw4aqmaO42gI-wBSA"}}}
+{"index": {"_index": "restaurants", "_id": "926"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "G_2NoYWJnU6-wl77Em9e2g"}}}
+{"index": {"_index": "restaurants", "_id": "927"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "rJ9V5bMbP_e9ABaTkPjAbA"}}}
+{"index": {"_index": "restaurants", "_id": "928"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "s-n0KW8iqiq-C96tpxm2rA"}}}
+{"index": {"_index": "restaurants", "_id": "929"}}
+{"Item": {"Type": {"S": "French"}, "BusinessID": {"S": "qcvGRJT3QedXz7p3_CDmmA"}}}
+{"index": {"_index": "restaurants", "_id": "930"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "hQmH1FWXBWaIBD1tEV9_Hg"}}}
+{"index": {"_index": "restaurants", "_id": "931"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "QewvDmzx32nTIQwHPI5aNw"}}}
+{"index": {"_index": "restaurants", "_id": "932"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "v4X0_xdRmVDQ5qgyGAubHw"}}}
+{"index": {"_index": "restaurants", "_id": "933"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "3idAtiEXe_XfTcPoZC_DcQ"}}}
+{"index": {"_index": "restaurants", "_id": "934"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "HZoA3-oZiS3DbMonlgclAw"}}}
+{"index": {"_index": "restaurants", "_id": "935"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "mOL7TxRDJGutaEtVA8_hUg"}}}
+{"index": {"_index": "restaurants", "_id": "936"}}
+{"Item": {"Type": {"S": "Mediterranean"}, "BusinessID": {"S": "kp5HpNxyJQGY13VDN-Yq9Q"}}}
+{"index": {"_index": "restaurants", "_id": "937"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "KQwPro9AkaehK5i4DI_g-A"}}}
+{"index": {"_index": "restaurants", "_id": "938"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "FvnExtQHPfz_crDCBTQ1iQ"}}}
+{"index": {"_index": "restaurants", "_id": "939"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "HrbVnUR1-F0sareGcleyMw"}}}
+{"index": {"_index": "restaurants", "_id": "940"}}
+{"Item": {"Type": {"S": "Indian"}, "BusinessID": {"S": "sCHiXF4mZcsiY8_cBHNiqw"}}}
+{"index": {"_index": "restaurants", "_id": "941"}}
+{"Item": {"Type": {"S": "Korean"}, "BusinessID": {"S": "KaBw8UEm8uZTV6YLsshYrQ"}}}
+{"index": {"_index": "restaurants", "_id": "942"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "tsvElYYtUBAEdfK6plnxlg"}}}
+{"index": {"_index": "restaurants", "_id": "943"}}
+{"Item": {"Type": {"S": "Italian"}, "BusinessID": {"S": "505bv6h3VnN6SekdHCr8Sw"}}}
+{"index": {"_index": "restaurants", "_id": "944"}}
+{"Item": {"Type": {"S": "Other"}, "BusinessID": {"S": "2wVirrAVg3ltAFHoHeXHMQ"}}}

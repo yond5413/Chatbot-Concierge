@@ -1,0 +1,945 @@
+business_id,name,address,review_count,rating,zipcode,cuisine
+vRrVSB-LegwUwIxpkeRVtQ,Le Bernardin,155 W 51st St,2934,4.5,10019,French
+3Gz07E5YJjDTJPSuzsAStQ,Ocean Prime,123 W 52nd St,808,4.5,10019,Other
+OFfZUS-nu6NDnsWe1B2bUQ,Tonchin,13 W 36th St,1979,4.5,10018,Other
+h37t9rA06Sr4EetJjKrfzw,Don Angie,103 Greenwich Ave,783,4.5,10014,Italian
+klAhw3xLQi9GF1tf_HnS7w,Izakaya MEW,53 W 35th St,2876,4.5,10001,Other
+MmXZLVwWcYugi_TXSHmjeQ,Sushi by Bou Times Square,132 W 47th St,788,4.5,10036,Japanese
+ypqK8DWM8Bcs43YveSJnNw,Manhatta,28 Liberty St,661,4.5,10005,Other
+WG639VkTjmK5dzydd1BBJA,Rubirosa,235 Mulberry St,3176,4.5,10012,Italian
+B3_K2kUVbYOU0VaLcj_LTw,Thai Villa,5 E 19th St,4822,4.5,10003,Thai
+qY1o1MhoRyN84RRhUJtvpQ,Her Name Is Han,17 E 31st St,1852,4.5,10016,Korean
+nRO136GRieGtxz18uD61DA,Eleven Madison Park,11 Madison Ave,2450,4.5,10010,French
+xt4sa64WOrpJvZBDPNPNYg,Jacob's Pickles,509 Amsterdam Ave,5443,4.0,10024,Other
+WJS06XxRdc6DD1s4LWE9HA,Fish Cheeks,55 Bond St,1407,4.5,10012,Thai
+MphfKkYFEe0BDQ6hZ0A5fA,Gelso & Grand,186 Grand St,1452,4.5,10013,Italian
+7B2XMvV5uGuKyl19-HTSvg,Fogo de Chão Brazilian Steakhouse,40 W 53rd St,1722,4.0,10019,Brazilian
+EKkHfSYTm266-ZBve3SdgA,Yoon Haeundae Galbi,8 W 36th St,733,4.5,10018,Korean
+DZaN3bNWfwcm__sNw5bvDg,Daniel,60 E 65th St,1876,4.5,10065,French
+1DfbZ0VsSCg9g1KILmnvzQ,Per Se,10 Columbus Cir,1872,4.5,10019,French
+dc3hkLkAqCSxDWQzrx-g9A,Quality Italian,57 W 57th St,1410,4.0,10019,Italian
+LkV96_buOU_n0br4SBO57w,Ci Siamo,440 West 33rd St,368,4.5,10001,Italian
+44SY464xDHbvOcjDzRbKkQ,Ippudo NY,65 4th Ave,10662,4.0,10003,Other
+IOHaEgK1zDvUvB3SfKuGCw,Parker & Quinn,64 W 39th St,1647,4.0,10018,Other
+b8a-8u_A51v2IzyjLVsx6w,Del Frisco's Double Eagle Steakhouse,1221 Ave Of The Americas,3427,4.0,10020,Other
+f4QBa0khsF9Ut99Tc9IMIA,Haswell Green's,240 W 52nd St,536,4.5,10019,Other
+x0k5kFArHLijdY8-NEQ7Xg,Bengal Tiger Indian Food,58 W 56th St,2331,4.5,10019,Indian
+VoAuIReq_cPUrFwxbWqG_Q,Sala Thai Restaurant,307 Amsterdam Ave,852,4.5,10023,Thai
+LQHegfNHe7ylY3bocrFlpg,Calle Dao - Bryant Park,38 W 39th St,1941,4.0,10018,Other
+nU4XBdvxDABXqZ6CnB8Dig,Clinton Street Baking Company,4 Clinton St,5784,4.0,10002,Other
+fVbUVAiLiGgLA_nxBFxyww,Thursday Kitchen,424 E 9th St,1784,4.5,10009,Korean
+ETgJqJHV7BW6pIr9Ox74sA,Amélie,22 W 8th St,2917,4.5,10011,French
+jjJc_CrkB2HodEinB6cWww,LoveMama,174 2nd Ave,6548,4.5,10003,Thai
+kB-lmHs7yNwLIlQyp0kMmQ,Quality Meats,57 W 58th St,2293,4.0,10019,Other
+pDwhlX9jNBGnjvyGR9jYWQ,Gabriel Kreuther,41 W 42nd St,620,4.5,10036,French
+C-8mGN7lt5rIraO5n-15ug,The Smith,956 2nd Ave,3144,4.0,10022,Other
+h8XLhVVPoYPYodZqQOjRMw,Robert,2 Columbus Cir,1051,4.0,10019,Other
+z1OgXX3L9Ipl2mu-Hf4ADw,ViV,717 9th Ave,1263,4.0,10019,Thai
+j1S3NUrkB3BVT49n_e76NQ,Best Bagel & Coffee,225 W 35th St,4605,4.5,10001,Other
+Pr-q47vsmM4aoc2t_Sfk8w,Momofuku Noodle Bar - Uptown,10 Columbus Cir,593,4.0,10019,Other
+Er9SlDRdxit2qVHwfg-lsw,Tatiana By Kwame Onwuachi,10 Lincoln Center Plz,216,4.5,10023,Caribbean
+_gzXNKarTxagBp6_PkmQKw,Gotham Restaurant,12 E 12th St,1683,4.0,10003,Other
+PBUIaPtgnhmdHE3KHglK-g,Jean-Georges,1 Central Park W,2005,4.0,10023,French
+unWoFZeSWa0DK1YMekO_Uw,Trademark Bar + Kitchen,38 W 36th St,726,4.5,10018,Other
+pfmAcS-g6SiNG0KlLvrqnA,Beauty & Essex,146 Essex St,3877,4.0,10002,Other
+cTE0e96GYzet799EJeStoQ,Chama Mama - Chelsea,149 W 14th St,697,4.5,10011,Other
+DoSU8IPq-Py_YV3kYmXPfQ,Trattoria Trecolori,254 West 47th St,2681,4.0,10036,Italian
+-XYp6w50XbZfS90YddS5ew,Soothr,204 E 13th St,1132,4.5,10003,Thai
+XsElXaLxUPKquI78poB8yw,Maison Pickle,2315 Broadway,1780,4.5,10024,Other
+Xjswj531-FkRZPpcccU6kQ,Vida Verde,248 W 55th St,1595,4.5,10019,Mexican
+Xk3BVvlX-KXh6kJhbClMKw,The Flatiron Room - Murray Hill,9 E 37th St,527,4.5,10016,Other
+6lUsFj0KCao678o9L7QwUw,Hatsuhana,17 E 48th St,1537,4.0,10017,Japanese
+al9HKZ3kCJipAJW4uxzj4A,Havana Central,151 W 46th St,2861,4.0,10036,Other
+VmdyRRMtUXOWV7F7w0ImwQ,Piccola Cucina Uptown,106 E 60th St,377,4.5,10022,Other
+UA2M9QFZghe-9th2KwLoWQ,Burger & Lobster - Flatiron NYC,39 W 19th St,5888,4.0,10011,Other
+YtXl15Nv7TZvV3yIqbZc8A,Burger & Lobster - Bryant Park,132 W 43rd St,1276,4.0,10036,Other
+a0IET3_yCFcO36OqGSsisg,Eataly NYC Flatiron,200 5th Ave,6106,4.0,10010,Italian
+pBNMZp_tKCAfRNx7-ybcHQ,Calle Dao Chelsea,461 W 23rd St,1047,4.5,10011,Chinese
+xEnNFXtMLDF5kZDxfaCJgA,The Halal Guys,W 53rd Street And 6th Ave,10381,4.0,10019,Other
+z7H9ApIGopnDnQaglnPTzg,Allora Ristorante,145 E 47th St,793,4.5,10017,Italian
+SxKvgnkMMZdhBJcxxKQnww,Nobu Fifty Seven,40 W 57th St,1469,4.0,10019,Japanese
+ZOa13veZkzGjA-x3kMfOmA,4 Charles Prime Rib,4 Charles St,443,4.5,10014,Other
+oTL_nPII6x0HfPVpEQklUg,PLANTA Queen Nomad,15 W 27th St,665,4.5,10001,Other
+qm1J_dPA5IHij1oAnoZwHw,nonono,118 Madison Ave,1178,4.0,10016,Other
+fVsH6QIJPzXpVbgmeiolsA,Jungsik,2 Harrison St,756,4.5,10013,Korean
+bVkjBJlAIwKAj9Aw1KVWjA,Dim Sum Palace,334 W 46th St,1717,4.0,10036,Other
+xkvv0n7jbl4Ra3Vm_jfxaA,Upland,345 Park Ave S,1218,4.0,10010,Other
+U5hCNNyJmb7f3dmC1HTzSQ,Junior's Restaurant,1515 Broadway,5915,4.0,10036,Other
+NbKATjp2MoQ4TvKKwu9fdA,Mari,679 9th Ave,159,4.5,10036,Korean
+FizBsTIAJwNrImIG1mPDcg,Barn Joo,35 Union Sq W,1906,4.0,10003,Korean
+OgM6WwztLVavBQBmb_g5aw,Tara Rose,384 3rd Ave,774,4.5,10016,Other
+1LIptXhtDh58vAA-QPFL4w,Cask,167 E 33rd St,1519,4.0,10016,Other
+7iY35991NhQ1AShJZCNZgA,Sakagura,211 E 43rd St,1877,4.0,10017,Japanese
+WyiTT3VHjzowMnOnUpZ7TQ,Empellón,510 Madison Ave,437,4.0,10022,Mexican
+An1_BlhLJDZomxI91SBv7g,Oiji Mi,17 W 19th St,202,4.5,10011,Korean
+H26qMBb0OFNn2xmSTM1Phw,Kings of Kobe,650 W 42nd St,448,4.5,10036,Other
+7xe5Pd4fvN2vo05FP2XOeg,LumLum ,404 W 49th,363,4.5,10019,Thai
+PYcL2z9gHj6-ZTlViT9Nqw,Minetta Tavern,113 Macdougal St,2461,4.0,10012,French
+diCW3Pj1PTVRSyol_d7cZw,Chef's Table at Brooklyn Fare,431 W 37th St,671,4.5,10018,Japanese
+oSAiyZF-xTqdRkwN5KrV_Q,Del Frisco's Grille,50 Rockefeller Plz,867,3.5,10020,Other
+veku2cg2qaV-7MxwhOMBmg,Judge Roy Bean Public House,38 W 56th St,900,4.5,10019,Other
+5CuYWr0-cE01HxlBu5Ka6g,Carne Mare,89 South St,236,4.5,10038,Italian
+V7lXZKBDzScDeGB8JmnzSA,Katz's Delicatessen,205 E Houston St,15231,4.0,10002,Other
+KxyH5zvTyXawl17lHjA4SQ,Beyond Sushi,134 West 37th St,722,4.5,10018,Other
+f7apP8A_0_KqcGQTK4V2TQ,Aquavit,65 E 55th St,880,4.0,10022,Other
+jjDsVuD7KbxnYV4jFnyftA,LOVE Korean BBQ,319 5th Ave,749,4.5,10016,Korean
+J9UA6rzI5WW_cDGjwDnF5g,Tsuru Ton Tan,21 E 16th St,2314,4.0,10003,Japanese
+JLpEKUYAtzBRQwsUL3RPIA,Il Corso,54 W 55th St,446,4.5,10019,Italian
+KcOeFHAojaRDV-DxQJkfPA,Omakase By Korami,400A W 50th St,408,5.0,10019,Japanese
+TcuWyuZAORVnQBPCMNbTgw,Beyond Sushi,62 W 56th St,843,4.5,10019,Other
+KXD44wWmrGf7mzyyr0bikw,P.S. Kitchen,246 W 48th St,711,4.5,10036,Other
+vGS5X12NYXCl8NpynlxRuw,Oscar Wilde,45 W 27th St,1247,4.0,10001,Other
+e5wK3I_THzF4Ce_OgoSCQw,Mokyo,109 St Marks Pl,344,4.5,10009,Korean
+0IFDnYf3bhqxJR6hVrG7Gw,Top Thai Vintage,55 Carmine St,1112,4.5,10014,Thai
+CuwHhq1MKX5hm8YyxtqukQ,Shukette,230 9th Ave,347,4.5,10001,Other
+dMhRafXdr765DHe0k-QfaQ,ABC Kitchen,35 E 18th St,3191,4.0,10003,Other
+_0WFGjXuenlBixOlbSlGeQ,Crown Shy,70 Pine St,567,4.0,10005,Other
+8SehQovJOuQDLbtzLLYLyw,RH Rooftop Restaurant New York,9 9th Ave,869,4.0,10014,Other
+B55Ocx5RBWxo6AGSucYSIA,ilili Restaurant,236 5th Ave,2746,4.0,10001,Mediterranean
+FeSynfcDT4qB2kDixHUQCA,Danji,346 W 52nd St,1091,4.0,10019,Korean
+FZpm4_fbd6P984foOUejWg,Jongro BBQ,22 W 32nd St,2538,4.0,10001,Korean
+oLA02lMIfgvbYquvXzkARw,Lillie's Victorian Establishment,249 W 49th St,1641,4.0,10019,Other
+zR92VSkXj1rt5KTJ15bkAw,Benjamin Steakhouse Prime,23 E 40th St,495,4.5,10016,Other
+IjQ2yGUKkvP0JIldT9vRFQ,Take31,15 E 31st St,900,4.5,10016,Korean
+Cg5kGSXIelsKX9eqlHr31A,Kyuramen - Union Square,210 E 14th St,633,4.5,10003,Other
+DRitJoNGTkHXZvH_YpLIAw,Marc Forgione,134 Reade St,1016,4.5,10013,Other
+7ZecxKox2SiVtsNDWphJZQ,Limani,45 Rockerfeller Plz,534,4.0,10111,Mediterranean
+z0lX40tXQxOHlU26VhLATA,American Brass,2-01 50th Ave,362,4.5,11109,Other
+4Jp0wdJXLpmgCwWv6o6YEQ,Torishin,362 W 53rd St,373,4.0,10019,Japanese
+X8yEmEDD9ZTkHoIRFqzcRw,Osamil,5 West 31st St,713,4.5,10001,Korean
+wx5XkAsviabyZdQma64Fyw,Gaonnuri,1250 Broadway,997,4.0,10001,Korean
+jc7lVTvmYMIK5RNpENtS6w,Szechuan Mountain House,23 St Marks Pl,668,4.5,10003,Other
+NAlOPUbFQVE0bUu8_wmBLQ,Rezdôra,27 E 20th St,668,4.0,10003,Italian
+RqCMsa0IuHWhML0BEjW8_w,Boulud Sud,20 W 64th St,793,4.0,10023,Mediterranean
+XzUW9MvEGOFs9_aNj11j2Q,Dinosaur Bar-B-Que,700 W 125th St,3494,4.0,10027,Other
+DdoubmNfPNRi9xNmcQ64ug,Tsurutontan Udon Noodle Brasserie - Midtown,64 W 48th St,724,3.5,10036,Japanese
+Ms1p17KsYteDlkvHnllC2g,Soba Totto,211 E 43rd St,936,4.0,10017,Japanese
+k2sHdf6WeY22pK3hs6mtqA,Legasea Bar & Grill,485 7th Ave,368,4.0,10018,Other
+MGRo61aHFUeRlWhSbTv2NA,Sushi By M,300 E 5th St,1117,4.5,10003,Other
+dS9rQ7SvIGngPE4y2xkSKw,Royal 35 Steakhouse,1 E 35th St,307,4.5,10016,Other
+R7EGjHWw0tNheY6-ahH8fQ,Tuome,536 E 5th St,674,4.5,10009,Other
+Vc7JEi0Hj6XYfSMFEUMKGg,Caviar Russe,538 Madison Ave,187,4.5,10022,Other
+7EaiwMVaNdQibSs0yYkE5Q,Sushi Yasuda,204 E 43rd St,2279,4.0,10017,Japanese
+hKdvsbuQRtjajWYwjaoOQw,Tavern on the Green,67 Central Park W,1959,3.5,10023,Other
+NlmP5x_Ykznd55Dc85ChUg,Nittis,523 9th Ave,355,4.5,10018,Italian
+s-b1Mn_Gzkftz2MCjZ3lwg,Turntable LP Bar & Karaoke,34-36 W 32nd St,393,4.5,10001,Korean
+Me4TxTbPPQZQopW1wOGx5g,Jack's Wife Freda,226 Lafayette St,2433,4.0,10012,Mediterranean
+vscYK65F_MUH8WqACKSdog,The Musket Room,265 Elizabeth St,585,4.0,10012,Other
+Nbqzy3ea5_x2zXWkdWlUIQ,Sake Bar Hagi,245 W 51st St,444,4.0,10019,Other
+jnEv25Y2DosTq2sNnvmC9g,Los Tacos No.1,75 9th Ave,3820,4.5,10011,Other
+zOmgO8Di9Ui2bQHqSarUKg,John's of Times Square,260 W 44th St,2496,4.0,10036,Italian
+SmLFW1Ncg26KfVRVX3GVFQ,Little Mad,110 Madison Ave,191,4.5,10016,Korean
+ieXKc6S3WlEiVkyxgaF9Ig,Tempura Matsui,222 E 39th St,191,4.5,10016,Japanese
+__EvomQ2tE1NtkWn32WEXg,Au Cheval,33 Cortlandt Aly,880,4.5,10013,Other
+GjEE8vvjqb7eeHA3BGNxAw,Barolo East,214 E 49th St,268,4.5,10017,Italian
+W5RSIwNKBa7k0jeAs5KDYg,Mei Jin Ramen,1574 2nd Ave,899,4.0,10028,Other
+XEugUtbw4rRmGr9S1XA-aQ,Alta,64 W 10th St,2017,4.0,10011,Mediterranean
+WqjqHMozyW42XLTtLnKGag,La Pulperia Hell's Kitchen,623 9th Ave,891,4.0,10036,Other
+eTR6nfHvQzvKX7Dcd6JrfA,District Social,252 W 37th St,732,4.0,10018,Other
+xTWpl9DgIkkr5B8h8_xUpA,Lokal 83 Mediterranean Kitchen,473 Columbus Ave,472,4.5,10024,Mediterranean
+H4jJ7XB3CetIr1pg56CczQ,Levain Bakery - New York,167 W 74th St,9661,4.5,10023,Other
+KIIYvTOc0Uv90aUHEGvoSg,La Grenouille,3 E 52nd St,495,4.0,10022,French
+hDgpiXE5_d4Is1sJ5kUBQg,Wine 30,41 E 30th St,836,4.0,10016,Mediterranean
+wyjtGsW5NeVDknGQWnIPAQ,wagamama - midtown,100 W 55th St,349,4.0,10019,Other
+iTj5T_jPYvznd1QTgs7NZw,Nai ,84 2nd Ave,1083,4.5,10003,Spanish
+r-EDS_eO70HUgDmOk5_8Qw,Juniper Bar,237 W 35th St,663,4.0,10001,Other
+eQ4QUGvuHGBzsOrphsVc6A,Kimura,31 St Marks Pl,379,4.5,10003,Japanese
+Au1AcsukhrbUfn6oit8tZw,Kochi,652 10th Ave,415,4.5,10036,Korean
+9o4y3IqpFDaj8FddJ6oi2A,Clement,700 5th Ave,161,4.0,10019,Other
+Jyf4SNiBoU11dp28cGBoqA,Gatsby's Landing Times Square,120 West 44th St,129,4.5,10036,Other
+MOwB9YYd-Ko6nVgSB-ltQw,Briciola,370 W 51st St,1013,4.0,10019,Italian
+mIbmzqQ473BUF8cngXXs_Q,Joy Love Club,232 8th Ave,145,4.5,10011,Other
+I6optu9x0JAf8oT5lqJ8qw,The Blue Dog Cookhouse & Bar,308 W 50th St,1520,4.0,10019,French
+0vg2Z-HPwkyVVX613j2ysg,Peng's Noodle Folk,1016 Lexington Ave,562,4.5,10021,Chinese
+mi3r8tPY-nHGfsl-9BGmBw,Sushi By Boū - NoMad,32 E 32nd St,329,4.5,10016,Japanese
+VuR3lhMA80aH42jrBM_C8A,Duane Park,308 Bowery,589,4.5,10012,Other
+H87m0azdhuw5uo6Y166uUg,Loi Estiatorio,132 W 58th St,461,4.5,10019,Greek
+CfWe636m2CAUg4FAdl_zVQ,Ricardo Steak House,2145 2nd Ave,1484,4.0,10029,Other
+PqqnNrUtU7XTKQvUM4cyqQ,Bar Verde,65 2nd Ave,442,4.5,10003,Mexican
+WHRHK3S1mQc3PmhwsGRvbw,Bibble & Sip,253 W 51st St,5704,4.5,10019,Other
+ikb5lhHmb2xndNZM-jr_Mw,Wolfgang's Steakhouse,4 Park Ave,1123,4.0,10016,Other
+g5f6p9jfzB30Mhcu6d5OWA,Petite Boucherie,14 Christopher St,289,4.5,10014,French
+Zp-K3ztVTzR-LrWwl_CBgA,La Pecora Bianca,20 W 40th St,258,4.0,10018,Italian
+KEEXuHCYhsQJ-zpJhu98bA,Joe's Pizza,1435 Broadway,2045,4.0,10018,Other
+W4hobe10Fy54MKqmLaObEg,Cafe Mogador,101 St Marks Pl,2140,4.0,10009,Other
+Z65cd3Z7JvwK8TnSVg-cfA,District Tap House,246 W 38th St,886,4.0,10018,Other
+rZIMlQ76I0mXL8uNii_wVg,Atera,77 Worth St,331,4.5,10013,Other
+Ve6GVzzJpR5QIIPdcn6ViQ,Mercato,352 W 39th St,1052,4.0,10018,Italian
+l7G5tDA96xbA_bx1ZgkOeg,ICHIRAN Midtown,132 W 31st St,1356,4.0,10001,Other
+0ASfmKBIeJlTO6IzES6rzw,Shiki Omakase,71 W Houston St,443,4.5,10012,Other
+F0MuzanyO6YEen8VtP5LOg,Pennsylvania 6 NYC,132 W 31st St,621,4.0,10001,Other
+icpLRhJ1jpBX1zBGkt7Xqg,Teppen Ramen,159 E 55th St,583,4.5,10022,Other
+jNRT5vY1Hvp5WDTaHy4Mhw,Sarge's Delicatessen & Diner,548 3rd Ave,1450,4.0,10016,Other
+OqNmzS2N2I750zYgUC6IgA,Riverpark,450 E 29th St,848,4.0,10016,Other
+kctef59qqlzJNqAc1ZGEvg,The Capital Grille,155 E 42nd St,908,4.0,10017,Other
+V3USzFEGhuoXez4G2Rk11A,Tavola,488 9th Ave,1348,4.0,10018,Italian
+ogCC-lJJYnwXDvKGmKZ6Sw,Woorijip,12 W 32nd St,2895,4.0,10001,Korean
+VrCCr45dhN-RRM107iptdg,Russ & Daughters,179 E Houston St,2813,4.5,10002,Other
+7Bb_IDWV_zJqpBjAvxuBIA,Cooper's Craft & Cocktails,87 2nd Ave,493,4.0,10003,Other
+OD4um1mrqmeInzIDNNsF9g,The Chemistry Room,130 West 47th St,78,4.5,10036,Japanese
+SMrj71bWo1lomSbU8wXgyw,The Dolar Shop,55 3rd Ave,395,4.5,10003,Chinese
+vRqj40pRwz0OHHRVgOdgRg,The Clocktower,5 Madison Avenue,452,4.0,10010,Other
+CsdS-L70jLn-exz34j8h5Q,L'avenue at Saks,8 East 50th St,147,4.0,10022,French
+V-FCEicobl5Su-R7EVJQNA,La Lanterna Di Vittorio,129 MacDougal St,1667,4.0,10012,Italian
+MhceeLrM2_3mcKw5EGLY6A,Pure Thai Cookhouse,766 9th Ave,2833,4.0,10019,Thai
+5F9kZPnAleDYqCeCyvGJPA,Bad Roman,10 Columbus Cir,372,4.0,10019,Italian
+K9_vumaLO80LXgoPNJJvRQ,The Terrace and Outdoor Gardens,701 7th Ave,163,4.0,10036,Other
+m2Zsy2UAkcDf0cRzk2Yoqw,Madame Vo,212 E 10th St,1079,4.0,10003,Vietnamese
+CqQ2Og9kf-LhlUWtODalCQ,Blue Ribbon Sushi Bar & Grill - Columbus Circle,308 W 58th St,862,4.0,10019,Japanese
+JION8hhg7q6zyayHYwhxIw,The High Line,820 Washington St,2584,4.5,10014,Other
+26emJlm1YMFyOCezfgVk4g,Da Raffaele,883 First Ave,222,4.5,10022,Italian
+7cjT33LfYSk7vrRdEaSr4w,Angeletto Restaurant,890 2nd Ave,299,4.5,10017,Italian
+KoGN70ndDHkJmMXiDCBS3A,BG Restaurant,754 5th Ave,453,4.0,10019,Other
+LXdblKc5g1Dp17xiV-Am1w,Trattoria Dell'Arte,900 7th Ave,1203,4.0,10019,Italian
+wfhMIiMh2A2psCGONOVSlg,Han Dynasty,90 3rd Ave,1360,4.0,10003,Other
+tRIHhPKryUZ56SfIz6mLiA,Angelo's Coal Oven Pizzeria,117 W 57th St,1204,4.0,10019,Italian
+6Ct7OeTRn4caY9g0swFBsw,La Contenta,102 Norfolk St,914,4.5,10002,Mexican
+pk89jzL1RsE9U0thf_z6tw,Locanda Verde,377 Greenwich St,1842,4.0,10013,Italian
+DeiVNRCo4kw5XUsHbXFkUg,Empire Steak House East,151 E 50th St,398,4.0,10022,Other
+T-ciFE0hc6O2JDY8Y1cDgg,Foxy Johns Bar & Kitchen,143 E 47th St,349,4.0,10017,Other
+zTK8reqKrmV7U71YVHYYjg,Armani Ristorante,717 5th Ave,291,4.0,10022,Italian
+faukkggAc_tuJ4THYlf4fg,La Masseria,235 W 48th St,720,4.0,10036,Italian
+csVEpHy5KJoFvM1qp5XwLQ,Le Parisien,163 East 33rd St,1055,4.0,10016,French
+3xTQT7qjZJIxc-eBiFMerQ,1803 Nyc,82 Reade St,797,4.0,10007,Cajun/Creole
+gXnC_aZR09BvqEQKGKFjBg,BCD Tofu House,5 W 32nd St,2464,4.0,10001,Korean
+AT12PEBFRWFox6l2tr7w4w,Junior's Restaurant & Bakery,"1626 Broadway,49th St",1029,4.0,10019,Other
+wtfEOjfOWVuugf-SuCC5yA,Avra Madison,14 E 60th St,481,4.0,10022,Greek
+0BzxIsoRuFvxbMPl-iH70A,Market Table,54 Carmine St,870,4.0,10014,Other
+MaoCNdHni6MLjM9iYQqHcg,Frida Midtown,214 E 52nd St,163,4.5,10022,Mexican
+Xu8H24NxJJxEE-9wGp_AMA,The Brazen Tavern,356 W 44th St,436,4.5,10036,Other
+ZjU9qd-RR55cEEKufmdN5Q,Cathédrale Restaurant,112 E 11th St,450,4.0,10003,French
+AIKjw2QLvVNdha3TciJYzg,Boqueria Soho,171 Spring St,1252,4.0,10012,Spanish
+K_nsaXmlsyg0I8PoIjPXrA,Morton's The Steakhouse,551 5th Ave,622,4.0,10017,Other
+EDucGBSfQ0YIbxdHS-KnCg,Sagaponack,4 W 22nd St,275,4.5,10010,Other
+LT0yyLNM84EiJj9DL0rfHA,Hui Restaurant & Bar,314 E 70th St,288,4.5,10021,Other
+CcxreLJbZsO6Z775-hMWpw,St Tropez West Village,304 W 4th St,280,4.5,10014,French
+T-RXDLq_VEv7s1_SooYIYQ,Osteria 57,57 W 10th St,333,4.5,10011,Italian
+210LxcDl5dXlYOMlIUmEFQ,Lips Drag Queen Show Palace Restaurant & Bar,227 E 56th St,784,4.0,10022,Other
+eoz2NahxyivVRs8Ll9Ljjg,Aldo Sohm Wine Bar,151 W 51st St,280,4.0,10019,French
+y6XohzcYjUAQOD8U3NT_yw,The Stag's Head,252 E 51st St,445,4.0,10022,Other
+yB4ziqFM_7V8JxJas7CHfA,Ulivo,4 W 28th St,380,4.0,10001,Italian
+ga6sRtE0l85iftw_5-W84Q,Dominique Ansel Bakery,189 Spring St,5398,4.0,10012,Other
+GuzlMBKNoClNx5I1-x-DDg,53 NYC,53 W 53rd St,114,4.0,10019,Other
+s5N-w7EPY3DA68id5qycyA,Zaytinya - New York,1185 Broadway,285,4.0,10001,Mediterranean
+qhyll2gPT-gGDRP6JGn1aQ,Bice Cucina - Midtown,62 W 55th St,162,4.0,10019,Italian
+PnGSE8JGbMZKtdHi9go7Kg,The Milling Room,446 Columbus Ave,576,4.0,10024,Other
+BxNs9d8rEW3Tls-nVdmIgA,Reichenbach Hall,5 W 37th St,850,4.0,10018,Other
+rCtsqHtOAOjZ7EUQDFRSbA,Pinto Garden,117 W 10th St,475,4.0,10011,Thai
+NOh24SMS6k4pzNv8Ds7KDg,Cafe Habana,17 Prince St,3318,4.0,10012,Mexican
+9b_FvTUgkkUUMyL0nGhFtg,Three Roosters,792 9th Ave,222,4.5,10019,Thai
+LF1QAuvpfX7KGQlg2zMg6Q,John's of Bleecker Street,278 Bleecker St,2650,4.0,10014,Other
+-J8VuX3wGrYSOBu2G0hMsw,Katsu-Hama,11 E 47th St,1625,4.0,10017,Japanese
+2VpurA2lb-q90nmALklNcA,Perry St,176 Perry St,1005,4.0,10014,French
+EbX_9tqAJs4gW51gZpOB7g,Rasa,25 W 8th St,850,4.0,10011,Thai
+6gDUVNZo0E9lxO2DkAhHOQ,The Greek,452 Washington St,528,4.5,10013,Greek
+1raNn0l3I4H9PcAJce69Sw,Sojourn,244 E 79th St,719,4.0,10075,Other
+4Objcs7HXSGuzpb0SOa-Jw,Family Meal at Blue Hill,75 Washington Pl,1080,4.5,10011,Other
+RYKGs45OjF-vlb2Ds2Jb_g,Izakaya Juraku,121 Ludlow St,210,4.5,10002,Other
+4x_WyIOEdqxk01QH1HxYrw,The Mermaid Inn,96 2nd Ave,1325,4.0,10003,Other
+QObHX0yR6zd0WfksRDbJTA,Becco,355 W 46th St,3147,3.5,10036,Italian
+ryng69yOCoveA68KE6jl-Q,STK Steakhouse - Midtown,1114 Ave Of The Americas,1798,3.5,10036,Other
+zv29TbzPs9-rD5ql0qWw5A,The Shadmoor,1066 2nd Ave,440,4.0,10022,Other
+jYhbUh1TV7SCfPxjIhVpcg,Baar Baar,13 E 1st St,1238,4.0,10003,Indian
+4KzqwQus39gXgrwrDXAjWA,Eléa,217 W 85th St,292,4.5,10024,Mediterranean
+DPDznXYX5DBLBASKfxQ-DQ,Totto Ramen Hell's Kitchen,464 W 51st St,1203,4.0,10019,Other
+VnjcxOUuZAeJMiDIU-7hUQ,Churrascaria Plataforma,316 W 49th St,1507,4.0,10019,Brazilian
+QeqhV5xVRCD15ivQiPc2MQ,Bateaux New York,Chelsea Piers Pier 61,342,4.0,10011,Other
+Gc7OVEIs4HodL4hw9U3C3w,Copinette,891 1st Ave,227,4.0,10022,French
+ssGhu4n3emZ9kEPVf371IQ,Cookshop,156 10th Ave,2322,4.0,10011,Other
+a0AvIH1UnFmqAXhZDEQtrw,Tocqueville,1 E 15th St,387,4.0,10003,French
+8PhwiTru5teSaZ8C6hrIww,Casa Mono,52 Irving Pl,1409,4.0,10003,Spanish
+JNkK9xp-hTWxsLrboPWC3Q,The Perfect Pint,123 W 45th St,448,4.0,10036,Other
+mVN2G1c5bRtAsNlr2Tbx6Q,White Oak Tavern,21 Waverly Pl,450,4.0,10003,Other
+jnHbdsqlTKlPcmJ8BCP9-g,Via Carota,51 Grove St,940,4.0,10014,Italian
+h4VCnZ2aZ33mdenS_ZI7jQ,Mama Mia 44 SW,621 9th Ave,859,4.0,10036,Italian
+TGP5gbAgml0IDRLGCpFnCw,PMF Pardon My French,103 Ave B,1126,4.0,10009,French
+L3L6xDdrS8c67BLZROg79A,Smith & Wollensky,797 3rd Ave,1757,3.5,10022,Other
+8bIXIStb1SVu1sXYfcMH5g,Ruby's Cafe - East Village,198 E 11th St,401,4.5,10003,Other
+oB2cpcZNyjDklNqZN0n8hg,Sushi Ishikawa,419 E 74th St,337,4.5,10021,Japanese
+LnMRZhKtOrW1eL04FiPYTg,Senza Gluten,206 Sullivan St,740,4.5,10012,Italian
+j0Q-yyxS2WiL3foCJEV4eg,Dirt Candy,86 Allen St,817,4.0,10002,Other
+6eqrk1wCQMww_ejze5gvsg,Forsythia,9 Stanton St,153,4.5,10002,Italian
+_IkMfWpOkQXRZtJAYJUJIw,Hama Japanese Cuisine,11 W 51st St,429,4.0,10019,Japanese
+Wx6lMnEh7dCmX-9PQF1Ifw,Toloache 50,251 West 50th St,2258,4.0,10012,Mexican
+6hKJePanmG9AxK4dfwgyyg,The Horny Ram,951 2nd Ave,734,4.0,10022,Other
+8Oo2AtQEPDfxIOnA8wfXoQ,886,26 Saint Marks Pl,686,4.0,10003,Other
+orYWYTk6kNK1YODsADk_tg,The Jin,856 10th Ave,514,4.5,10019,Korean
+2wQsfQkorp9L03vPEFAZJw,Hudson Clearwater,447 Hudson St,669,4.0,10014,Other
+Tp3MF3DNXuW41A10PQ2nFw,Amali,115 E 60th St,505,4.0,10022,Mediterranean
+432F7ulSgnm1fNyefqgrNw,Strip House Steakhouse,15 W 44th St,640,4.0,10036,Other
+R-biStUvl2zuhIQFk40GsQ,OCabanon,245 W 29th St,456,4.0,10001,French
+9HD5HQiTkURkx5i7hL92EA,Spicy Moon West Village,68 W 3rd St,383,4.5,10012,Other
+m9zYRZFubncaWsQFIfNo5g,Loulou Petit Bistro & Speakeasy,176 8th Ave,534,4.0,10011,French
+iPc-zPgcpgeSo76xl5Jbpw,The Maze,32 W 32nd St,708,4.0,10001,Korean
+zuB6VRXwj3QzTh9x-nQIRQ,Il Fiorista,17 W 26th St,119,4.0,10010,Italian
+c3D2ckzacnPtdGIM8tb-_w,B Side Pizza & Wine Bar,370 W 51st St,1299,4.5,10019,Other
+HpxYBu1ARzOGvuUcLJe54g,Giardino 54,400 1/2 W 54th St,232,4.5,10019,Italian
+FaR-Kv-0ZzgcqFW1sCnacw,Citizens Of Chelsea,401 W 25th St,1027,4.0,10001,Other
+owYYuyLvlsdjLz68c3SSfg,Taboonette,30 E 13th St,1014,4.5,10003,Mediterranean
+js7pXIr0lGoTd_6HPMPckg,Okdongsik,13 E 30th St,218,4.5,10016,Korean
+KEBKGGGkDhnuYdKrjzZblw,Antoya Korean BBQ,37 W 32nd St,1068,4.0,10001,Korean
+fqHACybQl1vlATXaIwnLqQ,Bareburger - The Village,535 Laguardia Pl,792,4.0,10012,Other
+pNe8ZCkGTe4cXfKdOF7kYQ,Ise Restaurant,63 Cooper Sq,641,4.5,10003,Japanese
+uYLIo8FCr9Ug5SFORDdsPA,The Burgary,67 Clinton St,301,4.0,10002,Other
+j3HLOkrjzBjcvYPiIHua1A,Jasper's Taphouse + Kitchen,761 9th Ave,439,4.0,10019,Other
+q0hMNf-YhfDMFQyUQdsIJg,R40,47-16 Vernon Blvd,209,4.5,11101,Other
+qIOAlXCCYrwN0VxEEH-Tmw,Boqueria Flatiron,53 W 19th St,1401,4.0,10011,Spanish
+mTWlEiCUEBlxBAkIikkB1A,Carmine's Italian Restaurant - Upper West Side,2450 Broadway,1745,4.0,10024,Italian
+VMugGjWqmOfCXnYv_7aFWw,Kubeh,464 Avenue Of The Americas,362,4.0,10011,Other
+egDEaHpDumYHzRUZ8JBU-w,Pranakhon Thai Restaurant,88 University Pl,291,4.5,10003,Thai
+XAltgdIxnXF3iaNgWhb5ZA,Hawksmoor,109 E 22nd St,309,4.0,10010,Other
+0y6eQXDw2RDLuBwkY02xGA,Aretsky's Patroon,160 E 46th St,255,4.0,10017,Other
+6YehBdKHcLDsvaewhcEjFQ,Hey Yuet,251 W 26th St,209,4.5,10001,Other
+kjItczuC-FQa-nECT9VF8A,Udon Lab,43 W 32nd St,432,4.0,10001,Japanese
+8tcFpd0dcmfzbLgbTO4tdw,Sen Sakana,28 W 44th St,329,4.0,10036,Japanese
+rKeLuHDI3PQZsPSVCEMHtw,Wondee Siam,792 9th Ave,1168,4.0,10019,Thai
+vk7W3_sQwr7eZbRFsXv6rw,Taiyaki NYC,119 Baxter St,3327,4.5,10013,Japanese
+pC_QwLpeL2Enk4hBgDcRqQ,Da Marino,220 W 49th St,680,4.0,10019,Italian
+_F29-1dkiBmDPSaKQ9_O0Q,Hakata Tonton,35 W 35th St,175,4.0,10001,Japanese
+9bAyxRD6RsGEUQw424ovQA,Nishida Sho-ten,302 E 49th St,915,4.0,10017,Other
+MoyxzhaYIsJx-p9IuGGK4w,Stella 34 Trattoria,151 W 34th St,754,3.5,10001,Italian
+xGNzAsakHgbbl9fwgSoiUg,Kahlo,525 West 29th St,242,4.0,10001,Mexican
+ojbH3wnRu050hRhkmoxRiA,Han Dynasty,215 W 85th St,713,4.0,10024,Other
+RemvTpxalDjSew5HwmNzUQ,The Dead Rabbit Grocery & Grog,30 Water St,1899,4.0,10004,Other
+bTyyPU8A4pz9dieLSZPMdA,Le Rivage,340 W 46th St,597,4.0,10036,French
+nBy8KtcUHktPFKw-VClG1A,La Pecora Bianca,950 2nd Ave,403,4.0,10022,Italian
+BKMCAYb9EAivUm3p-vrC9w,Khe-Yo,157 Duane St,964,4.0,10013,Other
+rFeNJtqgMWf2tWy-RB6jgg,Torrisi,275 Mulberry St,93,4.5,10012,Italian
+FJepPR5CYRggxRwAjlqg6A,Bowery Road,132 4th Ave,254,4.0,10003,Other
+t6PzD4uzBOfyCLcd_lT8cQ,Sathi,216 3rd Ave,296,4.5,10003,Indian
+i6CpYdmMYoz712bRWTWVgQ,Piggyback by Pig and Khao,140 W 30th St,127,4.0,10001,Other
+dEbI8l8o9mevbRdjANzsng,Prime Meat Rokko,783 9th Ave,359,4.5,10019,Japanese
+kz9YaFCE1sGJ4CpLDKBIjQ,The Stand Comedy Club and Restaurant,116 E 16th St,680,4.0,10003,Italian
+-lgNzAEyFr8LCTuBTWnAMg,Dim Sum Palace,28 W 56th St,461,4.0,10019,Other
+6Z5OWpaeGGazJHR4LfThsw,Palma,28 Cornelia St,867,4.0,10014,Italian
+j8cKSxr6aQ8qTx23FLyyiA,The Wayland,700 E 9th St,543,4.5,10009,Other
+4TQMO6AaKSXHMbKvGAf-gg,Llama San,359 6th Ave,305,4.0,10014,Japanese
+qBGKigOGn_flCx1apxPzlA,Piccola Cucina Osteria,196 Spring St,797,4.5,10012,Italian
+fgtw4swOHXEFwZpBCG05rQ,Black Iron Burger,245 W 38th St,1166,4.0,10018,Other
+NZaq_ygLr4N8-blY5dGx-g,Paul's On Times Square,136 W 42nd St,346,4.0,10036,Italian
+lEH8EUPX3Zn_trHauIycYw,Aoi Kitchen,320 E 6th St,254,4.5,10003,Other
+nD7Hcq5aaCASbWzc0-Sg3A,Bobwhite Counter,94 Ave C,921,4.5,10009,Other
+lWOkeS-wV4no8qqA9OwwEg,Doughnut Plant,379 Grand St,3444,4.5,10002,Other
+yGpPYyu3s8iVNuO0ktqsDw,Birdland,315 W 44th St,411,4.0,10036,Other
+ynR4-QgEOsE7VhNfIWo73w,Secchu Yokota,199 E 3rd St,151,5.0,10009,Japanese
+NTwOc9yQ1xl5deeVzZqxfw,Tavern29,47 E 29th St,1027,4.0,10016,Other
+sBL7J7s4Rnul40-MB0hXbA,Perrine,2 E 61st Street At Fifth Ave,119,4.0,10065,French
+pZWhRtCJvTuwWoavaiCQrA,C as in Charlie,5 Bleecker St,188,4.5,10012,Korean
+_FAh31lob7Dnn4iGiLIwng,MUI,10 W 32nd St,375,4.0,10001,Korean
+4hukJNoy9F2ILYJZWl4Xlw,Set LES,127 Ludlow St,566,4.0,10002,Other
+P2CTp4xyaNCe2AXSiLeOSQ,The Odeon,145 W Broadway,769,4.0,10013,French
+-Exv1AEsaKU6Cdb2TO_ZUg,The Lobster Club,98 E 53rd St,153,4.0,10022,Japanese
+oczaVdQ3NRSKJpNo-4undg,Brooklyn Chop House Time Square,253 W 47th St,219,4.0,10036,Other
+9pMhRYYgV7E9L7pzECtJKA,The Drunken Munkey - UES,338 E 92nd St,1352,4.5,10128,Indian
+LF2_slTY37P0Ua8vI4Hr5g,Bistro Les Amis,180 Spring St,463,4.0,10012,French
+PHSsvGDW6Rh2pGWEDTrDew,Death Ave,315 10th Ave,662,4.0,10001,Greek
+7NqFIuXuRwm6WuuseLxAVw,Delmonico's,56 Beaver St,1102,4.0,10004,Other
+BNaveJmi-OUGKG9sRfrIhA,Mr. Sun,48 W 48th St,252,4.5,10036,Other
+GeoR6dpTUEpdIoyAd68Irg,Kyma,15 W 18th St,356,4.0,10011,Greek
+wTQYOTh9_JPI2I8s6Xc-Cw,Pineapple Club,509 E 6th St,276,4.0,10009,Other
+rpVX-o82EEOX8ZDnM28a_Q,Bistango,145 E 50th St,356,4.0,10022,Italian
+7gZGVdqMch7ls0IGO3DijQ,Agora Turkish Restaurant,1565 2nd Ave,688,4.5,10028,Turkish
+fwH7iD4-xY2ABrlZznP8CA,Quality Eats,1496 2nd Ave,429,4.0,10075,Other
+YE4pvo8ectzEaRYGqUgFcA,Felice 64,1166 1st Ave,402,4.0,10065,Italian
+uc5qQMzs96rzjK27epDCug,Joe's Pizza,7 Carmine St,3065,4.0,10014,Other
+-8_vEcBA2Lqd8786S-Ss-g,Novita Restaurant,102 E 22nd St,436,4.0,10010,Italian
+JwCnSW-RQ7_DxvbzWNO1hA,Coletta,365 3rd Ave,229,4.5,10016,Italian
+OLSSJIp8pu5UlugTF7tuHA,Ootoya Chelsea,8 W 18th St,1543,4.0,10011,Other
+H1jops1lmuhrq9lP7lEGJQ,Flor De Mayo,484 Amsterdam Ave,1328,4.0,10024,Chinese
+QPEzLkO35OTYijFhs8d7-w,The Reading Room,16 E 46th St,100,4.5,10017,Other
+IiIzeFqe4tJiHaAWyw7ddg,West End Bar & Grill,813 8th Ave,443,4.0,10019,Other
+9mWw-sK4RjSPYRHQN_S9ZQ,Tradisyon,790 9th Ave,262,4.5,10019,Other
+OFFSpIPqvwOnwdcEq8usvw,Motel Morris,132 7th Ave,250,4.0,10011,Other
+OFc7aHP1chwqXTgtYtbJzQ,NARO,610 5th Ave,49,4.5,10020,Korean
+m6sYBuozGY1JhnHlBf1Bzg,BondST,6 Bond St,1144,4.0,10012,Japanese
+HD0e3eHwv573qHZOJJitWg,Aurora Soho,510 Broome St,539,4.0,10013,Italian
+iexl39DYyy_76Xq3ExaJkQ,Excuse My French,96 Orchard St,357,4.5,10002,French
+8YWLuLUKj0t_0_Xv06UUtw,Ye's Apothecary,119 Orchard St,397,4.5,10002,Other
+PjjpgjY_sdawJU1JHbyNTQ,Temakase,157 Second Ave,686,4.5,10003,Other
+ExvoimQ4LzY3UWtZ6m6Lgw,Ravagh Persian Grill,173 Madison Ave,983,4.0,10016,Mediterranean
+kJExyhre8kocF5gI9y4IDA,Villanelle,15 E 12th St,109,4.5,10003,Other
+VtJd1l64kqUUyWacwK0J2Q,Veniero's,342 E 11th St,2399,4.0,10003,Italian
+vLsTPg42rkgN5rUpNfg1OA,Da Long Yi Hot Pot,159 Canal St,597,4.5,10013,Other
+7xV4gzrgaOgQYtPC3FBZig,Pylos,128 E 7th St,1234,4.5,10009,Greek
+aTFkjo0scqmOgsFF5kuGXg,Claudette,24 5th Ave,521,4.0,10011,French
+DW5SL9RM-kJnmRyYo4oEqg,Ruby's Cafe - Murray Hill,442 3rd Ave,727,4.0,10016,Other
+DJSLGbSqCJ1W8ma3LFlMuw,Patzeria Perfect Pizza,231 W 46th St,1817,4.0,10036,Italian
+z2VXX7wGl8XZ6_oo9W3koA,Patiala Indian Grill,371 W 34th St,624,4.5,10001,Indian
+yKOTFgZmTFeas8Pvt077vA,The Russian Tea Room,150 W 57th St,1232,3.0,10019,Russian
+AZSC48kTDCRU1CqxdE04Kg,Dizzy's Club,10 Columbus Cir,404,4.0,10019,Other
+MTtqSunPEZwdCJFMHsiHzg,Ai Ki Ya,41 W 33rd St,178,4.5,10001,Other
+WVsPyl-DGRu0O_rQYdIMVQ,The Best Sichuan,47 W 39th St,127,4.5,10018,Other
+iEUXrUUqGfUhpgYYSr5Zig,Da Nico Ristorante,164 Mulberry St,1063,4.0,10013,Italian
+RXCCofQw1EjTcSN0ZeXfRA,Risotteria Melotti NYC,309 E 5th St,394,4.5,10003,Italian
+ZamvzoxEKiJEboO0ZUdogw,AMICI Ristorante,165 Mulberry St,195,4.5,10013,Italian
+iQo5aJwTL_ZrXCdPFKq-RA,Isle of Capri,1028 3rd Ave,294,4.0,10065,Italian
+Jwb556DrGTEZryeV7XgZmQ,Bar Primi,325 Bowery,799,4.0,10003,Italian
+MJJi_5tGkWYI1VReTjhCCA,Bryant Park,41 W 40th St,1285,4.5,10018,Other
+K144ThGmoIjX6Wh5-_Rn4Q,Ellen's Stardust Diner,1650 Broadway,2374,3.5,10019,Other
+lynQoI3w_pzYfHGeuUU-Qg,Shu Jiao Fu Zhou,295 Grand St,1316,4.5,10002,Chinese
+eGfpa9r0aGtN3V8ZwgaOEw,The Supply House,1647 2nd Ave,389,4.0,10028,Other
+WYhRkUATHRyXZrE55MArbA,Scalini Fedeli,165 Duane St,357,4.5,10013,Italian
+xzN2k19JXDYjOWAhNw62aw,Adoro Lei,287 Hudson St,363,4.5,10013,Italian
+CVxz9B5ncpMwVK1bk_c1YA,Veselka,144 2nd Ave,3108,4.0,10003,Other
+i8ejDDR4COtukAAA1Ls5fw,Soba-ya,229 E 9th St,1562,4.0,10003,Japanese
+iUEvASoukxI6vrCYWYyK8g,Kati Shop,162 E 55th St,205,4.5,10022,Thai
+ugYhnKrr3Q1TVV15R0EEWQ,AnTalia NYC,17 W 45th St,470,4.0,10036,Turkish
+zUv1BNm_a9-3DkxrCG3tng,Friedmans,450 10th Ave,843,4.0,10018,Other
+sBCJYLPNJuagg-aJ3Y_ozQ,Cheli,19 St Marks Pl,327,4.0,10003,Other
+77llOAEwInvK-oC2AHZ4nQ,Coppola's East,378 3rd Ave,433,4.0,10016,Italian
+NT2mKx3_kxO9tpjeP2Sv6Q,The Malt House,206 Thompson St,479,4.0,10012,Other
+0ksKKrgHt-6xCCHfTlLcoA,tán,209 E 49th St,91,4.0,10017,Mexican
+StF9WWWbrRzEOmNAcEINcA,Balzem,202 Mott St,536,4.0,10012,Mediterranean
+U0deo-JRQmHrru0uSf6QWA,Virgil's Real BBQ - New York,152 W 44th St,1869,3.5,10036,Other
+4WDHrSodF1Xidv9ezS6Sgg,Tuscany Steakhouse,117 W 58th St,236,4.5,10019,Italian
+xrKa2SpgWzPEEbji3Iw2DQ,The Calaveras,949 Columbus Ave,233,4.5,10025,Mexican
+2J3--ZI6CcoYLWSYYVdt7Q,Milu,333 Park Ave S,217,4.5,10010,Chinese
+BgGz5IdV53bGb4o7opR5zg,Arturo's,106 W Houston St,798,4.0,10012,Italian
+fanlKZzN-fI9LywqQD6EHg,Broadstone Bar & Kitchen,88 Broad St,357,4.0,10004,Other
+WZynqsGjqQLc_T8R80_-7g,Yellow Rose,102 3rd Ave,170,4.5,10003,Other
+lSKEPxxTYxCN9oi6CXRmcQ,Kin Ramen,129 W 56th St,278,4.5,10019,Other
+kaSd6qzlsxn__ILDtGf3iA,Alice's Tea Cup,102 W 73rd St,1282,4.0,10023,Other
+DiHm4iIAQhqMKfjsrBPvZw,Socarrat Paella Bar - Chelsea,259 W 19th St,1295,4.0,10011,Spanish
+abNHO9-xlCsv31gghCUuxw,Zutto Japanese American Pub,77 Hudson St,1027,4.0,10013,Other
+McU7XI3HoWFELTDaGc1SEw,Ginger and Lemongrass,153 Rivington St,580,4.5,10002,Vietnamese
+croh2zWlbPyCQTNS11klcg,China River 川聚院,258 W 44th St,281,4.0,10036,Other
+7bD22UAtH56ikWYslOSIQg,Calexico - Upper East Side,1491 2nd Ave,860,4.0,10075,Other
+xEF3Kvd0yw74pjnlFB2Sgg,Nobody Told Me,951 Amsterdam Ave,244,4.5,10025,Other
+mXN9tmuDHZIfCeUBYqSRuQ,John Doe,253 5th Ave,206,4.0,10016,Other
+nMWqlWid2YfDeutioit_0w,Bill's Bar & Burger,16 W 51st St,1510,3.5,10019,Other
+jf3JRaxUYU93x8LFU-8gkA,GupShup,115 E18th St,690,4.0,10003,Indian
+A-ert0jDRBfku9ogyW_mEg,Spice Symphony,150 E 50th St,654,4.5,10022,Chinese
+GKspSLe5U3qkUgQTXfngyQ,Handsome Rice,133 E 31st St,161,4.5,10016,Korean
+JSexQM-wn8HvWmfxu_m5ZA,Gnocco,337 E 10th St,580,4.0,10009,Italian
+ePqKbqXFBCbwBaWiN2Jo9w,Ampersand,294 3rd Ave,263,4.5,10010,Other
+xiwnLiNhSlEN4CDcurqsLQ,2nd Ave Deli,162 E 33rd St,1390,4.0,10016,Other
+OtsLOJ4LbAHQ5UzYZBv58Q,The Chick Inn Kips Bay,415 3rd Ave,79,4.0,10016,Other
+SPyN19tjQyRTD-ltN0qNJw,Koku Ramen,2 W 32nd St,531,4.0,10001,Korean
+bvc5P9vmRiNhyVWjd5bVcg,Eclair Bakery,305 E 53rd St,731,4.5,10022,Other
+xrnk8mgoV7up6fauVmugpw,Jun-Men Ramen Bar,249 9th Ave,717,4.0,10001,Other
+oyxtaqfFZkP_vC0M6GfkbA,Chez Napoleon,365 W 50th St,308,4.0,10019,French
+a-Bq_yXFVk2PptoWpmry3w,Pye Boat Noodle,35-13 Broadway,1042,4.5,11106,Thai
+gZz9A8k8ORC_xl0aHxtY4w,Monkey Bar,60 E 54th St,111,4.0,10022,Other
+Bb0h5Rs8ugSM2CjulRhfBw,Spicy Moon East Village,328 E 6th St,672,4.5,10003,Other
+vx2JV9juVzSBRGWHOZCTAQ,ABA Turkish Restaurant,325 W 57th St,607,4.0,10019,Turkish
+YSflX6shqcP3zYno0Zz75Q,While We Were Young,183 W 10th St,459,4.0,10014,Other
+32VbG_XgkZIuye0PV-BxaA,Zero Otto Nove,15 W 21st St,551,4.0,10010,Italian
+ct58a_D8Z8DoJt7luB50wQ,Ramen Ishida,122 Ludlow St,312,4.5,10002,Other
+Hp1ZDTeJOP1NrY2aFtROgQ,Woodbines,47-10 Vernon Blvd,373,4.0,11101,Irish
+d79AROdlfw0Zzj5nRpUIxw,Joomak Banjum,312 5th Ave,114,4.0,10001,Korean
+Q1_UvNyONsaVS_VC1mD9Dw,Osteria Cotta,513 Columbus Ave,1072,4.0,10024,Italian
+8HkB3JfIj7_g-MN5ujoRig,Grand Central Terminal,89 E 42nd St,1529,4.5,10017,Other
+LZg7F1_HSl3Nmwl54NQtqA,Taru,30 W 53rd St,51,4.5,10019,Japanese
+hyBM_Xk9Hzp38acTHAHlBQ,dell'anima,600 11th Ave,692,4.0,10036,Italian
+LjBKkUSpMwrpo99hXgtHYw,Franchia Vegan Cafe,12 Park Ave,1058,4.0,10016,Korean
+dh5r9-SbN8xJ76XvnayWLQ,Giano Restaurant,126 E 7th St,703,4.5,10009,Italian
+K9kL1ice5jlkPXcNyTus3Q,Pasta Lovers Trattoria,142 W 49th St,507,3.5,10019,Italian
+XvcRtA3pD6gpICLsdsQVbA,David Burke Tavern,135 E 62nd St,268,4.0,10065,Other
+M8xnlKQOh0tl58LJCnPUVA,Ravagh Persian Grill,1135 1st Ave,434,4.0,10065,Mediterranean
+nF-EOBd_H1fX50iT1EIVZA,Pil Pil,265 E 78th St,824,4.0,10075,Other
+J3NT61-AH5d5Gu5tFJhYSw,The Cabin NYC,205 E 4th St,607,4.0,10009,Other
+CDywb3LHVYZlQL2-woTiJA,Hole In The Wall,37 W 24th St,310,4.0,10010,Other
+eWMuXtaBzf0H5u0Vf_zpjw,Ciccio,190 6th Ave,313,4.5,10013,Italian
+b2naaHiaR57Hm6JZG0njPg,Draught 55,245 E 55th St,412,4.0,10022,Other
+TZto7AjdA337XIw66AOpUw,Scalinatella Restaurant,201 E 61st St,335,4.0,10065,Italian
+MCnexHfsclcOpLHS4_2U0A,San Carlo Osteria Piemonte,90 Thompson St,292,4.5,10012,Italian
+xTnivXEdEtXrnhp-z4JGvg,La Parisienne,9 Maiden Ln,868,4.5,10038,Other
+IfIyjm4SfORGYPbaAWST3g,MEXiCUE,225 5th Ave,682,4.0,10010,Mexican
+qhXIW0LDT4XsoN2IE6dZHg,Ahimsa,204 E 38th St,218,4.5,10016,Indian
+NRcffNvufYo2Jul0h24_qw,Bryant Park Grill,25 W 40th St,1118,3.5,10018,Other
+sfsjk1h50ooC2ioY7m48gw,Pig Heaven,1420 3rd Ave,501,4.0,10028,Other
+cHvd_fnNqbcR4EdyodzGzw,Koloman,16 W 29th St,108,4.5,10001,French
+dvkQIG20RjgNi-SwRr_1CQ,MAMO Restaurant,323 W Broadway,357,4.0,10013,Italian
+C9BjYm4WyoQFPQUHmBErDg,Bird Dog,525 Hudson St,217,4.5,10014,Other
+82wA_Vfg_eDckx23d3dA_g,Sel Rrose,1 Delancey St,625,4.0,10002,French
+vlepW-Y_RDQaDMLtEwHWmg,Bubo,515 3rd Ave,252,4.5,10016,Other
+wpT1QU7PSQgQQ1DkzI00JA,Izakaya Toribar,164 E 56th St,174,4.0,10022,Other
+aSFBv64GBpMOFPqIleeQFQ,Lure Fishbar,142 Mercer St,1944,4.0,10012,Other
+lwfCl81r5a0mjxDNxNGC9w,Il Buco,47 Bond St,799,4.0,10012,Italian
+txSykTj5nbwmpiVNoK_Dyg,Blue Ribbon Brasserie - SoHo,97 Sullivan St,1012,4.5,10012,Other
+RQojRzAYA9Cq87PqwQq5yg,Deux Amis,356 E 51st St,222,4.0,10022,French
+qLYloGaI-4OmLbNnr_wrGA,Castell Rooftop Lounge,260 W 40th St,251,4.0,10018,Other
+kn9rgR4KlvyTTi-s76OIaQ,Toloache 82nd,166 E 82nd St,509,4.0,10028,Mexican
+BsDu_kup3lJ2QHb-Botpeg,Covacha,368 Columbus Ave,192,4.0,10023,Mexican
+Bjv99EWQdyJUGzAZYQ_WOA,Bubba Gump Shrimp,1501 Broadway,1209,3.5,10036,Cajun/Creole
+ub2VfE7SRLJABAClzGZp3A,Tacombi,30 W 24th St,795,4.0,10010,Mexican
+0GftSP2dRwEzujkv2VKIgA,Wok Wok Southeast Asian Kitchen,11 Mott St,1196,4.0,10013,Chinese
+zo4mcEfVKaktdj_gnSFhGQ,Cafe Katja,79 Orchard St,839,4.5,10002,Other
+D2qV8sDdHEFlHbVz7VSHRQ,Black Tap Craft Burgers & Beer - SoHo,529 Broome St,1384,3.5,10013,Other
+lxHKbp0hReRBPZcq4fUUow,NAYA Mezze & Grill,1057 2nd Ave,541,4.0,10022,Mediterranean
+hKkPlYmHoS9Nb_UbGGqx8A,Street Taco,358 3rd Ave,522,4.0,10016,Other
+IEb99GmOvg585gmwmm4iNA,Azalea Ristorante,224 W 51st St,335,4.0,10019,Italian
+OUp31SPcjK8wkBK_E6h2Gg,Sweetbriar,127 E 27th St,80,4.0,10016,Other
+t0Bel7xLMUt5g8qIpBylZg,&pizza - NoMad,15 W 28th St,527,4.5,10001,Other
+_QYgfFhomwKBbKWfOKcatw,The Press Club Grill,1262 Broadway,32,4.5,10001,Other
+i34wlziIjT8lHgUN1o0ToQ,The Shakespeare,24 E 39th St,394,4.0,10016,Other
+228DO__YwYmliMx6Q5jTtw,Turco Mediterranean Grill,604 9th Ave,629,4.0,10036,Mediterranean
+r7z65v8cnBP0MhGP4oQ0bQ,Oda House,406 E 73rd St,241,4.0,10021,Other
+WKDdD8Z17-P1XhkyJtDEFA,Johny's Luncheonette,124 W 25th St,1193,4.5,10001,Other
+2_oy2iBeT0Rg-oz4f0GF1A,The Jeffrey Craft Beer & Bites,311 E 60th St,731,4.0,10022,Other
+JOvcJqD5eCFrGjFa6k7vpQ,Zia Maria - Chelsea,318 W 23rd St,341,4.0,10011,Italian
+1jAB_uaI8-P_wSqOo2S3KQ,Mazu Szechuan,495 3rd Ave,127,4.5,10016,Other
+iGmQlzlI4g2ky8cogfDpnQ,SUGARFISH | Midtown East,152 E 53rd St,133,4.5,10022,Japanese
+PajKY49h4SpvSr-TW3lwCQ,Rafele Ristorante,29 7th Ave S,541,4.0,10014,Italian
+PbezejIP9RHrjw-k459iZA,Porteno Restaurant,299 10th Ave,417,4.0,10001,Other
+06tnwnEQM2j9A6dC3HC_TQ,Capizzi,547 9th Ave,916,4.0,10018,Other
+W1pBIFhkjJwjTe2P7o57yg,Lilly's Cocktail and Wine,50 W 72nd St,165,4.0,10023,Other
+EvAJBgBdgOt1jx1EufRN7w,Jin Ramen Upper West Side,462 Amsterdam Ave,1092,4.0,10024,Other
+74FFOreAgPphSwSZlfZzgw,Jones Wood Foundry,401 E 76th St,806,4.0,10021,Other
+HuUiXwo2rVKHZDwMeqNfQQ,Malii Gramercy,391 2nd Ave,129,4.5,10010,Thai
+Exb6scc1mLuhsWrMLJqw9g,Sushi Lab - East Village,320 East 11th St,83,5.0,10003,Japanese
+Ry04HQ6kNsF1RYTjINDaYw,Slate Cafe - Nomad,121 Madison Ave,770,4.5,10016,Other
+q1uIqB8PvyCCX8TajaRYBg,Little Owl,90 Bedford St,1459,4.0,10014,Mediterranean
+Kqb7MjTPNkjPMoFRd-rWpw,MáLà Project,122 1st Ave,890,4.0,10009,Other
+WRPJeH3goSpj5ke3Pkrnfw,Burp Bowl Cafe,134 E 27th St,295,4.5,10010,Chinese
+fNKYBpQJivICm0ORb3nb_Q,8282,84 Stanton St,176,4.5,10002,Korean
+d-DQwNxs77Pah2ys0q7w1Q,American Cut Steakhouse Tribeca,363 Greenwich St,660,4.0,10013,Other
+HrdIdeDZBTUdyEdSTPG1zg,Jack's Wife Freda,50 Carmine St,984,4.0,10014,Mediterranean
+D9nQb14gqhCAOaUUvJz3-Q,Reserve Cut,40 Broad St,330,4.0,10004,Other
+K9Ur20N51Li3sAvaV9-6Ng,Casa Limone,20 East 49th St,112,4.5,10017,Italian
+ikkIneKupd7sClxu9nvdzQ,Shiraz Kitchen & Wine Bar,111 W 17th St,197,4.5,10011,Mediterranean
+Z2sNzskjS8Ck0plppRBJIg,Ed's Lobster Bar,155 Grand St,1106,4.0,10013,Other
+K_0tNvQd7gyabfJrodf-tw,Archer & Goat,187 Lenox Ave,191,4.5,10026,Other
+Ej-hrhc8HFWfijN4X5akOg,Dim Sum Palace,33 W 33rd St,239,4.0,10001,Other
+QVXLgfB4J2j1BjeSgmoXgw,The Grid at Great Jones Distilling Co,686 Broadway,32,4.5,10012,Other
+UJDb0M1eF4KkxJdCTh67cw,Shun,610 Lexington Ave,52,4.5,10022,French
+xbrQ2dHuQoFJmNxAuOky4A,Vic's,31 Great Jones St,590,4.5,10012,Italian
+PAJdNrD4HFBN16OAFeDx4A,Ponche Taqueria & Cantina,420 W 49th St,567,4.0,10019,Mexican
+Ti-957LNURM0Gy2CXIbQOw,Hummus Kitchen,768 9th Ave,994,4.0,10019,Mediterranean
+pb_ryc8FYHpUPV56eV2Eyg,Brooklyn Bagel & Coffee Company,286 8th Ave,1882,4.5,10001,Other
+kS2CP48K66yL2TwIhUqy_A,Tamarind,99 Hudson St,1133,4.0,10013,Indian
+NUdrJYB7GHRuwVVETSDIFQ,Top Quality,10-29 44th Rd,178,4.5,11101,Mexican
+Jy0nQ1uI8KPvTv8nBZGdMg,Wildair,142 Orchard St,229,4.0,10002,Other
+Qgv2vyUV-DwK8YwrhU-jtw,Lan Sheng Restaurant,128 W 36th St,218,4.0,10018,Other
+t7xqAMBQNH4ppsPSOMzFyg,Treadwell Park,1125 1st Ave,567,4.0,10065,Other
+Brs_MJhAXe60iMnlpeqkKA,Yakiniku West,218 E 9th St,769,4.0,10003,Other
+H8qcX7MNNnC1bqE0LnIhKg,SIMÒ PIZZA,90-92 Gansevoort St,252,4.5,10014,Other
+V95hnN4N2vw1ph2mDxIA7w,Olle,11 E 30th St,144,4.5,10016,Korean
+KHdYPT0jUnUGdHGaY73mxg,Sukhumvit 51,224 E 51st St,831,4.0,10022,Thai
+u0qfikB-ppp6UwoNKqxlRw,Flame,100 W 82nd St,519,4.0,10024,Japanese
+VACzezINx10UlfXjdz0Iow,Resolution 39,228 W 39th St,16,5.0,10018,Other
+38Us1YuiJGBI0ps-2pHpmw,Lagos Restaurant and Lounge,727 7th Ave,266,3.5,10017,African
+1p4dUaLyzIhN5n1lJnHSgA,Bustan,487 Amsterdam Ave,597,4.0,10024,Mediterranean
+2P2yx60T04Te19tkRZE43w,Le Rock,45 Rockefeller Plz,65,4.0,10111,French
+36krOhexcsA8Uetoq52A7g,Top of the Rock,30 Rockefeller Plz,1766,4.5,10112,Other
+7ZQSMqWzvXMSetXnii2fBg,Excellent Dumpling House,165 W 23rd St,777,4.0,10011,Other
+dqjko5ndMGayALuhwq3ghQ,Thailicious,71 Clinton St,271,4.5,10002,Thai
+6aVgixwks8EgirE1JtyDAQ,John's of 12th Street,302 E 12th St,869,4.0,10003,Italian
+Hc2MuvFClsTlXr-MivnLzQ,Via Brasil Restaurant,34 W 46th St,230,4.0,10036,Brazilian
+ZikqL-flwV2XYlKtL2UfmA,Rangoli Exquisite Indian Cuisine,1393 A 2nd Ave,513,4.5,10021,Indian
+objNX6cuj1JyUijFjw21Qw,Bombay Bistro,31 Cornelia St,277,4.5,10014,Indian
+HApdNNztx8Q7VF_9vkoAUA,Guantanamera,939 8th Ave,1107,3.5,10019,Other
+6eVNHrnp67ZniJYLik1qig,Yara,319 E 53rd St,255,4.0,10022,Mediterranean
+UXVDyIzmO5kmJnlv-HDXLg,Cafeteria,119 7th Ave,3625,3.5,10011,Other
+m8Ytb_3eYIiWla68Lk2fFA,Under The Bridge,1079 1st Ave,243,4.0,10022,Greek
+HEs6llkn3wIP1ATXeIZQew,Pippali,129 E 27th St,897,4.0,10016,Indian
+IGZkGbwE36iE1yaDW5NNKA,The Flying Cock,497 3rd Ave,679,4.0,10016,Other
+idxD3X7WfLFPZMoFnCRIQQ,Il Cantinori,32 E 10th St,285,4.0,10003,Italian
+psqD5se4A0sv9Zn3PyUlcg,K-Bap & Wings,62 W 56th St,484,4.0,10019,Korean
+oBcqZs0CAZjsLuMB-mNJ6A,Sticky's Finger Joint,484 3rd Ave,484,4.0,10016,Other
+-_4i_FQ1Tt_aMU904O82Ow,Crompton Ale House,159 W 26th St,262,4.0,10001,Other
+Ps0cOZevNA1M9M5_z7W3oQ,Joseph Leonard,170 Waverly Pl,744,4.0,10014,French
+hKDCY-ZXcfPy4Vp8BfWnhw,Lezzet,791 Lexington Ave,116,4.5,10065,Turkish
+clXeABm-jiPEUypcDIzDIw,Mermaid Oyster Bar,89 MacDougal St,119,4.5,10012,Other
+D-E4HgANyW_PFEOLzTsLvw,Takumi Omakase,181 Essex St,173,4.5,10002,Japanese
+FST41XVNfiBgJHkutII-3w,American Retro,785 9th Ave,235,4.0,10019,Other
+3qIISjUYn1tbqHXi7nCLXg,Sofia Wine Bar,242 E 50th St,747,4.0,10022,Italian
+rp_TaJRjaNmOCb8vJ2S_sw,Blossom on Columbus,507 Columbus Ave Flr Grd,519,4.0,10024,Other
+aS8QlNmESvm2ZLsE9D-c3g,Aunt Bernie's Bar and Jardin,513 3rd Ave,40,5.0,10016,Other
+PSnNzN1rrIGM5Oj8Yu20Ew,Grand Central Oyster Bar & Restaurant,89 E 42nd St,1876,3.0,10017,Other
+f-sL-VgQzte0StcqI3KkJw,West Bank Cafe,407 W 42nd St,278,4.0,10036,Other
+_jX0YO1PykUrRKCLo0WxIw,omakase room by maaser,321 Bleecker St,224,4.5,10014,Japanese
+38YuedP0ItlKbC-ncJ1XCQ,Tavern on Jane,31 8th Ave,459,4.0,10014,Other
+5pRxCYQppSq0czjFDN9X3Q,Campagnola Restaurant,1382 1st Ave,326,4.0,10021,Italian
+kNOr6_g6QfBHdhf89j3g5w,Taiwan Pork Chop House,3 Doyers St,642,4.0,10013,Chinese
+a6SzfZ2F-uELmymusQVMBg,Karczma,136 Greenpoint Ave,681,4.5,11222,Other
+kmcgUxWhwlbmC-FAMTEF2g,Cafe d’Alsace,1703 2nd Ave,1379,4.0,10128,French
+oyxk3hv9F7dGZGARmNDSYg,Zoob Zib Thai Authentic Noodle Bar,460 9th Ave,482,4.0,10018,Thai
+xxE4sKeYJAuHdNm7WZlVOg,Banc Cafe,431 3rd Ave,706,4.0,10016,Other
+Q23LvHPuC9ajSbMEt8xoUw,Lucky Cat,232 E 53rd St,427,4.0,10022,Other
+2omGjYIPB0N8oNwws6ZdJA,SPIN New York,48 E 23rd St,612,4.0,10010,Other
+BA6wd1pZTVu1DmrtiyTs8g,Raoul's Restaurant,180 Prince St,647,4.0,10012,French
+BbMUXd69i0tlWS2aoppwaQ,El Camion,194 Ave A,769,4.0,10009,Mexican
+eFS3e9ctodj4aBTzRv_vtQ,Ben & Jack's Steakhouse,219 E 44th St,369,4.0,10017,Other
+7N9guQY_2a3gXXIlBQGKtA,Hole In The Wall,445 E 35th St,199,4.0,10016,Other
+6G_NSMacAfdf-WYOpcQ4uw,Eileen's Special Cheesecake,17 Cleveland Pl,1926,4.5,10012,Other
+QqrEF8_ZQCGi63cL10J5oA,Chola,232 E 58th St,676,4.0,10022,Indian
+ya8HC5_97zGt3wNPWNNENA,Food Gallery 32,11 W 32nd St,910,4.0,10001,Other
+fmG6BTunLXI2cN61NuLHiw,Ophelia,3 Mitchell Pl,424,4.0,10017,Other
+UtknyDJ_DPut-FKRqs0wpQ,Royal Grill Halal Food,44TH St And 6th Ave,549,4.5,10018,Indian
+_NS1hEZ0LPwaTG4R6jxgnw,Cafe Sabarsky,1048 5th Ave,606,4.0,10028,Other
+9tWsM0Ol6CGqfBWKzwdwyg,Maggie Reillys Restaurant,340 9th Ave,111,4.0,10001,Other
+hFZ5qw8gvWiBUbmbahSalg,Wolfgang's Steakhouse,409 Greenwich St,625,4.0,10013,Other
+AHDlsNh8fODK9miC3zv3Zg,Unregular Pizza,135 4th Ave,244,4.5,10003,Italian
+wTCR-EUTLX4UoPUPdxWVJg,Blend,47-04 Vernon Blvd,991,4.0,11101,Other
+jvPYm9rYK-5ddnjU30Oz4Q,Avant Garden,95 Avenue A,436,4.5,10009,Other
+6n7D4amt9vEruR73tt3S9w,Cafe Fiorello,1900 Broadway,954,3.5,10023,Italian
+PjfnqELVT517Ahw1HHRR4Q,Yard House,575 7th Ave,176,4.0,10018,Other
+77Q8n_SSXjhN8m2ypqs0ew,Maman,22 W 25th St,428,4.0,10010,Other
+AsCEdN4DlJsfIvA3H_jrAw,Tenho Ramen,542 3rd Ave,200,4.0,10016,Other
+oV_B5pRkcICNab7_eVoIcA,Go Nonna,10-50 44th Dr,161,4.5,11101,Italian
+pSq53dIANeyXjPDEDglkUA,The Loeb Boathouse Central Park,E 72nd St And Park Dr N,1462,3.5,10021,Other
+8cT6XDwI9KiCaoVohlx42Q,BXL Zoute,50 W 22nd St,449,4.0,10010,Other
+_saXnBy0Wq2Gb3YusWZhqw,Five Senses,9 W 32nd St,1721,4.0,10001,Korean
+vqmSE-4AEUyCwLWUiKU-3A,Sin City Burger,311 E 76th St,199,4.5,10021,Other
+stGcUKRbVS0H-Uv8DTVW4Q,The Factory 380,380 3rd Ave,161,4.5,10016,Other
+VqnPcfqYltgxAkIuTaGkYg,Tre,173 Ludlow St,524,4.0,10002,Italian
+MyQV4i518ZO4CLudtR8gLA,The Bar Room,117 E 60th St,609,4.0,10022,Other
+UH_aksIxzGPPyhWZJbTP7A,Cantina Taqueria & Tequila Bar,1838 7th Ave,573,4.0,10026,Mexican
+Jcp-SJpnkhj_MD8-aDIHaQ,Ippudo 5th Avenue,24 W 46th St,472,3.5,10036,Other
+Hv_jHNuw63oO-jtNXuWDVQ,Spunto,65 Carmine St,471,4.0,10014,Italian
+bBDzXNM7Y7_8WE2Sm6R_ig,Gotham West Market,600 11th Ave,567,4.0,10036,Other
+kxykwx5qTWBhlMh18MQ82Q,Luke's Lobster FiDi,26 S William St,1266,4.5,10004,Other
+JZ06I46tmJlvYA_NZ7zyxw,The Skylark,200 W 39th St,703,4.0,10018,Other
+FNxOWxts63oDRKwy9Pbfzw,Tarallucci E Vino - Nomad,44 E 28th St,203,4.0,10016,Italian
+HfJhenvKDi-ds8SUJFwrLg,Momofuku Noodle Bar - East Village,171 1st Ave,4429,3.5,10003,Other
+eRtceh_W_yniAfCqJni5Bg,Go! Go! Curry!,273 W 38th St,1510,4.0,10018,Other
+SyvC0s3y0ZrtnLbwnvw7tw,Tim Ho Wan - East Village,85 4th Ave,1884,3.5,10003,Other
+xGoSAOhQBNdJMJmPn7CMDQ,MEXiCUE,1440 Broadway,688,4.0,10018,Mexican
+VP3-iMnKK_TaHDuy6mxTzA,Scott's Pizza Tours,,374,5.0,10001,Other
+GknCLz8E_mC211psEX8lYg,Sushi Zo | New York,88 W 3rd St,120,4.5,10012,Japanese
+FwnEoJ4Xl5_5byVLhmxzoQ,Granny Annie’s Bar And Kitchen,425 Main St,75,4.0,10044,Other
+_7BGw3YFNOTzP1Www3zB7g,Mughlai Grill,6 Clinton St,531,4.5,10002,Indian
+W45PNquvdkIeedQ9LOLHUQ,Luke's Lobster Garment District,1407 Broadway,85,4.5,10018,Other
+GCAQmtRdNhqVit5KGJ46Qg,Estela,47 E Houston St,639,4.0,10012,Other
+HUEj_yVB1E2mNNxW5PqUtQ,Bistro Vendome,405 East 58th St,189,4.0,10022,French
+PJeuLlvja4ZKv_tHq_pE1A,Heidelberg Restaurant,1648 2nd Ave,815,4.0,10028,Other
+G9SWgxH65OBQaJaE8dHkbw,Zest Ramen,112 Eldridge St,333,4.5,10002,Other
+Dng_LID2JNnc6M6A1FB19Q,Come Prima Ristorante,903 Madison Ave,107,4.5,10021,Italian
+UnB53OMX3CtEbEaTdtBNkQ,Swingers Crazy Golf - NoMad,35 W 29th St,502,4.5,10001,Other
+yH6t1JWcwkdWG4CS5KPvow,Adrienne's Pizzabar,54 Stone St,1850,4.0,10004,Italian
+RP02PZPNdhfoL-TjOMiKVg,Table d'Hôte,44 E 92nd St,171,4.0,10128,French
+vwsKHxKI49TIM8Ao_RTNgg,Carnegie Pizza,200 W 41st St,252,4.5,10036,Other
+SEt6YdbMxMKGw8FhKwMjzA,UN Plaza Grill,845 1st Ave,92,4.0,10017,Other
+VSPkVw9gSQx-5v4A6aC_YA,Manousheh - Bleecker,193 Bleecker St,517,4.5,10012,Other
+PYmjoid5P-Mw8dkkKxZy6w,Harvest Kitchen,269 Columbus Ave,370,4.0,10023,Other
+8xYvp9j7j8RCRQGsiRRujQ,La Bergamote NYC,177 9th Ave,404,4.0,10011,French
+nJh1ioLcN6XBQEstR6x9yw,Dai Hachi Sushi,46-18 Vernon Blvd,270,4.5,11101,Other
+meVzfRH_wLAJjcrCAhkh1g,Patisserie Chanson,20 W 23rd St,508,4.0,10010,Other
+vwVRoM9gVWuwJw1_6xfyag,The Summit Bar,133 Avenue C,407,4.5,10009,Other
+qLLxS7RwNEjP_jq_KQrPfA,Traif,229 S 4th St,2048,4.5,11211,Other
+sb1_MyLHzmjV1Jk21pyOIA,Sao Mai,203 1st Ave,669,4.0,10003,Vietnamese
+gG0pitVnSaUMGbEL3boF0g,Souvlaki GR,116 Stanton St,972,4.0,10002,Greek
+rQpO1Eie_zmeAOQ9s-T0sQ,Hole In The Wall,15 Cliff St,778,4.0,10038,Other
+diX-SHOYXgGzEEYMCLxaCw,Sixty Three Clinton,63 Clinton St,143,4.5,10002,Other
+sKIYGvENchifk1YwFe77pA,Saiguette,935 Columbus Ave,733,4.5,10025,Vietnamese
+ihplCj2HKWR7z-bBKf8Nzw,POST,217 E 3rd St,344,4.5,10009,Other
+q3_FgDWWuXcVGiNuo_OPBQ,Fiaschetteria Pistoia,647 E 11th St,281,4.0,10009,Other
+p5g5P-t-iAvHAxJvI6KUPg,La Nacional,239 W 14th St,173,4.5,10011,Spanish
+lu0XMmcPyFGvIgqRcbU_4g,Le Jardinier,610 Lexington Ave,67,4.0,10022,French
+NRJq2BNcbjqAyxUB_bw7gw,Momoya,185 7th Ave,823,4.0,10011,Japanese
+bEloKDe-QVkwakAwmFKbbA,Frying Pan,207 12th Ave,1643,4.0,10001,Other
+CdHOwIO6OFNXZxPYEUts2g,Ageha Sushi,767 9th Ave,737,4.0,10019,Other
+ZgU1Jmw9Itx_bEveDXtiFA,Jackson's Eatery | Bar,10-37 Jackson Ave,385,4.5,11101,Other
+hDj_0pbi4mFR5p1H1w6igw,Misirizzi,36 E 4th St,206,4.5,10003,Italian
+gcEMZjjqy5Ucnv_5Pv-q1g,Tasty Hand Pulled Noodles II,648 9th Ave,399,4.0,10036,Chinese
+pNYcGGAj4AYaExlmrEmfUw,Harry's,1 Hanover Sq,818,4.0,10004,Other
+-QIPdiq5ILg_EJqdVoCqEA,Istanbul Kebab House,712 9th Ave,652,4.0,10019,Turkish
+iks1xNyp-uZnaeunOM2UPg,Magnolia Bakery,1240 6th Ave,2857,3.5,10020,Other
+jz_FnuRpCNzfwwHHQ6Nbeg,Schmackary's,362 W 45th St,2233,4.0,10036,Other
+DtnlLLvcqeEUIyZTypHnzw,Il Mulino New York,86 W 3rd St,636,4.0,10012,Italian
+cuUmPDEY-1KXzShGdpsqag,Turkish Kitchen,386 3rd Ave,608,4.0,10016,Turkish
+1WeOq3GcrOAGB9QJrJ6Tug,Genki Omakase,552 LaGuardia Pl,219,4.5,10012,Other
+w4cFJhUpjGXqqWBd3BbY4w,Freemans,Freeman Alley,2221,4.0,10002,Other
+-CCfu19Uuy_kD2t4ZwsQfA,Village Square Pizza,147 Ave A,293,4.5,10009,Other
+axTcK1tPi9XhvdgAitJHpQ,Pig 'N' Whistle Public House,58 W 48th St,183,3.0,10036,Irish
+kwqOmEwWJ0D9PyCdFGE3-g,Xian Famous Foods,14 E 34th St,738,4.0,10016,Chinese
+4CObV3XU8VQ6nXeVS4vO0A,Margon,136 W 46th St,813,4.0,10036,Other
+4yPqqJDJOQX69gC66YUDkA,Peter Luger,178 Broadway,6862,4.0,11211,Other
+MEzvOZ34GFaiEAaVQFvggg,Harry Potter New York,935 Broadway,346,4.5,10010,Other
+yj4culC4vfNKWXdj5ZxJ4Q,Kosaka,220 W 13th St,210,4.5,10011,Japanese
+hfMtSdxRsC3JQP3yrm6nag,Claw Daddy's,185 Orchard St,1936,4.0,10002,Cajun/Creole
+Z2Di9aL4YCfnUYr3VSzLgg,Mermaid Oyster Bar,127 West 43rd St,63,4.5,10036,Other
+yihja79D40NH8J6acX1Xwg,The Grey Dog,55 W 26th St,156,4.0,10010,Other
+quTCBKTDcP2MWRM8jqiAQg,Genesis House,40A 10th Ave,98,4.0,10014,Korean
+eGIY_25KFspf8KefDQMj-Q,Lan Larb,637 2nd Ave,355,4.0,10016,Thai
+Z-QmxQZAJEy5GXqA82Bemw,Da Toscano,24 Minetta Ln,143,4.5,10012,Italian
+pAqrkEtry8PFVl-_PIksnw,Anixi,290 8th Ave New York 10001-4801,123,4.5,10001,Mediterranean
+NgtVHBGqkR22c_V7Vm4DIQ,Kyuramen - Times Square,315 W 46th St,189,4.5,10036,Other
+NPG2jp4C61RJbmbA35p6xA,John Sullivan's,210 W 35th St,273,4.0,10001,Irish
+GJ3vgPvcJlOejZepOotQug,The Woo Woo,266 W 47th St,158,4.5,10036,Other
+BZcG-xN3DCxlfhckBZYeuw,Pio Pio 7,210 E 34th St,878,4.0,10016,Peruvian
+YMHxv6VFriKz1KevVXl0Cw,Gallow Green,542 W 27th St,930,3.5,10001,Other
+5ZgCfc1_fotAKUp7n3YJkQ,Towa,36 W 26th St,92,4.5,10010,Japanese
+e_EQojNWskn_hFbKA_UZ-Q,Balvanera,152 Stanton St,319,4.5,10002,Other
+_nScWpFX3M1K7s30hFEsRw,INDAY,1133 Broadway,411,4.0,10010,Indian
+KF4dTBX9ITMTSjwEXxXZ6g,Friedman's,50 W 72nd St,322,4.0,10023,Other
+SP4bvMvxel_UPdof_er3HA,Taco Mahal,73 7th Ave S,855,4.5,10014,Indian
+Kw7Xwxm4WWRNIYGg-wMXXQ,4747 LIC,47-25 Vernon Blvd,25,4.5,11101,Mediterranean
+rHYwqiWTFs-oOKikxY7kag,Zia Maria Little Italy,138 Mulberry St,371,4.0,10013,Italian
+L3reOLLPez7lnOhyfCpvkg,Shinka Ramen & Sake Bar,93 Bowery St,437,4.0,10002,Other
+xQag1K9NezcXdXXn2AZcqA,Kjun,154 E 39th St,112,4.5,10016,Korean
+QTVaZDiFElJ-d8vqd0DWww,Emmy Squared Pizza - Upper East Side,1426 3rd Ave,275,4.0,10028,Other
+6t5xWjPLWAjJV3YFMX_oaw,Hirohisa,73 Thompson St,203,4.5,10012,Japanese
+nvTE9vtXCoYvF9-l6PZMVw,Uva Next Door,1484 2nd Ave,93,4.0,10075,Italian
+EN9_LsFpY44Hkzcnu0jfIg,Dynasty Dim Sum,381 3rd Ave,199,4.0,10016,Other
+C3OlQ_y5LcgboyaKlpETYA,Trattoria Casa Di Isacco,536 9th Ave,379,4.0,10018,Italian
+2LIH5ipzCCtVx_myIkZrtQ,Mezze on the River,375 South End Ave,162,4.5,10280,Mediterranean
+-58--bg-KKUNArp18U4llA,da Umberto,107 W 17th St,218,4.0,10011,Italian
+yQ7K4uFnxXxpBVbnOSR8kA,Polpette 71,71 West 71st St,255,4.0,10023,Italian
+9f6chaCx20d1A0Abo6NzUw,Chateau 49 Bar A Vin,924 2nd Ave,151,4.0,10022,French
+IErfGS0DASSJfYU73m0Sqg,Malatesta Trattoria,649 Washington St,1357,4.0,10014,Italian
+EaNRl3vlDOsNF-gkCR5mBA,La Sirène-UWS,416 Amsterdam Ave,127,4.0,10024,French
+dNFsMw-z3Vsa5TbJd9Q4Ew,Faces & Names,159 W 54th St,432,4.0,10019,Other
+VBKCeFh76btxKlL827HTqA,The Liberty,29 W 35th St,551,3.5,10001,Other
+mbkBCEx8mgw9Qroo7xywPg,The Mean Fiddler,266 W 47th St,850,4.0,10036,Irish
+g2IUVjeIwx5x6x9u1cLS6w,Empire State Building,20 W 34th St,2208,4.0,10118,Other
+kLJfizeHMQqesp1K9mfUtg,Via Quadronno,25 E 73rd St,620,4.0,10021,Italian
+nM2AdRp2iSJHi4MgvIrEBg,Oak Tuscan Truffle Lounge,28 Greenwich Ave,166,4.5,10011,Italian
+v0LGazMDlyPX5ceLYpZyTg,Akdeniz Mediterranean Cuisine,43 West 46th Street,448,4.0,10036,Turkish
+aaA4UHm25lbUIOlwwjWLyw,Roey's,1 Perry St,206,4.0,10014,Italian
+SWK0AQ5KTDDCt8AtOhhasg,Malibu Farm New York,89 South St,373,4.0,10038,Other
+dIyKvfhjtm3NuKrMVVt0TA,Lucciola Italian Restaurant,621 Amsterdam Ave,101,4.0,10024,Italian
+q9VwJbrN0fGdm4L0oP2X8w,S&P,174 5th Ave,96,4.5,10010,Other
+J0OeDwmh5JBhid0A5GvltA,Il Corallo Trattoria,176 Prince St,1141,4.0,10012,Italian
+n2xFYgwuo1-ToqNnCkvdtg,Burgerology Midtown,320 W 36th St,97,4.0,10018,Other
+Ty1MvJz88DeNmX0eDHeMyQ,Pietro's,232 E 43rd St,149,4.0,10017,Italian
+7CM15wd5d8WC_pHR674YXA,Hummus Kitchen,1613 2nd Ave,1132,4.0,10028,Mediterranean
+ynoBdZ5TXnF4ibkxrQk8VA,Dave's Hot Chicken,944 8th Ave,212,4.5,10019,Other
+wZkZmjZEJDraLJgAalnHvA,Pisticci,125 La Salle St,1043,4.0,10027,Italian
+ajIxeFOijO3n5AUncMDsbw,Joey Roses Sandwich Shoppe,174 Rivington St,108,4.5,10002,Other
+coQAQmIKG9dBPA6-RHqJag,Wan Waan,200 8th Ave,182,4.0,10011,Thai
+iV-gnXSjT7vl71Z9pttVvw,La Bonne Soupe,48 W 55th St,183,4.0,10019,French
+r-izNItUH4ugnFodUOZX2A,International Wings Factory,1762 1st Ave,500,4.5,10128,Other
+t7BIiUN0tFg33kySuuQ0aQ,Masa,10 Columbus Cir,405,4.0,10019,Japanese
+QzKASdqNpVXkVUgb_uX43g,Horn’s Hook Tavern,1589 First Ave,73,4.5,10028,Other
+6ZIfKJpnZ465jN-diiwrzA,Féile,131 W 33rd St,303,4.0,10001,Other
+VbFYau70iG_s6UNFwYtGVQ,Xu's Public House,15 Union Square W,150,4.0,10003,Chinese
+37xSQ6l3feGBbmoqN84H3g,Monsieur Vo,104 2nd Ave,98,4.5,10003,Vietnamese
+aK32R1M7WFHMz8k8wuztiQ,The Mary Lane,99 Bank St,84,4.5,10014,Other
+fPW_GBZsnBNsIzK62sCHBg,Xi'an Famous Foods,45 Bayard St,1287,4.0,10013,Chinese
+xmQz_hZWq2poLHwHw7ZybQ,Hav & Mar,245 11th Ave,115,4.5,10001,Other
+wb06aCfVIf8I8ufPJ5zflg,Sidney's Five,103 1st Ave,79,4.5,10003,Other
+RjXFwonRyu20O2WW9YBKfw,ÇKA KA QËLLU,118 E 31st St,139,4.5,10016,Other
+jilTxChA2GqtAE21V--ckw,Debajo,44 West 29th St,65,4.5,10001,Spanish
+tM8ZtEix8Bxg82AIKsHXcw,Zizi,182 8th Ave,209,4.5,10011,Mediterranean
+8M_0cxAChoXl7Ls9YkWJlg,Xe May Sandwich Shop,96 Saint Marks Pl,670,4.5,10009,Vietnamese
+IU6pOHR8Re8kvSn0mzhPHg,Jaz Indian Cuisine,813 Ninth Ave,152,4.5,10019,Indian
+GqTgQEqwf3k5JyE7DHDhjw,Numero 28 Ristorante Pizzeria Bar,176 2nd Ave,582,4.0,10003,Italian
+W_I1ze_NZICJcDDoFttmlw,Dear Irving on Hudson,310 W 40th St,284,4.0,10018,Other
+uQ0kF3fiJFDm0oDVRaMBkw,Carla,25-03 40th Avenue,169,4.5,11101,Other
+enT7NJ7tLMvUMCWQcsUonw,Mémé Mediterranean,581 Hudson St,692,4.0,10014,Mediterranean
+M6Eiyx9LXMetMUxsYe-fvw,Ponty Bistro,2375 Adam Clayton Powell Blvd,497,4.0,10030,French
+u1cSYty-Q0TrvorveSvBZA,Lodi,1 Rockefeller Plz,77,3.5,10020,Other
+FCqKzOUM6DAxjU_xkXdhzg,Royale,157 Ave C,538,4.0,10009,Other
+pP92FmGKpH5nQfaPXMfQAg,Mollusca,1 Little W 12th St,105,4.0,10014,Italian
+CzVfYhOJrNSG-5Sn8BKHsQ,Crown Alley,263 West 19th St,181,4.5,10011,Other
+oJ6fy4fBv_3WskxH4NfNBg,Chef Huang Jian Bing & Peking Duck,635 2nd Ave,76,4.5,10016,Other
+ns-qepGEEcDpTiEr2FBEXA,Dame,87 MacDougal St,161,4.0,10012,Other
+j0n_poMVZnODYOFviLbh0Q,taim mediterranean kitchen - West Village,222 Waverly Pl,1587,4.5,10014,Mediterranean
+Xqk91WuhMeYS4pedccUYgA,Gazab,179 Essex St,255,4.5,10002,Indian
+R4iq3Tt5I0qJMVagiajz3g,Tiki Chick,517 Amsterdam Ave,298,4.5,10024,Other
+CYYLEipRFmr73Hz6XNEzoQ,Little Italy Pizza,55 W 45th St,626,4.0,10036,Other
+5W55UFYVTAdPvvo5xH0DbA,Voilà Afrique,844 2nd Ave,94,4.5,10017,African
+luA6pI0K6AWU_ivxqykdiA,44 & X Hell's Kitchen,622 10th Ave,1033,3.5,10036,Other
+IH0vUeLREFC1D_TuNXge5w,American Museum of Natural History,200 Central Park W,2393,4.0,10024,Other
+mIhqKMgru4002wfrVW-Gfw,ChikaLicious Dessert Bar,203 E 10th St,1375,4.0,10003,Japanese
+rVJ57CwEcucZg1k_y8u3Rg,Patisserie Fouet,15 E 13th St,445,4.0,10003,Other
+Uut2fBy53XdIgx1rLWdQeg,Empanada Mama L.E.S,95 Allen St,943,4.0,10002,Other
+niODyKeyStKEut1b6FNlhQ,Eleni's,226 3rd Ave,187,4.5,10003,Greek
+IQhtCTvorekeqbJr4Zf0Lg,Cervo's,43 Canal St,136,4.0,10002,Other
+Bn1mZhb501Tvf7_-Pfi9_g,Korali Estiatorio,1662 3rd Ave,257,4.0,10128,Greek
+wEb_fHmbMuzT1of_E9LT2g,Refinery Rooftop,63 W 38th St,1219,3.5,10018,Other
+bqhBU_iyHpaLlq0WSc5Nkw,Jean Claude 2,1343 2nd Ave,203,4.0,10021,French
+lP4ynyBoeFPywLg78XkMmw,Cibo e Vino,2418 Broadway,420,4.0,10024,Italian
+wrFoBJM9SsHIfz2VaqgmSg,Dallas BBQ,241 W 42nd St,2079,3.0,10036,Other
+xN4yKQMzo3PIoQlFamUOLQ,La Esquina - Midtown,200 W 55th St,272,4.0,10019,Mexican
+E_Rxnmim6J2ECFtU0QGlsQ,Uncle Lou,73 Mulberry St,369,4.0,10013,Other
+i9UMc9gLeORtCLd-OoGgYg,Lions & Tigers & Squares Detroit Pizza,268 W 23rd St,552,4.0,10011,Other
+HaDG1Ymi8NVapPBfF4Uqiw,Trust Bae,1204 Broadway,37,5.0,10001,Japanese
+HUKn7SlSjYtemmPiGLnD2w,Rice Kitchen,204 Spring St,173,5.0,10012,Korean
+3hRE9hN7Yp9AHJD8ahAVDQ,MarkJoseph Steakhouse,261 Water St,457,4.0,10038,Other
+4LoroCI3VtQ17dyQa75-Rg,The Warren,131 Christopher St,283,4.0,10014,Other
+sTu5z5HUcIYykg97HHj8xA,El Centro,824 9th Ave,915,4.0,10019,Mexican
+W08oKnigMWp4FFiGF1NJVg,Sushi Blossoms,334 8th Ave,108,4.5,10001,Japanese
+O9LKN5kk17lQWb7mMuiBzw,yasouvlaki,1568 3rd Ave,138,4.5,10128,Greek
+KakiWGOfm_h5rEqOyKD7zQ,Dominique Ansel Workshop,17 E 27th St,193,4.0,10016,Other
+vA5yC1MqC7N9gs9q-Kh2nQ,M J  Smith's Food & Spirits,9 East 45th St,46,4.5,10017,Other
+JbXpcBhrSItNZ2DBPS9u9w,University Club,1 W 54th St,48,4.0,10019,Other
+wV2YuZKjk5VhZz3I27xtsA,Monterey,37 E 50th St,43,4.0,10022,Italian
+efxcTuq9Web2AWehfmYMQw,Tina's Cuban Cuisine,23 W 56th St,615,4.0,10019,Other
+1s0SM5zh7QEMlqjIM7XYpQ,VERSA,218 W 35th St,262,3.5,10001,Other
+kMxXLrASxsbmS-ZzAaBe-A,Molly's,287 3rd Ave,576,4.0,10010,Other
+RzKR9QcYP03EQ_8DxTxowg,Barrio Chino,253 Broome St,1178,4.0,10002,Mexican
+XQKUqU1vPvgnapxmmBI55Q,Maestro Pasta,102 MacDougal St,84,4.5,10012,Italian
+MwcRbM6lS6_8N67LmyBELA,99 Cent Fresh Pizza,1723 Broadway,712,4.0,10019,Other
+8qSOz7oTPUUCafsMOBBNEQ,Pisillo Italian Panini,97 Nassau St,724,4.5,10038,Italian
+hSpZSqElyjHTfE4lQJ97Cg,Mareluna,137 Sullivan St,81,4.5,10012,Italian
+UmbueYC2QcDFJy6ju7M6dw,Porter House Bar and Grill,10 Columbus Cir,745,3.5,10019,Other
+3uEkZEAp7biQEtt0S7W1Vg,Vatan Indian Vegetarian,409 3rd Ave,882,4.0,10016,Indian
+StK7kgjMbqns4344oTFf9Q,Albert's Bar,140 E 41st St,41,5.0,10017,Other
+VpInBiE272MaN1Hi0DA-Zw,Sachi Asian Bistro,713 2nd Ave,268,4.0,10016,Other
+dCDpb-fz6Ton9AXLoaWIhA,Momoya SoHo,47 Prince St,202,4.0,10012,Other
+dS2VNgvdLCAxImvcVBV6wA,Papillon Bistro & Bar,22 E 54th St,504,3.5,10022,French
+9ZNxYreHqLSsI48s2IohUw,Sushi Suite 1001,32 E 32nd St,136,4.5,10016,Japanese
+MdFV5IBcX-Ni6I4Zy1EqIw,Marlow Bistro,1018 Amsterdam Ave,362,4.0,10025,Mediterranean
+oUVX94JtKyLPXozC2hemCg,Manetta's Ristorante,1076 Jackson Ave,457,4.0,11101,Italian
+qfZFjUnekCQRvZaZJkOPog,Aiyara Thai,480 9th Ave,128,4.0,10018,Thai
+T30fVIwEeJMvJQm9tikXbA,Lucky Cheng's,707 8th Ave,105,4.0,10036,Other
+Fl2z1edJw3MONc9rERWRMg,B2runch Harlem,271 W 119th St,346,4.0,10026,Other
+54SrQVVhGcvfuIkFabQ8KQ,P.J. Clarke's,915 Third Ave,1032,3.5,10022,Other
+KEgdfVEVVgJFnGFiLNPDzQ,Sofia Pizza Shoppe,989 1st Ave,249,4.5,10022,Other
+XBWO26QblInZGftnSDD94A,Maman,211 W Broadway,364,4.0,10013,French
+BXY0ZV3dNopEU1jphLEQrA,The Highwood,500 Ave At Port Imperial,232,4.0,07086,Other
+2_zM-VTPBINeV74yqlho9w,Ooi Sushi and Bar,42-36 Crescent St,320,4.5,11101,Japanese
+qS4z0imBynslgwsoEIJJFA,AYZA Private Party Events,11 W 31st St,23,5.0,10001,Other
+GxhrrAGhi91hwDRsAVApRA,48 Lounge,1221 Ave Of The Americas,360,4.0,10020,Other
+2C1hZNqiWWfQJAIvS9rvDQ,Ms Yoo,163 Allen St,162,4.0,10002,Korean
+TxHx1fb8O_MsfQB_ODdTQg,Hummus Place,305 Amsterdam Ave,703,4.0,10023,Mediterranean
+wrvIZaT5rTmk0YpIvQbvHw,Murray's Cheese Bar,28-30 Jackson Ave,870,4.0,11101,Other
+Xbd3lfDIz5nLagWWVTPO-g,Connolly's Pub & Restaurant,14 E 47th St,237,3.5,10017,Other
+lwfrB59lvpkCBw2FZD3X6w,Rex,864 10th Ave,634,4.5,10019,Other
+REC_m1Y4caJIXz8DDdgh-A,Mels,85 10th Ave,89,4.5,10011,Other
+hFeGYPt9M5dd_KXG9a_ePQ,Patsy's Pizzeria,206 E 60th St,468,3.5,10022,Italian
+25KSIumOXSnysnUIGAhNYw,Fuji Hibachi,321 W 42nd St,441,4.0,10036,Japanese
+XOnspIaW6mYVmrvgqOaYSQ,LoLo's Seafood Shack,303 W 116th St,828,4.0,10026,Caribbean
+13_1t_3MtLn-Y5ZBKHrmww,Louie's Chicken,1026 2nd Ave,127,4.5,10022,Other
+nZdo3ihbeX0l9eLBFS-nWg,DOMODOMO Jersey City,200 Greene St,690,4.5,07302,Japanese
+U6QXIbz1dly_3nzgfnHB4w,Bella Union,411 3rd Ave,57,4.0,10016,Other
+_g9P_uVoomq0MDa5z3PrIg,Times Square,1 Times Sq,1606,4.0,10036,Other
+8BNkZCUfF8h1iCpjk87y5g,Yefsi Estiatorio,1481 York Ave,377,4.0,10075,Greek
+UAMbfUodEHMAIHTltCtyLA,The Shell Restaurant,635 Amsterdam Ave,32,5.0,10025,Mediterranean
+mQX9JxLMlhVxaUMP9ADUHw,Kellari New York,19 W 44th St,755,3.5,10036,Greek
+nGyffNA23K4sO08rKB2E5g,Goodnight Sonny,134 1st Ave,323,4.0,10009,Other
+BdHWUmVFuo1R8Lctv4K1Ow,El Parador Cafe,325 E 34th St,503,4.0,10016,Mexican
+atR9OjUA-kcnjSYMDV9BJw,Ella's Cafe Espresso & Wine Bar,1465 2nd Ave,67,4.5,10075,Mediterranean
+nlmFAz_93gjSUfmvmv8Tog,Le Grainne Cafe,183 9th Ave,677,4.0,10011,French
+V0zC3awsklyxC0GFzmaTLg,Sfilatino Italian Gourmet,342 W 57th St,225,4.0,10019,Italian
+Nc7l1XSiMpf51MzQSPSzFA,Kuku Korean Cuisine Long Island City,1209 Jackson Ave,130,4.5,11101,Korean
+YFL1rAdlv7J0cswHVhvCtQ,Ruta Oaxaca Mexican Cuisine,35-03 Broadway,278,4.5,11106,Mexican
+KjN7kiCP4kZbt1dj8w3A3g,Steam - Shanghai Asian Fusion,470 6th Ave,113,4.5,10011,Other
+YvL7_ZXp-VAhrOCy1mb-cQ,bb.q Chicken - NY KTOWN,25 W 32nd St,937,3.5,10001,Korean
+gTEoEsssfbjl76Opf5bP9g,L'Amico NYC,849 6th Ave,574,3.5,10001,Italian
+51YLgpfHKfXxOkDFe9sT-w,Balade - Your Way,144 West 37th St,412,4.5,10018,Mediterranean
+c1kKAH9XMPNeaBhvnIP0FQ,Trinity Place,115 Broadway,424,4.0,10006,Irish
+8xpGj_YkI2X6QxqXUJPw7g,7th Street Burger,91 E 7th St,327,4.5,10009,Other
+XKy4Cy4uNgO7rxhH4yFJQQ,Mughlai Indian Cuisine,329 3rd Ave,462,4.0,10010,Indian
+nCH7SR7qXu0asO1GU3iqHw,The Press Lounge,653 11th Ave,1194,4.0,10036,Other
+Ci8ZAbhfNc0sj3kwj6XRmw,Beatnic Vegan Restaurant - Rock Center,1 Rockefeller Plz,522,4.0,10020,Other
+hGo9KArKThuOKxNbwmNpoA,Ruby's Cafe - Soho,219 Mulberry St,1615,4.0,10012,Other
+hLG3xdyCecICkEbbOeolug,Cafedelia,59 E 8th St,102,5.0,10003,Other
+b3lYtaBR1SlmH7NNDWi-vg,The Landing,1 Pennsylvania Plz,23,4.5,10119,Other
+oi39VAwo4-KGm_gSkWPCsQ,Tompkins Square Bagels - Avenue A,165 Avenue A,1536,4.0,10009,Other
+Wq9cARVEwOmoqfg41mNRNg,Noree ,274 Grand St,208,4.0,10002,Other
+S-WdvEU1X7J33whXWk1zmw,MUD,307 E 9th St,1346,4.0,10003,Other
+1PBlkYAEFhc0cpqNNvlkWg,The Ear Inn,326 Spring St,432,4.0,10013,Other
+wzHyRI6iW0rIY8rMb3KClA,Felice 71- Columbus,240 Columbus Ave,132,4.0,10023,Italian
+F2SwOvsP1_1JyDcCtnJzlQ,Tamam,1108 Lexington Ave,200,4.5,10075,Other
+M4pCWzdBCkp2g_d834a7Hw,Sauce,78 Rivington St,931,4.0,10002,Italian
+ULDVJYTT-47RqbLtlR_FUA,Ootoya Union Square,41 E 11th St,420,4.0,10003,Other
+uFER2lJGTXc_vcwRFE8j6Q,Urban Hawker,135 W 50th St,272,3.5,10020,Other
+jlbtOUU-dmPwLwSYXal2oQ,Virginia's,200 E 3rd St,21,5.0,10009,Other
+r2JVKalbucGf2nryywuL2w,Kopitiam,151 E Broadway,990,4.0,10002,Other
+tRb--Cls__cRNRhe4nNpFA,All & Sundry,312 W 58th St,42,4.5,10019,Other
+nF4TpiO5N12f5mYRyZ3ktg,Urbanspace,570 Lexington Ave,142,4.0,10022,Other
+Gy-0WM4CZp39vmjIr9MbDw,St. Jardim,183 W 10th St,39,4.5,10014,Other
+yDKChr-KX1Q1TbxUjaQJ_g,The Spotted Dog And Firecracker Wings,1154 1st Ave,129,4.0,10065,Irish
+7oAoNCxii09pyqLx8kH8GA,Essential By Christophe,103 W 77th St,42,5.0,10024,French
+q0HBfS9eJ9AeuaWQ3Ronqw,Joe G Pizza & Restaurant,244 W 56th St,177,4.0,10019,Italian
+Bm_OeNNmJ6Q8FXUDzGzfHw,K Minamoto,509 Madison Ave,167,4.5,10022,Japanese
+hthvpEL7JEbfxfD6iP9axQ,DeStefano's Steakhouse,593 Lorimer St,1031,4.5,11211,Other
+5oN2CFibQ-9dsITEk7B4UQ,The Storehouse NYC,757 6th Ave,74,4.0,10010,Other
+GAvyDral555vltKrupUcjw,Osteria Laguna,209 E 42nd St,418,3.5,10017,Italian
+njpz2-Vd-EnoFu5YiIBTVA,DK Restaurant NYC,207 W 36th St,371,3.5,10018,Other
+WFyGR8sW10AzbAoQ4T7Ung,The Paris Cafe,119 South St,377,4.0,10038,Other
+gosjtZsjmPTIBY4eB4qD2Q,Bravest,700 2nd Ave,235,4.0,10016,Other
+lgFApPVpbXnsIFw1CRJORw,Cellini Restaurant,65 E 54th St,182,4.0,10022,Italian
+OmVjYfqXQ1VmA4gyZ1euWg,Stout NYC,109 W 39th St,50,4.0,10018,Other
+q-QEwZi32JCnjb7zbY-PQw,Soogil,108 E 4th St,166,4.0,10003,Korean
+xX4W5pYtIfxdmg1FpzHa7A,Sushi Yolo,348 W 57th St,37,5.0,10019,Other
+iZy9jzm96eyop79Wc1m5Ng,Uncle Paul's Pizza,70 Vanderbilt Ave,464,4.0,10017,Other
+xpDp5zKQJHu7Ljgs1PKLJw,La Cabra,152 2nd Ave,285,4.5,10003,Other
+wQLNq8dQE4DxvUSQwzAagw,City Cakes,155 W 18th St,906,4.5,10011,Other
+5zcZZJhriNQ2R92r9drxug,Il Postino,133 E 61st St,153,4.0,10065,Italian
+1hdwhb6kzLxL3Lt3PxoHKA,Shoo Shoo Nolita,371 Broome St,282,4.0,10013,Mediterranean
+pYEyLT06ngEHlOtXlP64bg,Megan's,7 W 45th St,125,4.5,10036,Other
+HkUKhAMutvnsmCV0eNjwSg,O'Toole's Way,518 W 30th St,24,4.5,10001,Other
+jKaR8TTkLBAFmMIsKU786g,Pio Pio 3,1746 First Ave,822,4.0,10128,Peruvian
+EqraPrrv6gAedeVogvt8xw,Long Acre Tavern,146 W 47th St,81,4.0,10036,Other
+--SoNTeCXFUx56no0OgibQ,Bites of Xi'an,84 E 10th St,95,4.5,10003,Other
+9iC39Z1YjZKbrrCANgzBXg,Sergimmo Salumeria,456 9th Ave,730,4.0,10018,Italian
+fmf27DIVDUOZSi15gmdR-g,Toribro Ramen,366 W 52nd St,123,4.5,10019,Other
+dz88dkY9JaoXe2sF8MSjVQ,Benihana,47 W 56th St,1426,3.0,10019,Other
+kGkAU_WT0BjDZsSD5keRZA,Hard Rock Cafe,1501 Broadway,1036,3.0,10036,Other
+J0SZjwe0Rc-H6mzl0oByxQ,Mimi's Italian Restaurant & Piano Bar,984 2nd Ave,381,3.5,10022,Italian
+U6l20gH8YuOJMO8vF6_Ufw,Jajaja Mexicana,450 W 33rd St,66,4.5,10001,Mexican
+4SN0mwVSzVkFTpb_aH8cgg,La Cava,939 2nd Ave,278,4.0,10022,Italian
+Jqnm2_8Rt70YYQBhhFLwGQ,Omar's Mediterranean Cuisine,20 E 39th St,218,4.0,10016,Mediterranean
+qOp4T7UxfL6MgO41dN3Qlg,Whitmans,406 E 9th St,682,4.0,10009,Other
+zqyGYIiCXL1Hz8KVZxbylQ,Hello Saigon,180 Bleecker St,395,4.0,10012,Vietnamese
+iV5yy8EbjsPoYWtjRhB61Q,Nica Trattoria,354 E 84th St,163,4.5,10028,Italian
+tZmzqKgIUNhyhKNVXCpALA,Luke's Lobster Plaza Food Hall,The Plaza Food Hall,447,4.0,10019,Other
+UbqFMQMXnF_oBXG_ujDXAw,Tony Dragon's Grille,62nd St and Madison Ave,259,4.5,10065,Mediterranean
+kesYSgOJW5krU6L8n9qQ4Q,Ichibantei,100 3rd Ave,297,4.0,10003,Japanese
+3PabSEZ2ESexVFZznyozVw,Delice & Sarrasin,178 West Houston St,546,4.0,10014,French
+HFn1sPqKSzvxaMk2n2ZtJw,Kotobuki Manhattan,56 3rd Ave,724,4.0,10003,Japanese
+_c0MxccsmIBZcGLJpb4nSA,NaNa Thai Street,31 E 21st St,215,4.5,10010,Thai
+ZmxEeE9m0CdpvM3wVRvonQ,Sicily Osteria,330 W 46th St,113,4.0,10036,Other
+OZHywdX0bT2MCmyUHoQNHA,El Fish Marisquería,155 Amsterdam Ave 67th St,55,4.5,10023,Mexican
+HDniG0HHT4d3ErVWTGLxZQ,Bread N Wine,1417 Lexington Ave,70,4.5,10128,Other
+ZMQzXIiqdBIuicFySTWGKg,Dough,14 W 19th St,1683,4.0,10011,Other
+qQyknbv7ndx0HslLZd7xyg,A.cafe,42 W 58th St,279,4.0,10019,Other
+IY9NuJdUQHkTjBqZYfFNSQ,Sparks Steak House,210 E 46th St,1055,3.5,10017,Other
+6gzQLjzJk25ePm_JS7ZAug,Esme,999 Manhattan Ave,409,4.5,11222,Other
+L9GlASdPU4rZEc3FWCsE8Q,Wogies Bar & Grill,39 Greenwich Ave,358,4.0,10014,Other
+hLXe3RVRK39VUSPdvBjFEA,Kalye,251 Broome St,107,4.5,10002,Other
+QgEre4IFSHxbUvHMe8S12g,Pinocchio Restaurant,300 East 92 St,218,4.0,10128,Italian
+Fyrw-Vcs9krhRx7pGrPdtQ,Cornerstone Tavern,961 2nd Ave,307,3.5,10022,Other
+zn43M8VysK0NIPf72o5daw,Caffè Panna,77 Irving Pl,414,4.5,10003,Other
+qLJYqqj9vu0sdBJsxQKYjQ,Helen's,22 1/2 Ninth Ave,93,4.5,10014,Other
+smxIke5NSkMIExa6jLVw-g,Joe's Steam Rice Roll,422 Amsterdam Ave,220,4.5,10024,Other
+nSk_zCJESMKGLHyJTPPlZA,Bottino,246 10th Ave,402,4.0,10001,Italian
+tuP7STBjszTvKcQLeFMnkw,Nina's Great Burrito Bar,522 Columbus Ave,410,4.0,10024,Mexican
+RUsot7ERPbYA_wOKMlVpAQ,Azule Cantina,31 W 52nd St,19,4.0,10019,Other
+vyKBwzRdNX4yiJDIFv37iw,Oxomoco,128 Greenpoint Ave,607,4.0,11222,Mexican
+5HQGOq8NA9Pe5kNhVA4hMA,Plue,1575 Lexington Ave,27,5.0,10029,Thai
+Y1y5ZAryfXrYc3C2ybAewg,Redeye Grill,890 7th Ave,185,3.5,10019,Other
+s4dRPq3hzy2Df-pCDHcVSg,The Crooked Knife,29 E 30th St,740,3.5,10016,Other
+VFUHY1Y6pg0UaNmE3CS7cA,Verōnika,281 Park Ave S 22nd St Entrance,103,4.0,10010,Other
+Dqu-5RxNbbpBsL1Ssht9Ng,Hunan Slurp,112 1st Ave,264,4.0,10009,Chinese
+NlsxuhV6CUONOyI7xk7-mw,Hill Country Barbecue Market,30 W 26th St,2347,3.5,10010,Other
+DE0ROwygh-86i4s-WLp8wQ,Maman,239 Centre St,774,4.0,10013,Other
+U-VF6WSAWTN_6iDpWd5kqw,V-Nam Cafe,20 1st Ave,546,4.0,10009,Vietnamese
+hXqrA_Z3jZ8Q1O6ZehWSwQ,Sami's Kabab House,35-57 Crescent St,547,4.5,11106,Other
+et9pAFtSvNOct9Qcmtcf7g,Mido Japanese,612 Amsterdam Ave,273,4.0,10024,Japanese
+EXQ0x2W9RTydIlHAU9MU1A,Mimi's Pizza,217 E 86th St,163,4.5,10028,Other
+VCqNjupCWZ5INzOcyBMJSg,The Grey Dog - Union Square,90 University Pl,1206,4.0,10003,Other
+0rtVm7f20mdRfllWCAjuag,Pisillo Italian Panini - Chelsea,124 W 25th St,168,5.0,10001,Italian
+QEY6X80_WXLmCvpOxphzxA,Smør,441 E 12th St,153,4.5,10009,Other
+UTLEGU4mLmB26DiX99Ggxw,Tamashii Blue,47-36 Vernon Blvd,306,4.0,11101,Other
+_2V0as8DZDwVxAi3ZJ0JkA,Raku - It's Japanese II,57 W 76th St,416,4.0,10023,Japanese
+oWBDdSamOzxMJzsD_-seXg,Noodies,830 9th Ave,579,4.0,10019,Thai
+afuiZyn9oOyyCpuW7wGfHQ,L’Antica Pizzeria da Michele,81 Greenwich Ave,104,4.5,10014,Italian
+GLcrOZhVkSKevVIn-KeD1g,Rainbow Room,30 Rockefeller Plz,267,3.5,10112,Other
+6q-7JBqybIo_MFmFFtlDXQ,East Harlem Bottling,1711 Lexington Ave,243,4.0,10029,Other
+nFszVPUX4tj-oarjfBO0nw,Klong,7 St Marks Pl,1250,4.0,10003,Thai
+u5gLdI6l6zsPxL2kOYbyfw,Nizza,630 9th Ave,910,3.5,10036,Italian
+XO3yD87rTPz9o6Dy9qRaJg,The Spaniard,190 W 4th St,371,3.5,10014,Other
+qYqe-kArMUebiEvxUPUlVg,The Picnic Basket,65 W 37th St,486,4.0,10018,Other
+cGx9CYLxw6fqUQU-MFup8A,Milk & Cream Cereal Bar,159 Mott St,1143,4.5,10013,Other
+aiRctIzCj9J3UqBHd-Z3HQ,Please Don't Tell,113 St Marks Pl,1939,4.0,10009,Other
+ft2OPgLsquG9d7XrBLULng,Alidoro,18 E 39th St,282,4.0,10016,Italian
+0Bm2vjJW5Fw7_Maer6kDUw,Melt Shop,135 W 50th St,687,4.0,10019,Other
+jCRblp7F5IbUSySK_Y7Qiw,EONS Greek Food for Life,633 2nd Ave,364,4.0,10016,Greek
+vEYEs9McRtRdKBp2XfRNZA,Finestra Restaurant,1370 York Ave,127,4.0,10021,Italian
+BHlxwBMBIHX0ftiok_OMOQ,Vessel,20 Hudson Yards,501,4.5,10001,Other
+9T8Ootw4aqmaO42gI-wBSA,Botte UES,1606 1st Ave,116,4.0,10028,Italian
+G_2NoYWJnU6-wl77Em9e2g,Bourke Street Bakery,15 E 28th St,177,4.0,10016,Other
+rJ9V5bMbP_e9ABaTkPjAbA,Coco Pazzeria,1078 First Ave.,76,4.0,10022,Italian
+s-n0KW8iqiq-C96tpxm2rA,The Hairy Lemon Pub,28 Ave B,91,4.5,10009,Other
+qcvGRJT3QedXz7p3_CDmmA,Bel Ami,30 E 68th St,258,4.0,10065,French
+hQmH1FWXBWaIBD1tEV9_Hg,The Rum House,228 W 47th St,658,4.0,10036,Other
+QewvDmzx32nTIQwHPI5aNw,Hex & Company,1462 First Ave,60,4.0,10075,Other
+v4X0_xdRmVDQ5qgyGAubHw,Pickler Sandwich Shop,216 E 45th St,378,4.0,10017,Other
+3idAtiEXe_XfTcPoZC_DcQ,Westville,173 Avenue A,1144,4.0,10009,Mediterranean
+HZoA3-oZiS3DbMonlgclAw,Baccarat Hotel Grand Salon,28 W 53rd St,87,4.0,10019,Other
+mOL7TxRDJGutaEtVA8_hUg,Sadelle's New York,463 W Broadway,825,4.0,10012,Other
+kp5HpNxyJQGY13VDN-Yq9Q,Qanoon,180 9th Ave,144,4.0,10011,Mediterranean
+KQwPro9AkaehK5i4DI_g-A,Handcraft Burgers and Brew,110 W 40th St,121,4.5,10018,Other
+FvnExtQHPfz_crDCBTQ1iQ,Mint Masala,95 Macdougal St,348,4.0,10012,Indian
+HrbVnUR1-F0sareGcleyMw,Red Poke,885 8th Ave,159,4.5,10019,Korean
+sCHiXF4mZcsiY8_cBHNiqw,deep indian kitchen - indikitch,25 W 23rd St,747,4.0,10010,Indian
+KaBw8UEm8uZTV6YLsshYrQ,Pocha 32,15 W 32nd St,1722,3.5,10001,Korean
+tsvElYYtUBAEdfK6plnxlg,Villa Mosconi,69 Macdougal St,223,4.0,10012,Italian
+505bv6h3VnN6SekdHCr8Sw,Nocello,257 W 55th St,213,4.0,10019,Italian
+2wVirrAVg3ltAFHoHeXHMQ,Dim Sum Palace,59 2nd Ave,382,4.5,10003,Other
