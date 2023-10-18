@@ -13,3 +13,6 @@ class at Columbia University and New York University.
 3. Open `chat.html` in any browser.
 4. Start sending messages to test the chatbot interaction.
 
+###
+I did the project myself 
+s3 url: http://my-chatbot-cc-bd.s3-website-us-east-1.amazonaws.com/
